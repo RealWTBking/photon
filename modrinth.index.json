@@ -1,0 +1,43 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.0",
+  "name": "Photon",
+  "summary": "",
+  "files": [
+    {
+      "path": "mods/phosphor-universal.jar",
+      "hashes": {
+        "sha512": "31e5f1597212823ecca4fcbf3862616418610e3401f2c1e624c999cb1b594434bbdb8e387c667af778dc1ecb0b342e9d5d01a48c878cf2064ac8f2e5cea1c453",
+        "sha1": "d879d96235b150a106d89c290885c516eeabde69"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/oCBQFmrZ/versions/Q5XO7Sbf/phosphor-universal.jar"
+      ],
+      "fileSize": 1047285
+    },
+    {
+      "path": "mods/Born In A Barn 1.8-1.12-1.2.jar",
+      "hashes": {
+        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682",
+        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WfPGKC8F/versions/40q9Yeit/Born%20In%20A%20Barn%201.8-1.12-1.2.jar"
+      ],
+      "fileSize": 4847
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.9.4",
+    "forge": "12.17.0.2317"
+  }
+}
