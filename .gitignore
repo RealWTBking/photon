@@ -1,2 +1,5 @@
-*.jar
 *.exe
+*.jar
+*.mrpack
+*.rar
+*.zip
