@@ -51,7 +51,7 @@ body:
   attributes:
     label: Confirm
     options:
-    - label: This mod provides a performance increase to Minecraft. If the mod contains extra features that provide a performance increase, they can be disabled.
+    - label: This mod provides a performance increase to Minecraft. If the mod contains extra features that do not provide a performance increase, they can be disabled.
   validations:
     required: true
 
