@@ -59,8 +59,8 @@ body:
     label: Confirm
     options:
     - label: I am using the latest release of Photon for my specified Modloader and Minecraft Version (If not sure, check [here](https://modrinth/modpack/phtn/versions/).)
-    validations:
-      required: true
+  validations:
+    required: true
 
 - type: checkboxes
   attributes:
@@ -81,5 +81,5 @@ body:
     description: Screenshots, logs, and other files that relate to the bug (please use a link to [mclo.gs](https://mclo.gs/) when submitting a log file).
     placeholder: |
       Tip: Select this text box, then drag and drop the files here.
-    validations:
-      required: false
+  validations:
+    required: false
