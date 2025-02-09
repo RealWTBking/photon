@@ -1,5 +1,5 @@
 name: Other
-description: Issue that doesn't fit under any other available template.
+description: Issue that does not fit under any other available template.
 labels: other
 body:
 - type: markdown
@@ -12,9 +12,9 @@ body:
   attributes:
     label: Confirm
     options:
-    - label: My issue doesn't fit within the criteria of any of the other templates currently available.
-    validations:
-      required: true
+    - label: My issue does not fit within the criteria of any of the other templates currently available.
+  validations:
+    required: true
 
 - type: textarea
   attributes:
