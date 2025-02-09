@@ -57,8 +57,9 @@ body:
 - type: checkboxes
   attributes:
     label: Confirm
+    description: If not sure, check at https://modrinth/modpack/phtn/versions/
     options:
-    - label: I am using the latest release of Photon for my specified Modloader and Minecraft Version. If not sure, check at https://modrinth/modpack/phtn/versions/
+    - label: I am using the latest release of Photon for my specified Modloader and Minecraft Version.
   validations:
     required: true
 
