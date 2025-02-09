@@ -58,7 +58,7 @@ body:
   attributes:
     label: Confirm
     options:
-    - label: I am using the latest release of Photon for my specified Modloader and Minecraft Version (If not sure, check [here](https://modrinth/modpack/phtn/versions/).)
+    - label: I am using the latest release of Photon for my specified Modloader and Minecraft Version (If not sure, check <a href="https://modrinth/modpack/phtn/versions/">here</a>.)
   validations:
     required: true
 
@@ -78,7 +78,7 @@ body:
 - type: textarea
   attributes:
     label: Additional Files
-    description: Screenshots, logs, and other files that relate to the bug (please use a link to [mclo.gs](https://mclo.gs/) when submitting a log file).
+    description: Screenshots, logs, and other files that relate to the bug (please use a link to <a href="https://mclo.gs/">mclo.gs</a> when submitting a log file).
     placeholder: |
       Tip: Select this text box, then drag and drop the files here.
   validations:
