@@ -1,0 +1,24 @@
+name: Other
+description: Issue that doesn't fit under any other available template.
+labels: other
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thank you for taking the time to report the issue you've had with Photon.
+      Before you submit an issue, please confirm that your issue hasn't already been addressed [here](https://github.com/PhotonMC/home/issues?q=is%3Aissue).
+
+- type: checkboxes
+  attributes:
+    label: Confirm
+    options:
+    - label: My issue doesn't fit within the criteria of any of the other templates currently available.
+    validations:
+      required: true
+
+- type: textarea
+  attributes:
+    label: Description
+    description: In a concise manner, describe the issue.
+  validations:
+    required: true

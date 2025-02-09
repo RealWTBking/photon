@@ -1,0 +1,85 @@
+name: Bug Report
+description: Report a bug with a Photon modpack installation
+labels: bug
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thank you for taking the time to report a bug you've found with Photon.
+      Before you submit an issue, please confirm that your issue hasn't already been addressed [here](https://github.com/PhotonMC/home/issues?q=is%3Aissue).
+
+- type: dropdown
+  attributes:
+    label: Launcher
+    description: What Launcher are you using Photon with?
+    options:
+    - Modrinth
+    - Other
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: Modloader
+    description: What Modloader are you using Photon with?
+    options:
+    - Fabric
+    - Forge
+    - NeoForge
+    - Quilt
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: Minecraft Version
+    description: What Minecraft version are you using Photon with?
+    options:
+    - 1.21.4
+    - 1.21.1
+    - 1.20.6
+    - 1.20.4
+    - 1.20.1
+    - 1.19.4
+    - 1.18.2
+    - 1.17.1
+    - 1.16.5
+    - 1.15.2
+    - 1.14.4
+    - 1.12.2
+    - 1.11.2
+    - 1.10.2
+    - 1.9.4
+    - 1.8.9
+  validations:
+    required: true
+
+- type: checkboxes
+  attributes:
+    label: Confirm
+    options:
+    - label: I am using the latest release of Photon for my specified Modloader and Minecraft Version (If not sure, check [here](https://modrinth/modpack/phtn/versions/).)
+    validations:
+      required: true
+
+- type: checkboxes
+  attributes:
+    label: Modified
+    options:
+    - label: I have modified my Photon installation (added/removed mods, edited config files, etc.).
+
+- type: textarea
+  attributes:
+    label: Bug Description
+    description: In a concise manner, describe the bug you are experiencing.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Additional Files
+    description: Screenshots, logs, and other files that relate to the bug (please use a link to [mclo.gs](https://mclo.gs/) when submitting a log file).
+    placeholder: |
+      Tip: Select this text box, then drag and drop the files here.
+    validations:
+      required: false
