@@ -1,30 +1,30 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0",
+  "versionId": "1.0.1",
   "name": "Photon",
   "summary": "",
   "files": [
     {
-      "path": "mods/_MixinBootstrap-1.1.0.jar",
+      "path": "mods/vintagefix-0.5.1.jar",
       "hashes": {
-        "sha512": "973aeff50dd8e1976895d36917e3f06334dc70800dfbd12639e522fb2b71e130db3865fd67d494e2d13e2ca67efe76ecfc3ee60d138e880dc884ac9f82c35eb8",
-        "sha1": "f9173708d3d2850ab8df778b9594b81cb94b1df8"
+        "sha1": "6cfbd3ded0d8d6c47e3e5aa822f38fb753ebae3e",
+        "sha512": "8778757edc53b6cca3f66e24c253a3658f8b5519f4b60f9b139d1e0ef3d2e9c2b2cc3727116ae62251339aae663249edf918b1a48c5b7476499f5da990ef32f3"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/6a16628x/versions/hOGSWOX8/_MixinBootstrap-1.1.0.jar"
+        "https://cdn.modrinth.com/data/e6vNsbAm/versions/FyajaeIv/vintagefix-0.5.1.jar"
       ],
-      "fileSize": 1119478
+      "fileSize": 1017716
     },
     {
       "path": "mods/`FermiumBooter-1.1.1.jar",
       "hashes": {
-        "sha1": "c62eb3446c827f02c9f3130fbb37991cea616fb9",
-        "sha512": "ef511fcd34c3dd6939f07f0fffe6c9f175a2a140dd7243e1831a30ce7e75e434b42498382a4f467fe55f7fea352548e1d826dd5930ce8091aad2320ac514d48d"
+        "sha512": "ef511fcd34c3dd6939f07f0fffe6c9f175a2a140dd7243e1831a30ce7e75e434b42498382a4f467fe55f7fea352548e1d826dd5930ce8091aad2320ac514d48d",
+        "sha1": "c62eb3446c827f02c9f3130fbb37991cea616fb9"
       },
       "env": {
         "client": "required",
@@ -36,55 +36,55 @@
       "fileSize": 1271186
     },
     {
-      "path": "mods/!mixinbooter-10.4.jar",
+      "path": "mods/particleculling-1.12.2-v1.4.3.jar",
       "hashes": {
-        "sha512": "a1c37a03d700ef60f95bff417a488080a7bb0efb20e03f4b2879f5e208bfba917f1c12e74a232e927d2c0c0ce2298ad6f5ed7365fd01bf7fe28d6f9fe72de2b4",
-        "sha1": "ee287cc1cee8c602eb6fefe0190ed3d0859ae99a"
+        "sha512": "127870b83a0124988e127a43b952d994cae781d2cbf6885ec0c4daa27ec16a72a33e5bdc30f7f2cf7f962ed9ff2a4dbdd86ffcd6a4a5ed731b74523f4fa10f5d",
+        "sha1": "2c4847ca6c7cf1d41ff320943394ff61028c7e72"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/G1ckZuWK/versions/LFODQuXB/%21mixinbooter-10.4.jar"
+        "https://cdn.modrinth.com/data/l7imhLoC/versions/kwzcEeSC/particleculling-1.12.2-v1.4.3.jar"
       ],
-      "fileSize": 2381236
+      "fileSize": 17450
     },
     {
-      "path": "mods/!Red-Core-MC-1.7-1.12-0.5.1.jar",
+      "path": "mods/Alfheim-1.5.jar",
       "hashes": {
-        "sha512": "af65b6d31dbcd6acedc9d82b85b0536faf1355d58ecef9d9dbd4f04b231b8d5b00963390a6a69f13e69da44a052350fcdd3ecb885dbbb7f5d16e0193256c6b13",
-        "sha1": "7b948311155c1ba8d3f2b1a18a1caa751f1925d0"
+        "sha512": "60decf990944a3a9c17a93429955f5eff6f02a5aa145fe57399d7b6fa7e8801350ba99b374bd44a5809e20081355601ea550e09f2f8c26a4b63e3aec12e16729",
+        "sha1": "96d30414e0ff79cbf4144ac2771617e3a120506e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/srzJgOEn/versions/3WwOBT2W/Alfheim-1.5.jar"
+      ],
+      "fileSize": 70045
+    },
+    {
+      "path": "mods/fermiumasm-5.23.jar",
+      "hashes": {
+        "sha512": "01c6f48300766e8c3569cc16e2d9e12757c321be2aa756e5cdb98c6258109c1a864ae1705318ab85069280968d193518a3a79b55280363225dd809ab66961a8f",
+        "sha1": "84b04c6a03be97fea2db39a202bc746af6abcd46"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/iRzbJEus/versions/EgeSQe7e/%21Red-Core-MC-1.7-1.12-0.5.1.jar"
+        "https://cdn.modrinth.com/data/LnSdxRsG/versions/ImR6ZvRq/fermiumasm-5.23.jar"
       ],
-      "fileSize": 130772
-    },
-    {
-      "path": "mods/Alfheim-1.4.jar",
-      "hashes": {
-        "sha1": "3f0db29f174b28ae23e3f72c12adb3a7cb716b8b",
-        "sha512": "81e51756ec064f4ac8bca9cde5ebffec205cecd9a399761593dfeb6d3e6937db4ad5059cdb9eb942d1b2c82fb8adf94fc0be22edc434e02f9396da1c1e3b406a"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/srzJgOEn/versions/wjgtKbab/Alfheim-1.4.jar"
-      ],
-      "fileSize": 69745
+      "fileSize": 517326
     },
     {
       "path": "mods/Born In A Barn 1.8-1.12-1.2.jar",
       "hashes": {
-        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949",
-        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682"
+        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682",
+        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949"
       },
       "env": {
         "server": "required",
@@ -111,49 +111,49 @@
       "fileSize": 41478
     },
     {
-      "path": "mods/particleculling-1.12.2-v1.4.3.jar",
+      "path": "mods/!Red-Core-MC-1.8-1.12-0.6.jar",
       "hashes": {
-        "sha1": "2c4847ca6c7cf1d41ff320943394ff61028c7e72",
-        "sha512": "127870b83a0124988e127a43b952d994cae781d2cbf6885ec0c4daa27ec16a72a33e5bdc30f7f2cf7f962ed9ff2a4dbdd86ffcd6a4a5ed731b74523f4fa10f5d"
+        "sha512": "5816b5afc3e0ff0b9df5ccfd99375d165eb16f40806c2bd65a378022f4bca8fc2022ce26ebb5ac4e2aecb8ef2634043af9764527fd0031e2543da4b079e7f8a7",
+        "sha1": "ac72ee1e7777a3f20ace120c301fde68a3dfea23"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/l7imhLoC/versions/kwzcEeSC/particleculling-1.12.2-v1.4.3.jar"
+        "https://cdn.modrinth.com/data/iRzbJEus/versions/SWvZZBIP/%21Red-Core-MC-1.8-1.12-0.6.jar"
       ],
-      "fileSize": 17450
+      "fileSize": 151154
     },
     {
-      "path": "mods/vintagefix-0.5.1.jar",
+      "path": "mods/!mixinbooter-10.5.jar",
       "hashes": {
-        "sha512": "8778757edc53b6cca3f66e24c253a3658f8b5519f4b60f9b139d1e0ef3d2e9c2b2cc3727116ae62251339aae663249edf918b1a48c5b7476499f5da990ef32f3",
-        "sha1": "6cfbd3ded0d8d6c47e3e5aa822f38fb753ebae3e"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/e6vNsbAm/versions/FyajaeIv/vintagefix-0.5.1.jar"
-      ],
-      "fileSize": 1017716
-    },
-    {
-      "path": "mods/fermiumasm-5.23.jar",
-      "hashes": {
-        "sha1": "84b04c6a03be97fea2db39a202bc746af6abcd46",
-        "sha512": "01c6f48300766e8c3569cc16e2d9e12757c321be2aa756e5cdb98c6258109c1a864ae1705318ab85069280968d193518a3a79b55280363225dd809ab66961a8f"
+        "sha512": "981276a5a40cd0197adabf01da70cc2cb17bc387e71064fbce7a5c94e49fd73bf4c4be17dc64b1206444d5ec9a54f2b604fce7721ef0aa76636ea3b4daa569d5",
+        "sha1": "b54a69ed72273227d94c419d3b040ace7e0e0c68"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/LnSdxRsG/versions/ImR6ZvRq/fermiumasm-5.23.jar"
+        "https://cdn.modrinth.com/data/G1ckZuWK/versions/UGyawBq4/%21mixinbooter-10.5.jar"
       ],
-      "fileSize": 517326
+      "fileSize": 2380953
+    },
+    {
+      "path": "mods/_MixinBootstrap-1.1.0.jar",
+      "hashes": {
+        "sha512": "973aeff50dd8e1976895d36917e3f06334dc70800dfbd12639e522fb2b71e130db3865fd67d494e2d13e2ca67efe76ecfc3ee60d138e880dc884ac9f82c35eb8",
+        "sha1": "f9173708d3d2850ab8df778b9594b81cb94b1df8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6a16628x/versions/hOGSWOX8/_MixinBootstrap-1.1.0.jar"
+      ],
+      "fileSize": 1119478
     }
   ],
   "dependencies": {
