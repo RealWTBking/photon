@@ -5,6 +5,8 @@
 
 # Photon
 
+Minecraft optimization framework prioritizing performance, simplicity, and compatibility. 1.8.9-1.21.4 across Fabric, Forge, NeoForge, and Quilt!
+
 [![PhotonMC](github-link.svg)](https://github.com/PhotonMC)
 [![Read the Wiki](wiki-link.svg)](https://github.com/PhotonMC/home/wiki)
 
