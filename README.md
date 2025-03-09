@@ -27,7 +27,7 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
 <!--Installation-->
 ## Installation and Setup
 
-**It is assumed that you have already installed and setup the Modrinth app or another modded launcher that supports Modrinth packs. This installation guide will be for Modrinth, although other launchers should be a similar process. If you would like to download the Modrinth app, you can do so here: https://modrinth.com/app.**
+**It is assumed that you have already installed and setup the Modrinth app or another modded launcher that supports Modrinth packs. This installation guide will be for the Modrinth app, although other launchers should be a similar process. If you would like to download the Modrinth app, you can do so here: https://modrinth.com/app.**
 
 <details>
     <summary><h3>Standalone</h3></summary>
@@ -76,7 +76,7 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
         <li>You may use this instance as your own custom modpack</li>
     </ol>
     <h4>Updating</h4>
-    <b>*Backup your modpack before updating Photon!*
+    <b>*Backup your modpack before updating Photon!*</b>
     <ol>
         <li>Perform the <code><b>Downloading</b></code> steps listed above for a new, temporary Photon instance</li>
         <li>Select the temporary Photon instance (<b>Don't click <code>Play</code></b>)</li>
@@ -94,7 +94,7 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
 
 <details>
     <summary><h3>Preexisting Modpack</h3></summary>
-    Installation guide for using Photon in a preexisting modpack. <b>*Backup your modpack before incorporating Photon into it!* 
+    Installation guide for using Photon in a preexisting modpack. <b>*Backup your modpack before incorporating Photon into it!*</b>
     <h4>Downloading</h4>
     <ol>
         <li>Launch the Modrinth app</li>
