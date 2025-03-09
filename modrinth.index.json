@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0",
+  "versionId": "1.0.1",
   "name": "Photon",
   "summary": "",
   "files": [
@@ -21,6 +21,51 @@
       "fileSize": 98778
     },
     {
+      "path": "mods/canary-mc1.19.4-0.2.7.jar",
+      "hashes": {
+        "sha1": "d795e802e3b3ec303330b0c361933842212008c0",
+        "sha512": "6fe9fd41f8558b984256b73e56cded18da1a4f7604b6335314f2661d38b4b98cd901e356e3a50089b19702a961d9435671b06d859bafa29fac4077a76cae4ddf"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qa2H4BS9/versions/UgJanwuo/canary-mc1.19.4-0.2.7.jar"
+      ],
+      "fileSize": 430477
+    },
+    {
+      "path": "mods/entityculling-forge-1.7.3-mc1.19.4.jar",
+      "hashes": {
+        "sha1": "3ebcc85da11e11ee3a7356731f665be8bc5ebfa9",
+        "sha512": "5f32a7784651c1b75f0aa1e014457adb53c726a1c8e2f040c466b0125b2656241711af1110d9e1d2693706facf069960eca6a43d77857a5dd2a0fd35012a1faa"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/ljh2gd1z/entityculling-forge-1.7.3-mc1.19.4.jar"
+      ],
+      "fileSize": 78049
+    },
+    {
+      "path": "mods/ferritecore-5.2.0-forge.jar",
+      "hashes": {
+        "sha1": "713989537a8533f758133627ee21e5f46bf3ca43",
+        "sha512": "29ed1c3cd8a3e95b4891d958a5d2399fe05a505d90c9f4d44d845852da26d03b4161c2d3322a172b0815117fbbc024d9df13f20ff171aaa80bf1a9d0672ce5be"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/zI3uKvrU/ferritecore-5.2.0-forge.jar"
+      ],
+      "fileSize": 122799
+    },
+    {
       "path": "mods/modernfix-forge-5.7.2+mc1.19.4.jar",
       "hashes": {
         "sha512": "c920b6f24276f79d2e14392f1684dd6aeef53dbf8231060acd4a9f8f26adcd2f588cd587abb0defdba81514159d4d4a846ee09bc4431a065181501e4e0bb2040",
@@ -34,21 +79,6 @@
         "https://cdn.modrinth.com/data/nmDcB62a/versions/NufUMuUS/modernfix-forge-5.7.2%2Bmc1.19.4.jar"
       ],
       "fileSize": 630767
-    },
-    {
-      "path": "mods/ferritecore-5.2.0-forge.jar",
-      "hashes": {
-        "sha512": "29ed1c3cd8a3e95b4891d958a5d2399fe05a505d90c9f4d44d845852da26d03b4161c2d3322a172b0815117fbbc024d9df13f20ff171aaa80bf1a9d0672ce5be",
-        "sha1": "713989537a8533f758133627ee21e5f46bf3ca43"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/zI3uKvrU/ferritecore-5.2.0-forge.jar"
-      ],
-      "fileSize": 122799
     },
     {
       "path": "mods/ImmediatelyFast-Forge-1.2.11+1.19.4.jar",
@@ -66,19 +96,19 @@
       "fileSize": 393170
     },
     {
-      "path": "mods/rubidium-0.6.4.jar",
+      "path": "mods/saturn-mc1.19.4-0.0.7.jar",
       "hashes": {
-        "sha512": "dce21dbbd1147d4961e869e0d0486c0bf8e0bca6f7674bb9c4557b629150175cda842c15b64cb7d424ad66617bb86df1d89d376901b3666ddd8c466701d49f38",
-        "sha1": "ad26a9867040b41dd77039f6b55c54705639b3f3"
+        "sha512": "8e1f468c1896a0d01331f14a017a00e521960c303d58fb01e67c43d50c9145dcc48a32c44ad924458702493f16a8cf4ec24cd8eef4247c177ba137e34215389f",
+        "sha1": "ebd8de760b848c27c38e7d9455e3530aff79a045"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/4ZqxOvjD/versions/lCbMhmSa/rubidium-0.6.4.jar"
+        "https://cdn.modrinth.com/data/2eT495vq/versions/ir0yKJaP/saturn-mc1.19.4-0.0.7.jar"
       ],
-      "fileSize": 599872
+      "fileSize": 21524
     },
     {
       "path": "mods/BadOptimizations-2.1.4-1.19.4.jar",
@@ -96,53 +126,23 @@
       "fileSize": 422943
     },
     {
-      "path": "mods/saturn-mc1.19.4-0.0.7.jar",
+      "path": "mods/rubidium-0.6.4.jar",
       "hashes": {
-        "sha1": "ebd8de760b848c27c38e7d9455e3530aff79a045",
-        "sha512": "8e1f468c1896a0d01331f14a017a00e521960c303d58fb01e67c43d50c9145dcc48a32c44ad924458702493f16a8cf4ec24cd8eef4247c177ba137e34215389f"
+        "sha512": "dce21dbbd1147d4961e869e0d0486c0bf8e0bca6f7674bb9c4557b629150175cda842c15b64cb7d424ad66617bb86df1d89d376901b3666ddd8c466701d49f38",
+        "sha1": "ad26a9867040b41dd77039f6b55c54705639b3f3"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/2eT495vq/versions/ir0yKJaP/saturn-mc1.19.4-0.0.7.jar"
+        "https://cdn.modrinth.com/data/4ZqxOvjD/versions/lCbMhmSa/rubidium-0.6.4.jar"
       ],
-      "fileSize": 21524
-    },
-    {
-      "path": "mods/canary-mc1.19.4-0.2.7.jar",
-      "hashes": {
-        "sha512": "6fe9fd41f8558b984256b73e56cded18da1a4f7604b6335314f2661d38b4b98cd901e356e3a50089b19702a961d9435671b06d859bafa29fac4077a76cae4ddf",
-        "sha1": "d795e802e3b3ec303330b0c361933842212008c0"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/qa2H4BS9/versions/UgJanwuo/canary-mc1.19.4-0.2.7.jar"
-      ],
-      "fileSize": 430477
-    },
-    {
-      "path": "mods/entityculling-forge-1.7.2-mc1.19.4.jar",
-      "hashes": {
-        "sha512": "c07e0e13a430d3054a8ae70fd423d0ab2103cdcc9445e80029d08bd2bdafc06230eb26206f21f4a51f8366ce6bf8ef50f99a378bf26a0d5770700541bf1f32fa",
-        "sha1": "ab446d4445e96e54a7d074b324c1b33c8af861aa"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/a47vgutS/entityculling-forge-1.7.2-mc1.19.4.jar"
-      ],
-      "fileSize": 73587
+      "fileSize": 599872
     }
   ],
   "dependencies": {
-    "minecraft": "1.19.4",
-    "forge": "45.3.17"
+    "forge": "45.3.17",
+    "minecraft": "1.19.4"
   }
 }
