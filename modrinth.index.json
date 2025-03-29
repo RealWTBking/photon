@@ -1,19 +1,34 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.1",
+  "versionId": "1.0.2",
   "name": "Photon",
   "summary": "",
   "files": [
     {
-      "path": "mods/radon-0.8.2.jar",
+      "path": "mods/BadOptimizations-2.1.4-1.19.4.jar",
       "hashes": {
-        "sha1": "f971a5b3da7a1aaa43da063839d6da9646482874",
-        "sha512": "1767ff2d8ae889938a6b1f5d07b75763068855d2f8a0985109ef34317f0bc7b66cd2a76c76d8c39afdad32497e5379e83367c633cadff81231a2254e033bba52"
+        "sha512": "2455f656b056a1e3365a90079a03ef16c0a0bb10571f2ad10f0870f16c55cb32c838d0ecfadc35726b28ee768522dadb80cd3a43aeb878fadcd348405741ee75",
+        "sha1": "330c0dd1f933d4ae5911cddc04324541dd0aea07"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/xhGlhCut/BadOptimizations-2.1.4-1.19.4.jar"
+      ],
+      "fileSize": 422943
+    },
+    {
+      "path": "mods/radon-0.8.2.jar",
+      "hashes": {
+        "sha512": "1767ff2d8ae889938a6b1f5d07b75763068855d2f8a0985109ef34317f0bc7b66cd2a76c76d8c39afdad32497e5379e83367c633cadff81231a2254e033bba52",
+        "sha1": "f971a5b3da7a1aaa43da063839d6da9646482874"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/4AiJdRfV/versions/nswAOup6/radon-0.8.2.jar"
@@ -21,70 +36,10 @@
       "fileSize": 98778
     },
     {
-      "path": "mods/canary-mc1.19.4-0.2.7.jar",
-      "hashes": {
-        "sha1": "d795e802e3b3ec303330b0c361933842212008c0",
-        "sha512": "6fe9fd41f8558b984256b73e56cded18da1a4f7604b6335314f2661d38b4b98cd901e356e3a50089b19702a961d9435671b06d859bafa29fac4077a76cae4ddf"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/qa2H4BS9/versions/UgJanwuo/canary-mc1.19.4-0.2.7.jar"
-      ],
-      "fileSize": 430477
-    },
-    {
-      "path": "mods/entityculling-forge-1.7.3-mc1.19.4.jar",
-      "hashes": {
-        "sha1": "3ebcc85da11e11ee3a7356731f665be8bc5ebfa9",
-        "sha512": "5f32a7784651c1b75f0aa1e014457adb53c726a1c8e2f040c466b0125b2656241711af1110d9e1d2693706facf069960eca6a43d77857a5dd2a0fd35012a1faa"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/ljh2gd1z/entityculling-forge-1.7.3-mc1.19.4.jar"
-      ],
-      "fileSize": 78049
-    },
-    {
-      "path": "mods/ferritecore-5.2.0-forge.jar",
-      "hashes": {
-        "sha1": "713989537a8533f758133627ee21e5f46bf3ca43",
-        "sha512": "29ed1c3cd8a3e95b4891d958a5d2399fe05a505d90c9f4d44d845852da26d03b4161c2d3322a172b0815117fbbc024d9df13f20ff171aaa80bf1a9d0672ce5be"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/zI3uKvrU/ferritecore-5.2.0-forge.jar"
-      ],
-      "fileSize": 122799
-    },
-    {
-      "path": "mods/modernfix-forge-5.7.2+mc1.19.4.jar",
-      "hashes": {
-        "sha512": "c920b6f24276f79d2e14392f1684dd6aeef53dbf8231060acd4a9f8f26adcd2f588cd587abb0defdba81514159d4d4a846ee09bc4431a065181501e4e0bb2040",
-        "sha1": "8519827c96190914ff720711a0661f3f42b2601a"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/NufUMuUS/modernfix-forge-5.7.2%2Bmc1.19.4.jar"
-      ],
-      "fileSize": 630767
-    },
-    {
       "path": "mods/ImmediatelyFast-Forge-1.2.11+1.19.4.jar",
       "hashes": {
-        "sha512": "e082a1795f95620df68688785726026afc67d9a1a3fce27e414c0f62156e30121cc5eddca77ac43b627de2dc145970447cd76b6996c7cacd6c88d4ceb559487a",
-        "sha1": "7f3c950bd691508272aee95ade6140b28bbcd673"
+        "sha1": "7f3c950bd691508272aee95ade6140b28bbcd673",
+        "sha512": "e082a1795f95620df68688785726026afc67d9a1a3fce27e414c0f62156e30121cc5eddca77ac43b627de2dc145970447cd76b6996c7cacd6c88d4ceb559487a"
       },
       "env": {
         "client": "required",
@@ -111,38 +66,83 @@
       "fileSize": 21524
     },
     {
-      "path": "mods/BadOptimizations-2.1.4-1.19.4.jar",
-      "hashes": {
-        "sha512": "2455f656b056a1e3365a90079a03ef16c0a0bb10571f2ad10f0870f16c55cb32c838d0ecfadc35726b28ee768522dadb80cd3a43aeb878fadcd348405741ee75",
-        "sha1": "330c0dd1f933d4ae5911cddc04324541dd0aea07"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/xhGlhCut/BadOptimizations-2.1.4-1.19.4.jar"
-      ],
-      "fileSize": 422943
-    },
-    {
       "path": "mods/rubidium-0.6.4.jar",
       "hashes": {
         "sha512": "dce21dbbd1147d4961e869e0d0486c0bf8e0bca6f7674bb9c4557b629150175cda842c15b64cb7d424ad66617bb86df1d89d376901b3666ddd8c466701d49f38",
         "sha1": "ad26a9867040b41dd77039f6b55c54705639b3f3"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/4ZqxOvjD/versions/lCbMhmSa/rubidium-0.6.4.jar"
       ],
       "fileSize": 599872
+    },
+    {
+      "path": "mods/ferritecore-5.2.0-forge.jar",
+      "hashes": {
+        "sha512": "29ed1c3cd8a3e95b4891d958a5d2399fe05a505d90c9f4d44d845852da26d03b4161c2d3322a172b0815117fbbc024d9df13f20ff171aaa80bf1a9d0672ce5be",
+        "sha1": "713989537a8533f758133627ee21e5f46bf3ca43"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/zI3uKvrU/ferritecore-5.2.0-forge.jar"
+      ],
+      "fileSize": 122799
+    },
+    {
+      "path": "mods/canary-mc1.19.4-0.2.7.jar",
+      "hashes": {
+        "sha1": "d795e802e3b3ec303330b0c361933842212008c0",
+        "sha512": "6fe9fd41f8558b984256b73e56cded18da1a4f7604b6335314f2661d38b4b98cd901e356e3a50089b19702a961d9435671b06d859bafa29fac4077a76cae4ddf"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qa2H4BS9/versions/UgJanwuo/canary-mc1.19.4-0.2.7.jar"
+      ],
+      "fileSize": 430477
+    },
+    {
+      "path": "mods/modernfix-forge-5.7.2+mc1.19.4.jar",
+      "hashes": {
+        "sha1": "8519827c96190914ff720711a0661f3f42b2601a",
+        "sha512": "c920b6f24276f79d2e14392f1684dd6aeef53dbf8231060acd4a9f8f26adcd2f588cd587abb0defdba81514159d4d4a846ee09bc4431a065181501e4e0bb2040"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/NufUMuUS/modernfix-forge-5.7.2%2Bmc1.19.4.jar"
+      ],
+      "fileSize": 630767
+    },
+    {
+      "path": "mods/entityculling-forge-1.7.4-mc1.19.4.jar",
+      "hashes": {
+        "sha512": "cd2813a3426d3f16266a8d3496e197f5eebcc6973519b3e07a400c423a86c8d10c507a216d684cd51c22aa6f13752d9d3d5a6b49f45bf16f7a5d88f1de30a228",
+        "sha1": "3e0fd74a157227121ca3b411d14187bbceba54a4"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/PGpP6jLM/entityculling-forge-1.7.4-mc1.19.4.jar"
+      ],
+      "fileSize": 75294
     }
   ],
   "dependencies": {
-    "forge": "45.3.17",
-    "minecraft": "1.19.4"
+    "minecraft": "1.19.4",
+    "forge": "45.4.0"
   }
 }
