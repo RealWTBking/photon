@@ -5,7 +5,7 @@
 
 # Photon
 
-Minecraft optimization framework prioritizing performance, simplicity, and compatibility. 1.8.9-1.21.4 across Fabric, Forge, NeoForge, and Quilt!
+Minecraft optimization framework prioritizing performance, simplicity, and compatibility. 1.8.9-1.21.4 (1.21.5 Beta) across Fabric, Forge, NeoForge, and Quilt!
 
 [![PhotonMC](github-link.svg)](https://github.com/PhotonMC)
 [![Read the Wiki](wiki-link.svg)](https://github.com/PhotonMC/home/wiki)
@@ -17,7 +17,7 @@ Minecraft optimization framework prioritizing performance, simplicity, and compa
 
 </div>
 
-Photon is a client-side modpack that dramatically improves performance on Minecraft 1.8.9-1.21.4 across Fabric, Forge, NeoForge, and Quilt. Photon is deliberately built with simplicity and compatibility in mind. As a result, Photon can be used as a framework for building larger, content-focused modpacks.
+Photon is a client-side modpack that dramatically improves performance on Minecraft 1.8.9-1.21.4 (1.21.5 Beta) across Fabric, Forge, NeoForge, and Quilt. Photon is deliberately built with simplicity and compatibility in mind. As a result, Photon can be used as a framework for building larger, content-focused modpacks.
 
 <!--Download-->
 ## Download
@@ -142,6 +142,7 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
 <details>
     <summary>Photon <img src="fabric-logo.png" style="vertical-align:middle; display:inline">Fabric Repositories</summary>
     <ul>
+        <li><a href="https://github.com/PhotonMC/fabric-1.21.5">Photon Fabric 1.21.5</a></li>
         <li><a href="https://github.com/PhotonMC/fabric-1.21.4">Photon Fabric 1.21.4</a></li>
         <li><a href="https://github.com/PhotonMC/fabric-1.21.1">Photon Fabric 1.21.1</a></li>
         <li><a href="https://github.com/PhotonMC/fabric-1.20.6">Photon Fabric 1.20.6</a></li>
@@ -179,6 +180,7 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
 <details>
     <summary>Photon <img src="neoforge-logo.png" style="vertical-align:middle; display:inline">NeoForge Repositories</summary>
     <ul>
+        <li><a href="https://github.com/PhotonMC/neoforge-1.21.5">Photon NeoForge 1.21.5</a></li>
         <li><a href="https://github.com/PhotonMC/neoforge-1.21.4">Photon NeoForge 1.21.4</a></li>
         <li><a href="https://github.com/PhotonMC/neoforge-1.21.1">Photon NeoForge 1.21.1</a></li>
         <li><a href="https://github.com/PhotonMC/neoforge-1.20.6">Photon NeoForge 1.20.6</a></li>
