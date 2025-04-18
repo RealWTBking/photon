@@ -1,15 +1,90 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.1.0",
+  "versionId": "1.1.1",
   "name": "Photon",
   "summary": "",
   "files": [
     {
+      "path": "mods/!Red-Core-MC-1.8-1.12-0.6.jar",
+      "hashes": {
+        "sha512": "5816b5afc3e0ff0b9df5ccfd99375d165eb16f40806c2bd65a378022f4bca8fc2022ce26ebb5ac4e2aecb8ef2634043af9764527fd0031e2543da4b079e7f8a7",
+        "sha1": "ac72ee1e7777a3f20ace120c301fde68a3dfea23"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iRzbJEus/versions/SWvZZBIP/%21Red-Core-MC-1.8-1.12-0.6.jar"
+      ],
+      "fileSize": 151154
+    },
+    {
+      "path": "mods/entityculling-1.12.2-1.6.3.jar",
+      "hashes": {
+        "sha1": "fb22f03b297ca7b1bb7c6d5948e46c12e0a24446",
+        "sha512": "97c4def2a2979a0ba61c0fb016762756cf8361cdff651558dbb91cbe3d8627c388436d31ec2b93ff62df99a7ff589033184db4e6f298f4b8fdd4acf4c83ba202"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/knltv3Vh/entityculling-1.12.2-1.6.3.jar"
+      ],
+      "fileSize": 41478
+    },
+    {
+      "path": "mods/Alfheim-1.5.jar",
+      "hashes": {
+        "sha1": "96d30414e0ff79cbf4144ac2771617e3a120506e",
+        "sha512": "60decf990944a3a9c17a93429955f5eff6f02a5aa145fe57399d7b6fa7e8801350ba99b374bd44a5809e20081355601ea550e09f2f8c26a4b63e3aec12e16729"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/srzJgOEn/versions/3WwOBT2W/Alfheim-1.5.jar"
+      ],
+      "fileSize": 70045
+    },
+    {
+      "path": "mods/vintagefix-0.5.6.jar",
+      "hashes": {
+        "sha1": "66c2cee328218eec7c5fefb99101293065ad534c",
+        "sha512": "83d6519aa640233272c03cade0fff17a0f1ef87911a55fef7239254a37e777ec8e40042c99d9ed19e40f717e577ca60cbf890b7319d32d382d4ed00e8eddaf03"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/e6vNsbAm/versions/McpyqyLw/vintagefix-0.5.6.jar"
+      ],
+      "fileSize": 1024293
+    },
+    {
+      "path": "mods/!mixinbooter-10.6.jar",
+      "hashes": {
+        "sha1": "1e66c1799f30239386e5f2ed8b25ab2d9063cdb3",
+        "sha512": "49a38e541bb8f3ce12b68db68d8ea84c6ca1b84eebcce1970bd63ce0b5d0df4c35b3290117a6ab3b41d8c46df0868421f6c4088ac5b7f3b4f7b902c5e890c5bd"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/G1ckZuWK/versions/jxYM6zXi/%21mixinbooter-10.6.jar"
+      ],
+      "fileSize": 2382989
+    },
+    {
       "path": "mods/Born In A Barn 1.8-1.12-1.2.jar",
       "hashes": {
-        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949",
-        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682"
+        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682",
+        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949"
       },
       "env": {
         "server": "required",
@@ -21,44 +96,14 @@
       "fileSize": 4847
     },
     {
-      "path": "mods/!mixinbooter-10.6.jar",
-      "hashes": {
-        "sha512": "49a38e541bb8f3ce12b68db68d8ea84c6ca1b84eebcce1970bd63ce0b5d0df4c35b3290117a6ab3b41d8c46df0868421f6c4088ac5b7f3b4f7b902c5e890c5bd",
-        "sha1": "1e66c1799f30239386e5f2ed8b25ab2d9063cdb3"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/G1ckZuWK/versions/jxYM6zXi/%21mixinbooter-10.6.jar"
-      ],
-      "fileSize": 2382989
-    },
-    {
-      "path": "mods/entityculling-1.12.2-1.6.3.jar",
-      "hashes": {
-        "sha512": "97c4def2a2979a0ba61c0fb016762756cf8361cdff651558dbb91cbe3d8627c388436d31ec2b93ff62df99a7ff589033184db4e6f298f4b8fdd4acf4c83ba202",
-        "sha1": "fb22f03b297ca7b1bb7c6d5948e46c12e0a24446"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/knltv3Vh/entityculling-1.12.2-1.6.3.jar"
-      ],
-      "fileSize": 41478
-    },
-    {
       "path": "mods/particleculling-1.12.2-v1.4.3.jar",
       "hashes": {
         "sha512": "127870b83a0124988e127a43b952d994cae781d2cbf6885ec0c4daa27ec16a72a33e5bdc30f7f2cf7f962ed9ff2a4dbdd86ffcd6a4a5ed731b74523f4fa10f5d",
         "sha1": "2c4847ca6c7cf1d41ff320943394ff61028c7e72"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/l7imhLoC/versions/kwzcEeSC/particleculling-1.12.2-v1.4.3.jar"
@@ -66,25 +111,10 @@
       "fileSize": 17450
     },
     {
-      "path": "mods/fermiumasm-5.28.jar",
-      "hashes": {
-        "sha1": "d3b4d15cebe24c822556de2c77e348f20afeb064",
-        "sha512": "2e0e906ff106c208e0a2fe2ebb849ce09e3e3f6f5956428c1e7663ee0c77927a4e630217c1e11edc04a81d0f3cbe84c4667d10e523b77146ef72198444d561f3"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/LnSdxRsG/versions/1j3dT8HI/fermiumasm-5.28.jar"
-      ],
-      "fileSize": 526996
-    },
-    {
       "path": "mods/relictium-1.2.0.jar",
       "hashes": {
-        "sha1": "b4a9cf768f4893cef3abb1b884de5f2c8a14791e",
-        "sha512": "705fc90802756483fa8f73166bf53ebe2a1a982fc00ad2011a9bd2390fddd35339fc6fee97ee4f739ad957953c6001845a16037b2da7bb34476bb5a56d99150f"
+        "sha512": "705fc90802756483fa8f73166bf53ebe2a1a982fc00ad2011a9bd2390fddd35339fc6fee97ee4f739ad957953c6001845a16037b2da7bb34476bb5a56d99150f",
+        "sha1": "b4a9cf768f4893cef3abb1b884de5f2c8a14791e"
       },
       "env": {
         "client": "required",
@@ -94,36 +124,6 @@
         "https://cdn.modrinth.com/data/GBdcSrPi/versions/tZMrs1hh/relictium-1.2.0.jar"
       ],
       "fileSize": 1293838
-    },
-    {
-      "path": "mods/vintagefix-0.5.5.jar",
-      "hashes": {
-        "sha512": "de7cf5fa89c623e27597ef02618990dd4938f5ae39ae76c63266494a1caac3dea84cea34b2c1cc112c756ffa7a090f59d5b606f73928896beb0218687b18b044",
-        "sha1": "41502020bc47004cd4370dcd3aa8bf3ead875857"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/e6vNsbAm/versions/KiX6MHY9/vintagefix-0.5.5.jar"
-      ],
-      "fileSize": 1024212
-    },
-    {
-      "path": "mods/`FermiumBooter-1.2.0.jar",
-      "hashes": {
-        "sha512": "6970e64aac2348b16c7d21e1602765608212005339624cc34f3b642ee1ed13202f3281a95d8e3fee40ff3e3296053df8ed23efeb7b86ce66a14262fed0a0b360",
-        "sha1": "27fc8bf180d8e2563b1c68f28e42ae64a81ea579"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/e00stJKZ/versions/UspSgwUW/%60FermiumBooter-1.2.0.jar"
-      ],
-      "fileSize": 1288164
     },
     {
       "path": "mods/_MixinBootstrap-1.1.0.jar",
@@ -141,38 +141,38 @@
       "fileSize": 1119478
     },
     {
-      "path": "mods/Alfheim-1.5.jar",
+      "path": "mods/`FermiumBooter-1.2.0.jar",
       "hashes": {
-        "sha1": "96d30414e0ff79cbf4144ac2771617e3a120506e",
-        "sha512": "60decf990944a3a9c17a93429955f5eff6f02a5aa145fe57399d7b6fa7e8801350ba99b374bd44a5809e20081355601ea550e09f2f8c26a4b63e3aec12e16729"
+        "sha512": "6970e64aac2348b16c7d21e1602765608212005339624cc34f3b642ee1ed13202f3281a95d8e3fee40ff3e3296053df8ed23efeb7b86ce66a14262fed0a0b360",
+        "sha1": "27fc8bf180d8e2563b1c68f28e42ae64a81ea579"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/srzJgOEn/versions/3WwOBT2W/Alfheim-1.5.jar"
+        "https://cdn.modrinth.com/data/e00stJKZ/versions/UspSgwUW/%60FermiumBooter-1.2.0.jar"
       ],
-      "fileSize": 70045
+      "fileSize": 1288164
     },
     {
-      "path": "mods/!Red-Core-MC-1.8-1.12-0.6.jar",
+      "path": "mods/fermiumasm-5.28.jar",
       "hashes": {
-        "sha1": "ac72ee1e7777a3f20ace120c301fde68a3dfea23",
-        "sha512": "5816b5afc3e0ff0b9df5ccfd99375d165eb16f40806c2bd65a378022f4bca8fc2022ce26ebb5ac4e2aecb8ef2634043af9764527fd0031e2543da4b079e7f8a7"
+        "sha1": "d3b4d15cebe24c822556de2c77e348f20afeb064",
+        "sha512": "2e0e906ff106c208e0a2fe2ebb849ce09e3e3f6f5956428c1e7663ee0c77927a4e630217c1e11edc04a81d0f3cbe84c4667d10e523b77146ef72198444d561f3"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/iRzbJEus/versions/SWvZZBIP/%21Red-Core-MC-1.8-1.12-0.6.jar"
+        "https://cdn.modrinth.com/data/LnSdxRsG/versions/1j3dT8HI/fermiumasm-5.28.jar"
       ],
-      "fileSize": 151154
+      "fileSize": 526996
     }
   ],
   "dependencies": {
-    "minecraft": "1.12.2",
-    "forge": "14.23.5.2860"
+    "forge": "14.23.5.2860",
+    "minecraft": "1.12.2"
   }
 }
