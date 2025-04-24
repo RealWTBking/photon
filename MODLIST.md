@@ -340,6 +340,7 @@
         <ul>
             <li><a href="https://modrinth.com/mod/badoptimizations">BadOptimizations</a> by <a href="https://modrinth.com/user/thosea">thosea</a></li>
             <li><a href="https://modrinth.com/mod/cloth-config">Cloth Config API</a> by <a href="https://modrinth.com/user/shedaniel">shedaniel</a></li>
+            <li><a href="https://modrinth.com/mod/c2me-neoforge">Concurrent Chunk Management Engine (NeoForge)</a> by <a href="https://modrinth.com/user/ishland">ishland</a></li>
             <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
             <li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a> by <a href="https://modrinth.com/user/malte0811">malte0811</a></li>
             <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a> by <a href="https://modrinth.com/user/RaphiMC">RaphiMC</a></li>
