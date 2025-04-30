@@ -5,7 +5,7 @@
 
 # Photon
 
-Minecraft optimization framework prioritizing performance, simplicity, and compatibility. 1.8.9-1.21.4 (1.21.5 Beta) across Fabric, Forge, NeoForge, and Quilt!
+Minecraft optimization framework prioritizing performance, simplicity, and compatibility. 1.8.9-1.21.5 across Fabric, Forge, NeoForge, and Quilt!
 
 [![PhotonMC](github-link.svg)](https://github.com/PhotonMC)
 [![Read the Wiki](wiki-link.svg)](https://github.com/PhotonMC/home/wiki)
@@ -17,7 +17,7 @@ Minecraft optimization framework prioritizing performance, simplicity, and compa
 
 </div>
 
-Photon is a client-side modpack that dramatically improves performance on Minecraft 1.8.9-1.21.4 (1.21.5 Beta) across Fabric, Forge, NeoForge, and Quilt. Photon is deliberately built with simplicity and compatibility in mind. As a result, Photon can be used as a framework for building larger, content-focused modpacks.
+Photon is a client-side modpack that dramatically improves performance on Minecraft 1.8.9-1.21.5 across Fabric, Forge, NeoForge, and Quilt. Photon is deliberately built with simplicity and compatibility in mind. As a result, Photon can be used as a framework for building larger, content-focused modpacks.
 
 <!--Download-->
 ## Download

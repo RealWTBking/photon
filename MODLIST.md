@@ -336,7 +336,7 @@
     <summary><img src="neoforge-logo.png" style="vertical-align:middle; display:inline;">NeoForge</summary>
     <div style="padding-left:1rem;">
     <details>
-        <summary>1.21.5 (Beta)</summary>
+        <summary>1.21.5</summary>
         <ul>
             <li><a href="https://modrinth.com/mod/badoptimizations">BadOptimizations</a> by <a href="https://modrinth.com/user/thosea">thosea</a></li>
             <li><a href="https://modrinth.com/mod/cloth-config">Cloth Config API</a> by <a href="https://modrinth.com/user/shedaniel">shedaniel</a></li>
