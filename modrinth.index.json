@@ -1,24 +1,24 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.3",
+  "versionId": "1.0.4",
   "name": "Photon",
   "summary": "",
   "files": [
     {
-      "path": "mods/ImmediatelyFast-NeoForge-1.5.0+1.20.4.jar",
+      "path": "mods/BadOptimizations-2.2.2-1.20.2-20.4.jar",
       "hashes": {
-        "sha1": "f4db958c3a8d7f12a9d9b2b63f39dd89c5955362",
-        "sha512": "c257b0417090d1c8a05e4d028102bcfb2f2723c16e20ea97b6ee245e6612b6ba2ea6ca2e0f7acee86fa32c50b53fc8a7d013b25392631f77420eea9f27139861"
+        "sha1": "57f0273fe5a167149cd397f9e9b332d03c5e4f3b",
+        "sha512": "94cd4bd77a32356adaea3fadc321c506a8f4af93c1e9729f6b31b6d0fba67b49c95f47ba37fb65b31480ea24a0b548f1a7380583de4fecaae233a691bd6fee1f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/TKEYKmZh/ImmediatelyFast-NeoForge-1.5.0%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/W7g1s4Wx/BadOptimizations-2.2.2-1.20.2-20.4.jar"
       ],
-      "fileSize": 268586
+      "fileSize": 134138
     },
     {
       "path": "mods/entityculling-neoforge-1.7.4-mc1.20.4.jar",
@@ -36,34 +36,34 @@
       "fileSize": 73967
     },
     {
+      "path": "mods/ImmediatelyFast-NeoForge-1.5.0+1.20.4.jar",
+      "hashes": {
+        "sha1": "f4db958c3a8d7f12a9d9b2b63f39dd89c5955362",
+        "sha512": "c257b0417090d1c8a05e4d028102bcfb2f2723c16e20ea97b6ee245e6612b6ba2ea6ca2e0f7acee86fa32c50b53fc8a7d013b25392631f77420eea9f27139861"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/TKEYKmZh/ImmediatelyFast-NeoForge-1.5.0%2B1.20.4.jar"
+      ],
+      "fileSize": 268586
+    },
+    {
       "path": "mods/noisium-neoforge-2.3.0+mc1.20.2-1.20.4.jar",
       "hashes": {
         "sha512": "745c4fb06e012f25582f5ead5167be1ba75804921b72e493778319f933f6072444fa926716530515970fe151073922018e80c7220c29a7c2359b52c92205f78e",
         "sha1": "5e976028c1179e8de3a1d703d53a6f1834d9fc12"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/KuNKN7d2/versions/rjcZ5G3m/noisium-neoforge-2.3.0%2Bmc1.20.2-1.20.4.jar"
       ],
       "fileSize": 58938
-    },
-    {
-      "path": "mods/modernfix-neoforge-5.17.0+mc1.20.4.jar",
-      "hashes": {
-        "sha512": "e593815a77fd457eb693489a17a8fd0eab377d78c53454ae7250583092b62d887516a11c7c0ed51120019e0e141aaa4d1ab70e2ae8a136bf4f9cf9a82d258167",
-        "sha1": "c6838b872d8c5b831a6b308ed9a18ca07303dd5d"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/Kf6nINYI/modernfix-neoforge-5.17.0%2Bmc1.20.4.jar"
-      ],
-      "fileSize": 537565
     },
     {
       "path": "mods/embeddium-0.3.25+mc1.20.4.jar",
@@ -72,8 +72,8 @@
         "sha1": "eb82ba356d65403bf6b2de0fe9fc366a21ff904f"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/sk9rgfiA/versions/YcDuSsmz/embeddium-0.3.25%2Bmc1.20.4.jar"
@@ -87,8 +87,8 @@
         "sha1": "84542fbd77f2c3290faad89b079a2f062db8934c"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/uXXizFIs/versions/85kC2OMr/ferritecore-6.0.3-forge.jar"
@@ -96,23 +96,23 @@
       "fileSize": 121760
     },
     {
-      "path": "mods/BadOptimizations-2.2.1-1.20.2-20.4.jar",
+      "path": "mods/modernfix-neoforge-5.17.0+mc1.20.4.jar",
       "hashes": {
-        "sha512": "5458e6dd5ff4a6eb9bf479055b4d8812cc83443797705229566a9853b5c6751086d61423c0a95397099645bd63c33f6dea49439389960e7ee571f73d81e30727",
-        "sha1": "9ab78c684a9c6fa8c0c928dd1e90dac5ae9d0af3"
+        "sha512": "e593815a77fd457eb693489a17a8fd0eab377d78c53454ae7250583092b62d887516a11c7c0ed51120019e0e141aaa4d1ab70e2ae8a136bf4f9cf9a82d258167",
+        "sha1": "c6838b872d8c5b831a6b308ed9a18ca07303dd5d"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/ZQ1iIvpY/BadOptimizations-2.2.1-1.20.2-20.4.jar"
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/Kf6nINYI/modernfix-neoforge-5.17.0%2Bmc1.20.4.jar"
       ],
-      "fileSize": 134016
+      "fileSize": 537565
     }
   ],
   "dependencies": {
     "minecraft": "1.20.4",
-    "neoforge": "20.4.239"
+    "neoforge": "20.4.247"
   }
 }
