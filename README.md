@@ -194,6 +194,9 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
 <details>
     <summary>Photon <img src="quilt-logo.png" style="vertical-align: middle; display:inline">Quilt Repositories</summary>
     <ul>
+        <li><a href="https://github.com/PhotonMC/quilt-1.21.5">Photon Quilt 1.21.5</a></li>
+        <li><a href="https://github.com/PhotonMC/quilt-1.21.1">Photon Quilt 1.21.1</a></li>
+        <li><a href="https://github.com/PhotonMC/quilt-1.20.6">Photon Quilt 1.20.6</a></li>
         <li><a href="https://github.com/PhotonMC/quilt-1.20.4">Photon Quilt 1.20.4</a></li>
         <li><a href="https://github.com/PhotonMC/quilt-1.20.1">Photon Quilt 1.20.1</a></li>
         <li><a href="https://github.com/PhotonMC/quilt-1.19.4">Photon Quilt 1.19.4</a></li>
