@@ -1,39 +1,69 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.5",
+  "versionId": "1.0.6",
   "name": "Photon",
   "summary": "",
   "files": [
     {
-      "path": "mods/modernfix-forge-5.21.0+mc1.20.1.jar",
-      "hashes": {
-        "sha512": "892bcd98869df037db9fa8bbefe62f48e9b0ae6ee65d5768a9a931a3fc3a8aaa436f35f5c643b36dd45545534f26b87a536ec955b8f474d79409ab9193ac6f70",
-        "sha1": "95eb1238db9d8229d57ee19999ff5478f092602e"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/5m06ltZw/modernfix-forge-5.21.0%2Bmc1.20.1.jar"
-      ],
-      "fileSize": 824640
-    },
-    {
       "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
       "hashes": {
-        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
-        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9"
+        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9",
+        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
       ],
       "fileSize": 1320675
+    },
+    {
+      "path": "mods/BadOptimizations-2.2.2-1.20.1.jar",
+      "hashes": {
+        "sha512": "df830eefa6143399e5d6c0590f029c5794578c6ec30a7b6cc868dd237a7ad99ecc327e18820dac50296534c7a5688d9ca474e2eecaf6c1835bc235a260a75afe",
+        "sha1": "04a3b472e31ab2c71ed7ae6051b718a0900302fb"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/5kAwHDZz/BadOptimizations-2.2.2-1.20.1.jar"
+      ],
+      "fileSize": 440152
+    },
+    {
+      "path": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "hashes": {
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502",
+        "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar"
+      ],
+      "fileSize": 218152
+    },
+    {
+      "path": "mods/modernfix-forge-5.22.0+mc1.20.1.jar",
+      "hashes": {
+        "sha512": "2e8c63ec234f5cf6c5080aa95517c2e70027f447091b0b838d948a6d439ddd7d351748ea20fbfca71fbf0df4b0c8b59b320c284c829fc6f629d2fdf8976b96e5",
+        "sha1": "af287469a9e177b921ce243b564fe9041952d07d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/bGN4sTBS/modernfix-forge-5.22.0%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 856482
     },
     {
       "path": "mods/ferritecore-6.0.1-forge.jar",
@@ -51,55 +81,25 @@
       "fileSize": 123034
     },
     {
-      "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "path": "mods/ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
       "hashes": {
-        "sha512": "7b59c491d72801257c740626faab8c14ed580db28493c474147341531bca3de5ea822d4042d3786ae619449b6f6ffc1001a1cdc1b9276ec900e57ab17dd8989a",
-        "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a"
+        "sha1": "653fb9d1ce673b9987b18dfc0a9db4b9cb48d1de",
+        "sha512": "ec94ad253be05774b9fb8b67587929fb953c3fb4cbd835180eb2797ebab2bc71656f2c5644321107e862bee16985d50bbb833909a6ac07ff06cb842c0bde8d83"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/2gvRmQXx/versions/n947JjJH/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar"
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/xNaL38Bs/ImmediatelyFast-Forge-1.5.0%2B1.20.4.jar"
       ],
-      "fileSize": 713454
-    },
-    {
-      "path": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
-      "hashes": {
-        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502",
-        "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar"
-      ],
-      "fileSize": 218152
-    },
-    {
-      "path": "mods/BadOptimizations-2.2.2-1.20.1.jar",
-      "hashes": {
-        "sha1": "04a3b472e31ab2c71ed7ae6051b718a0900302fb",
-        "sha512": "df830eefa6143399e5d6c0590f029c5794578c6ec30a7b6cc868dd237a7ad99ecc327e18820dac50296534c7a5688d9ca474e2eecaf6c1835bc235a260a75afe"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/5kAwHDZz/BadOptimizations-2.2.2-1.20.1.jar"
-      ],
-      "fileSize": 440152
+      "fileSize": 428350
     },
     {
       "path": "mods/saturn-mc1.20.1-0.1.3.jar",
       "hashes": {
-        "sha1": "ad93f99d46714c46aaa6a4409aeca506e9fcac99",
-        "sha512": "8b4b9a69e7b55df8148e83a6d17ef381b9c412d8730d0068974bd48bbdae1a1a43837a5307471bc5dd2b41d3aa821d73c8683a3f480a9d987b2cf0969aa178cc"
+        "sha512": "8b4b9a69e7b55df8148e83a6d17ef381b9c412d8730d0068974bd48bbdae1a1a43837a5307471bc5dd2b41d3aa821d73c8683a3f480a9d987b2cf0969aa178cc",
+        "sha1": "ad93f99d46714c46aaa6a4409aeca506e9fcac99"
       },
       "env": {
         "client": "required",
@@ -126,23 +126,23 @@
       "fileSize": 75290
     },
     {
-      "path": "mods/ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
+      "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
       "hashes": {
-        "sha512": "ec94ad253be05774b9fb8b67587929fb953c3fb4cbd835180eb2797ebab2bc71656f2c5644321107e862bee16985d50bbb833909a6ac07ff06cb842c0bde8d83",
-        "sha1": "653fb9d1ce673b9987b18dfc0a9db4b9cb48d1de"
+        "sha512": "7b59c491d72801257c740626faab8c14ed580db28493c474147341531bca3de5ea822d4042d3786ae619449b6f6ffc1001a1cdc1b9276ec900e57ab17dd8989a",
+        "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/xNaL38Bs/ImmediatelyFast-Forge-1.5.0%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/2gvRmQXx/versions/n947JjJH/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar"
       ],
-      "fileSize": 428350
+      "fileSize": 713454
     }
   ],
   "dependencies": {
-    "minecraft": "1.20.1",
-    "forge": "47.4.0"
+    "forge": "47.4.0",
+    "minecraft": "1.20.1"
   }
 }
