@@ -329,6 +329,21 @@
             <li><a href="https://modrinth.com/mod/phosphorlegacyforge">Phosphor Legacy Forge</a> by <a href="https://modrinth.com/user/HowardZHY">HowardZHY</a></li>
         </ul>
     </details>
+    <details>
+        <summary>1.7.10</summary>
+        <ul>
+            <li><a href="https://modrinth.com/mod/archaicfix">ArchaicFix</a> by <a href="https://modrinth.com/user/embeddedt">embeddedt</a></li>
+            <li><a href="https://modrinth.com/mod/born-in-a-barn">Born in a Barn</a> by <a href="https://modrinth.com/user/Speiger">Speiger</a></li>
+            <li><a href="https://github.com/makamys/CoreTweaks">CoreTweaks</a> by <a href="https://github.com/makamys">makamys</a></li>
+            <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a> (1.7.10 port: <a href="https://modrinth.com/user/Pelotrio">Pelotrio</a>)</li>
+            <li><a href="https://modrinth.com/mod/fplib">FalsePatternLib</a> by <a href="https://modrinth.com/user/FalsePattern">FalsePattern</a></li>
+            <li><a href="https://modrinth.com/mod/falsetweaks">FalseTweaks</a> by <a href="https://modrinth.com/user/FalsePattern">FalsePattern</a></li>
+            <li><a href="https://modrinth.com/mod/foamfix">FoamFix</a> by <a href="https://modrinth.com/user/asie">asie</a></li>
+            <li><a href="https://modrinth.com/mod/nd1710">Neodymium Unofficial</a> by <a href="https://modrinth.com/user/FalsePattern">FalsePattern</a></li>
+            <li><a href="https://github.com/MCTeamPotato/Redirector">Redirector (Redirectionor)</a> by <a href="https://github.com/Ecdcaeb">Hileb</a></li>
+            <li><a href="https://modrinth.com/mod/unimixins">UniMixins</a> by <a href="https://modrinth.com/user/makamys">makamys</a></li>
+        </ul>
+    </details>
     </div>
 </details>
 
