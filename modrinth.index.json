@@ -1,24 +1,54 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0",
+  "versionId": "1.1.0",
   "name": "Photon",
   "summary": "",
   "files": [
     {
-      "path": "mods/phosphor-universal.jar",
+      "path": "mods/TexFix V-1.11-4.0.jar",
       "hashes": {
-        "sha512": "31e5f1597212823ecca4fcbf3862616418610e3401f2c1e624c999cb1b594434bbdb8e387c667af778dc1ecb0b342e9d5d01a48c878cf2064ac8f2e5cea1c453",
-        "sha1": "d879d96235b150a106d89c290885c516eeabde69"
+        "sha1": "266287d5cc3edd64b4bc6012e7cb51e03a0952b5",
+        "sha512": "8e259766f9d971a353e4dd2224c90404671948efd3bf25e1a82a0db183222a334bcab102821e5bc638475ea0a287454c1286fb7e94752469594bc49d44bfdc50"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
+        "https://cdn.modrinth.com/data/L6UZ430O/versions/O7BDHOqY/TexFix%20V-1.11-4.0.jar"
+      ],
+      "fileSize": 6386
+    },
+    {
+      "path": "mods/phosphor-universal.jar",
+      "hashes": {
+        "sha1": "d879d96235b150a106d89c290885c516eeabde69",
+        "sha512": "31e5f1597212823ecca4fcbf3862616418610e3401f2c1e624c999cb1b594434bbdb8e387c667af778dc1ecb0b342e9d5d01a48c878cf2064ac8f2e5cea1c453"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
         "https://cdn.modrinth.com/data/oCBQFmrZ/versions/Q5XO7Sbf/phosphor-universal.jar"
       ],
       "fileSize": 1047285
+    },
+    {
+      "path": "mods/foamfix-0.7.4-anarchy.jar",
+      "hashes": {
+        "sha512": "693d92216cac4735cd267635658135877261d470f4885461163b528e09c5144ebec7dd484199bb3ea5e58dc6ac5badd05b85455bd5eabf4e061cf81568d5b5f8",
+        "sha1": "3f36a4a7ec12802c5e4e29a3b7abf99a7258dde5"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/jupr7Bf5/versions/0.7.4/foamfix-0.7.4-anarchy.jar"
+      ],
+      "fileSize": 128574
     },
     {
       "path": "mods/Born In A Barn 1.8-1.12-1.2.jar",
@@ -34,40 +64,10 @@
         "https://cdn.modrinth.com/data/WfPGKC8F/versions/40q9Yeit/Born%20In%20A%20Barn%201.8-1.12-1.2.jar"
       ],
       "fileSize": 4847
-    },
-    {
-      "path": "mods/foamfix-0.7.4-anarchy.jar",
-      "hashes": {
-        "sha1": "3f36a4a7ec12802c5e4e29a3b7abf99a7258dde5",
-        "sha512": "693d92216cac4735cd267635658135877261d470f4885461163b528e09c5144ebec7dd484199bb3ea5e58dc6ac5badd05b85455bd5eabf4e061cf81568d5b5f8"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/jupr7Bf5/versions/0.7.4/foamfix-0.7.4-anarchy.jar"
-      ],
-      "fileSize": 128574
-    },
-    {
-      "path": "mods/TexFix V-1.11-4.0.jar",
-      "hashes": {
-        "sha1": "266287d5cc3edd64b4bc6012e7cb51e03a0952b5",
-        "sha512": "8e259766f9d971a353e4dd2224c90404671948efd3bf25e1a82a0db183222a334bcab102821e5bc638475ea0a287454c1286fb7e94752469594bc49d44bfdc50"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/L6UZ430O/versions/O7BDHOqY/TexFix%20V-1.11-4.0.jar"
-      ],
-      "fileSize": 6386
     }
   ],
   "dependencies": {
-    "forge": "13.20.1.2588",
-    "minecraft": "1.11.2"
+    "minecraft": "1.11.2",
+    "forge": "13.20.1.2588"
   }
 }
