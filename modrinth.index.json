@@ -1,15 +1,45 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0",
+  "versionId": "1.1.0",
   "name": "Photon",
   "summary": "",
   "files": [
     {
+      "path": "mods/TexFix V-1.10.2-4.0.jar",
+      "hashes": {
+        "sha1": "6615fbd064b9b05cf6fb1c08a4e5138804ea515c",
+        "sha512": "2c8a77fdb87782e8167f512241d57f3650c0d66c454d4d9b55b69ebfb624329f21bbbda2e9b64951d5ec5cb08c77ae020a1da771542b1cfe869d60f29cfdeba3"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/L6UZ430O/versions/UiM94gAd/TexFix%20V-1.10.2-4.0.jar"
+      ],
+      "fileSize": 6393
+    },
+    {
+      "path": "mods/phosphor-universal.jar",
+      "hashes": {
+        "sha1": "d879d96235b150a106d89c290885c516eeabde69",
+        "sha512": "31e5f1597212823ecca4fcbf3862616418610e3401f2c1e624c999cb1b594434bbdb8e387c667af778dc1ecb0b342e9d5d01a48c878cf2064ac8f2e5cea1c453"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/oCBQFmrZ/versions/Q5XO7Sbf/phosphor-universal.jar"
+      ],
+      "fileSize": 1047285
+    },
+    {
       "path": "mods/Born In A Barn 1.8-1.12-1.2.jar",
       "hashes": {
-        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682",
-        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949"
+        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949",
+        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682"
       },
       "env": {
         "client": "required",
@@ -34,36 +64,6 @@
         "https://cdn.modrinth.com/data/jupr7Bf5/versions/0.7.4/foamfix-0.7.4-anarchy.jar"
       ],
       "fileSize": 128574
-    },
-    {
-      "path": "mods/TexFix V-1.10.2-4.0.jar",
-      "hashes": {
-        "sha1": "6615fbd064b9b05cf6fb1c08a4e5138804ea515c",
-        "sha512": "2c8a77fdb87782e8167f512241d57f3650c0d66c454d4d9b55b69ebfb624329f21bbbda2e9b64951d5ec5cb08c77ae020a1da771542b1cfe869d60f29cfdeba3"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/L6UZ430O/versions/UiM94gAd/TexFix%20V-1.10.2-4.0.jar"
-      ],
-      "fileSize": 6393
-    },
-    {
-      "path": "mods/phosphor-universal.jar",
-      "hashes": {
-        "sha512": "31e5f1597212823ecca4fcbf3862616418610e3401f2c1e624c999cb1b594434bbdb8e387c667af778dc1ecb0b342e9d5d01a48c878cf2064ac8f2e5cea1c453",
-        "sha1": "d879d96235b150a106d89c290885c516eeabde69"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/oCBQFmrZ/versions/Q5XO7Sbf/phosphor-universal.jar"
-      ],
-      "fileSize": 1047285
     }
   ],
   "dependencies": {
