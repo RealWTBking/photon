@@ -1,30 +1,15 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0",
+  "versionId": "1.1.0",
   "name": "Photon",
   "summary": "",
   "files": [
     {
-      "path": "mods/entityculling-forge-mc1.8.9-1.5.0.jar",
-      "hashes": {
-        "sha512": "af587b299cdf0ac1cc2892fd2e52c715d36c9ecffddd1f7ce71426fc988eccc54eda70b6f66b114813ff521fcdd1e3e871f559139d23c3a1b87c11d5f795a931",
-        "sha1": "8486805fba71de6788f6c60baf2e69f6bc3c59e7"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.0-forge-1.8.9/entityculling-forge-mc1.8.9-1.5.0.jar"
-      ],
-      "fileSize": 3659166
-    },
-    {
       "path": "mods/Born In A Barn 1.8-1.12-1.2.jar",
       "hashes": {
-        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682",
-        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949"
+        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949",
+        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682"
       },
       "env": {
         "server": "required",
@@ -51,14 +36,29 @@
       "fileSize": 1050928
     },
     {
-      "path": "mods/foamfix-0.6.3a-anarchy-1.8.x.jar",
+      "path": "mods/entityculling-forge-mc1.8.9-1.5.0.jar",
       "hashes": {
-        "sha1": "58f4f9165f1c91222e33493175c805879e75db6b",
-        "sha512": "d66854ac4680e7b7677a8cc43588dbe01d29724a36c66cbfa0808a110f6d96377918e831606a765358cd7d6ead0b7363bd0c62cb3b0d7941697d328dee9fc7be"
+        "sha1": "8486805fba71de6788f6c60baf2e69f6bc3c59e7",
+        "sha512": "af587b299cdf0ac1cc2892fd2e52c715d36c9ecffddd1f7ce71426fc988eccc54eda70b6f66b114813ff521fcdd1e3e871f559139d23c3a1b87c11d5f795a931"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.0-forge-1.8.9/entityculling-forge-mc1.8.9-1.5.0.jar"
+      ],
+      "fileSize": 3659166
+    },
+    {
+      "path": "mods/foamfix-0.6.3a-anarchy-1.8.x.jar",
+      "hashes": {
+        "sha512": "d66854ac4680e7b7677a8cc43588dbe01d29724a36c66cbfa0808a110f6d96377918e831606a765358cd7d6ead0b7363bd0c62cb3b0d7941697d328dee9fc7be",
+        "sha1": "58f4f9165f1c91222e33493175c805879e75db6b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/jupr7Bf5/versions/MqLKfrk2/foamfix-0.6.3a-anarchy-1.8.x.jar"
