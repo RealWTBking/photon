@@ -302,6 +302,7 @@
             <li><a href="https://modrinth.com/mod/foamfix">FoamFix</a> by <a href="https://modrinth.com/user/asie">asie</a></li>
             <li><a href="https://modrinth.com/mod/phosphorlegacyforge">Phosphor Legacy Forge</a> by <a href="https://modrinth.com/user/HowardZHY">HowardZHY</a></li>
             <li><a href="https://modrinth.com/mod/texfix">TexFix</a> by <a href="https://modrinth.com/user/Speiger">Speiger</a></li>
+            <li><a href="https://github.com/MCTeamPotato/Redirector">Redirector (Redirectionor)</a> by <a href="https://github.com/Ecdcaeb">Hileb</a></li>
         </ul>
     </details>
     <details>
@@ -311,6 +312,7 @@
             <li><a href="https://modrinth.com/mod/foamfix">FoamFix</a> by <a href="https://modrinth.com/user/asie">asie</a></li>
             <li><a href="https://modrinth.com/mod/phosphorlegacyforge">Phosphor Legacy Forge</a> by <a href="https://modrinth.com/user/HowardZHY">HowardZHY</a></li>
             <li><a href="https://modrinth.com/mod/texfix">TexFix</a> by <a href="https://modrinth.com/user/Speiger">Speiger</a></li>
+            <li><a href="https://github.com/MCTeamPotato/Redirector">Redirector (Redirectionor)</a> by <a href="https://github.com/Ecdcaeb">Hileb</a></li>
         </ul>
     </details>
     <details>
@@ -318,6 +320,7 @@
         <ul>
             <li><a href="https://modrinth.com/mod/born-in-a-barn">Born in a Barn</a> by <a href="https://modrinth.com/user/Speiger">Speiger</a></li>
             <li><a href="https://modrinth.com/mod/phosphorlegacyforge">Phosphor Legacy Forge</a> by <a href="https://modrinth.com/user/HowardZHY">HowardZHY</a></li>
+            <li><a href="https://github.com/MCTeamPotato/Redirector">Redirector (Redirectionor)</a> by <a href="https://github.com/Ecdcaeb">Hileb</a></li>
         </ul>
     </details>
     <details>
@@ -327,6 +330,7 @@
             <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
             <li><a href="https://modrinth.com/mod/foamfix">FoamFix</a> by <a href="https://modrinth.com/user/asie">asie</a></li>
             <li><a href="https://modrinth.com/mod/phosphorlegacyforge">Phosphor Legacy Forge</a> by <a href="https://modrinth.com/user/HowardZHY">HowardZHY</a></li>
+            <li><a href="https://github.com/MCTeamPotato/Redirector">Redirector (Redirectionor)</a> by <a href="https://github.com/Ecdcaeb">Hileb</a></li>
         </ul>
     </details>
     <details>
