@@ -1,4 +1,4 @@
-<!-- Start -->
+<!--Head-->
 <div align=center>
 
 <img src="photon-logo.png"></img>
@@ -23,6 +23,36 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
 ## Download
 
 [![Modrinth](modrinth-link.svg)](https://modrinth.com/modpack/phtn)
+
+<!--Compatibility-->
+## Compatibility
+
+| MC Version | Fabric | Forge | NeoForge | Quilt |
+|------------|:------:|:-----:|:--------:|:-----:|
+| 1.21.5     |   ✅  |   ❌  |    ✅   |   ✅  |
+| 1.21.4     |   ⚠️  |   ❌  |    ⚠️   |   ❌  |
+| 1.21.1     |   ✅  |   ❌  |    ✅   |   ✅  |
+| 1.20.6     |   ✅  |   ❌  |    ✅   |   ✅  |
+| 1.20.4     |   ✅  |   ❌  |    ✅   |   ✅  |
+| 1.20.1     |   ✅  |   ✅  |    ✅   |   ✅  |
+| 1.19.4     |   ✅  |   ✅  |    ❌   |   ✅  |
+| 1.18.2     |   ✅  |   ✅  |    ❌   |   ✅  |
+| 1.17.1     |   ✅  |   ✅  |    ❌   |   ❌  |
+| 1.16.5     |   ✅  |   ✅  |    ❌   |   ❌  |
+| 1.15.2     |   ✅  |   ❌  |    ❌   |   ❌  |
+| 1.14.4     |   ✅  |   ❌  |    ❌   |   ❌  |
+| 1.12.2     |   ❌  |   ✅  |    ❌   |   ❌  |
+| 1.11.2     |   ❌  |   ✅  |    ❌   |   ❌  |
+| 1.10.2     |   ❌  |   ✅  |    ❌   |   ❌  |
+| 1.9.4      |   ❌  |   ✅  |    ❌   |   ❌  |
+| 1.8.9      |   ❌  |   ✅  |    ❌   |   ❌  |
+| 1.7.10     |   ❌  |   ✅  |    ❌   |   ❌  |
+
+✅ = Actively Supported
+⚠️ = Previously Supported
+❌ = Not Supported
+
+**Note: These statuses are subject to change in relation to demand. You may request support for a Minecraft version [here](https://github.com/PhotonMC/home/issues/new?template=version-request.yml).**
 
 <!--Installation-->
 ## Installation and Setup

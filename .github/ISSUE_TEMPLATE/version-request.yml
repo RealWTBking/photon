@@ -1,0 +1,32 @@
+name: Version Request
+description: Recommend to add support for a Minecraft version to Photon
+labels: version
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thank you for taking the time to suggest the addition of support for a previously unsupported version of Minecraft for Photon.
+      Before you submit a request, please confirm that your request hasn't already been addressed [here](https://github.com/PhotonMC/home/issues?q=is%3Aissue).
+
+- type: input
+  attributes:
+    label: Version
+    description: Input the requested Minecraft version.
+    placeholder: ex. 1.20.1
+  validations:
+    required: true
+
+- type: checkboxes
+  attributes:
+    label: Confirm
+    options:
+    - label: This version is NOT already supported by Photon.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Further Information
+    description: In a concise manner, describe why you would like this Minecraft version to be supported. (Not Required)
+  validations:
+    required: false
