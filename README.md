@@ -1,4 +1,4 @@
-<!-- Start -->
+<!--Head-->
 <div align=center>
 
 <img src="photon-logo.png"></img>
@@ -52,7 +52,7 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
 ⚠️ = Previously Supported
 ❌ = Not Supported
 
-**Note: These statuses are subject to change in relation to demand.**
+**Note: These statuses are subject to change in relation to demand. You may request support for a Minecraft version [here](https://github.com/PhotonMC/home/issues/new?template=version-request.yml).**
 
 <!--Installation-->
 ## Installation and Setup
