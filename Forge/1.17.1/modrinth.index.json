@@ -1,0 +1,28 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.0",
+  "name": "Photon",
+  "summary": "",
+  "files": [
+    {
+      "path": "mods/entityculling-forge-mc1.17.1-1.5.0.jar",
+      "hashes": {
+        "sha512": "a13b91ccffef505d309f409cb7ff9760d75f99b8443aac337caeed14827c8daf355222c09d6e94e82ef15d1c4ce7ff0f80eb166b77831170a78ac20c363df7c1",
+        "sha1": "23d1d04be50afc7a6a6679e722878e272776e916"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.0-forge-1.17/entityculling-forge-mc1.17.1-1.5.0.jar"
+      ],
+      "fileSize": 44916
+    }
+  ],
+  "dependencies": {
+    "forge": "37.1.1",
+    "minecraft": "1.17.1"
+  }
+}
