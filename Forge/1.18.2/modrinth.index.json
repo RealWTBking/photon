@@ -1,0 +1,133 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.1",
+  "name": "Photon",
+  "summary": "",
+  "files": [
+    {
+      "path": "mods/saturn-mc1.18.2-0.1.5.jar",
+      "hashes": {
+        "sha512": "1e7dde87218ef7e8b1e5524dcc74371084d6031e1740020d1a41bbf8d99ef00d171eb7a08e5d90c6984dbde4930945ec0a6fe0f25f035a30308ef2b43dc22f80",
+        "sha1": "819bcc189f80982c7ac8ea6bb5bea39325b35ead"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2eT495vq/versions/2HM7nHoH/saturn-mc1.18.2-0.1.5.jar"
+      ],
+      "fileSize": 85126
+    },
+    {
+      "path": "mods/entityculling-forge-1.6.1-mc1.18.2.jar",
+      "hashes": {
+        "sha512": "1dec64ce8bd2864e7f2a6bcf374b907de4eecc7f41e8a4990c5e61fb2ea861120530ba83a7dfe8fe76034a6ebc895319ddee176fec6cb6c628e718cef3a05dce",
+        "sha1": "7ef564e5aa9d6970f08a726576a1f7d2fbb3cd72"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/jFORrKV6/entityculling-forge-1.6.1-mc1.18.2.jar"
+      ],
+      "fileSize": 59875
+    },
+    {
+      "path": "mods/canary-mc1.18.2-0.3.3.jar",
+      "hashes": {
+        "sha1": "df4b8bff9f1d68d035fb1999974a20f73128e345",
+        "sha512": "127861fb37b9768dcd7524e4558299f8b3db3839de0d6ab31795107c76c4e3b2722b958e03a03ab979441b7a53a80e1f5b507998a1e531f8e6992248e7af7f88"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qa2H4BS9/versions/BOBNc9zb/canary-mc1.18.2-0.3.3.jar"
+      ],
+      "fileSize": 594088
+    },
+    {
+      "path": "mods/smoothboot(reloaded)-mc1.18.2-0.0.4.jar",
+      "hashes": {
+        "sha512": "3a761c4f8156a5c6669dc06bdf77703ec65499add02b8945c10a460e6801cbcc9aec991439326279ca79bdbcc44e1ef3b406663c87adc867bccfe927ce7334d9",
+        "sha1": "89d7daf594d25c39eebac0e90f72f43c69b52dfe"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/z53V2L4P/versions/gCz8FYyg/smoothboot%28reloaded%29-mc1.18.2-0.0.4.jar"
+      ],
+      "fileSize": 41005
+    },
+    {
+      "path": "mods/radon-0.8.1.jar",
+      "hashes": {
+        "sha512": "6dfb0e9fb333fa773cb689d600f8a9b272072418ba67c7d690413baffdb34cc35aef97ae4d4f6389e5803d75c583c6dc18f6aafa6dfe33ea46edf1d56f862f9f",
+        "sha1": "7f3ec8a8f7aaecd22f19922fd8aca2e559c4be9a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/4AiJdRfV/versions/Q2SH4Uee/radon-0.8.1.jar"
+      ],
+      "fileSize": 103987
+    },
+    {
+      "path": "mods/ferritecore-4.2.2-forge.jar",
+      "hashes": {
+        "sha512": "3452a34a3dcbe630e881feb553ff55077a8dc8a25872777671242ad7da2c6d3588b9627cdb7396f049d674a1fca54026f885da171a999a0c33111ce09bd97b58",
+        "sha1": "e9e0e711de47112dc53e24dc008da1f598834c4f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/fs07zE6w/ferritecore-4.2.2-forge.jar"
+      ],
+      "fileSize": 116626
+    },
+    {
+      "path": "mods/modernfix-forge-5.18.0+mc1.18.2.jar",
+      "hashes": {
+        "sha1": "56a7629faca859ae5774d29ced0bd26e6d091fc9",
+        "sha512": "6b7c6efe9b60299bf66b1b24a6c5392cc961f112b2e65452adccc7da9edc3849a7e2f6c06c8033b8514ba58455208ba5662f40e46052e481d88b6bf48508350a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/Vlkqd178/modernfix-forge-5.18.0%2Bmc1.18.2.jar"
+      ],
+      "fileSize": 758116
+    },
+    {
+      "path": "mods/embeddium-0.3.18+mc1.18.2.jar",
+      "hashes": {
+        "sha1": "9773d8af0da3a2b49fa896395ced2393e28e857b",
+        "sha512": "48374cd7b4ada27860e0d1bfb147f4dd90e9ad19ae62db1d6a0b00b2150ffc28b21a29336b4b3b3cfe45ae7daaece282f7ec42db9a9801f31f41c30811260c4c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/xuVAgh89/embeddium-0.3.18%2Bmc1.18.2.jar"
+      ],
+      "fileSize": 1558603
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.18.2",
+    "forge": "40.3.1"
+  }
+}
