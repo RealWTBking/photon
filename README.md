@@ -7,13 +7,13 @@
 
 Minecraft optimization framework prioritizing performance, simplicity, and compatibility. 1.7.10-1.21.5 across Fabric, Forge, NeoForge, and Quilt!
 
-[![PhotonMC](github-link.svg)](https://github.com/PhotonMC)
-[![Read the Wiki](wiki-link.svg)](https://github.com/PhotonMC/home/wiki)
+[![PhotonMC](github-link.svg)](https://github.com/RealWTBking/photon)
+[![Read the Wiki](wiki-link.svg)](https://github.com/RealWTBking/photon/wiki)
 
-[![Mod Request](modrequest-link.svg)](https://github.com/PhotonMC/home/issues/new?template=mod-request.yml)
-[![Bug Report](bugreport-link.svg)](https://github.com/PhotonMC/home/issues/new?template=bug-report.yml)
+[![Mod Request](modrequest-link.svg)](https://github.com/RealWTBking/photon/issues/new?template=mod-request.yml)
+[![Bug Report](bugreport-link.svg)](https://github.com/RealWTBking/photon/issues/new?template=bug-report.yml)
 
-[![Modlist](modlist-link.svg)](https://github.com/PhotonMC/home/blob/main/MODLIST.md)
+[![Modlist](modlist-link.svg)](https://github.com/RealWTBking/photon/blob/main/MODLIST.md)
 
 </div>
 
