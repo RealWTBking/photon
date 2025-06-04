@@ -6,7 +6,7 @@ body:
   attributes:
     value: |
       Thank you for taking the time to suggest the addition/removal of a mod for Photon.
-      Before you submit a request, please confirm that your request hasn't already been addressed [here](https://github.com/PhotonMC/home/issues?q=is%3Aissue).
+      Before you submit a request, please confirm that your request hasn't already been addressed [here](https://github.com/RealWTBking/photon/issues?q=is%3Aissue).
 
 - type: input
   attributes:

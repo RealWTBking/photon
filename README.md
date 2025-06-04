@@ -7,13 +7,13 @@
 
 Minecraft optimization framework prioritizing performance, simplicity, and compatibility. 1.7.10-1.21.5 across Fabric, Forge, NeoForge, and Quilt!
 
-[![PhotonMC](github-link.svg)](https://github.com/PhotonMC)
-[![Read the Wiki](wiki-link.svg)](https://github.com/PhotonMC/home/wiki)
+[![PhotonMC](github-link.svg)](https://github.com/RealWTBking/photon)
+[![Read the Wiki](wiki-link.svg)](https://github.com/RealWTBking/photon/wiki)
 
-[![Mod Request](modrequest-link.svg)](https://github.com/PhotonMC/home/issues/new?template=mod-request.yml)
-[![Bug Report](bugreport-link.svg)](https://github.com/PhotonMC/home/issues/new?template=bug-report.yml)
+[![Mod Request](modrequest-link.svg)](https://github.com/RealWTBking/photon/issues/new?template=mod-request.yml)
+[![Bug Report](bugreport-link.svg)](https://github.com/RealWTBking/photon/issues/new?template=bug-report.yml)
 
-[![Modlist](modlist-link.svg)](https://github.com/PhotonMC/home/blob/main/MODLIST.md)
+[![Modlist](modlist-link.svg)](https://github.com/RealWTBking/photon/blob/main/MODLIST.md)
 
 </div>
 
@@ -163,76 +163,6 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
         <li>Without selecting any of the subfolders/files, press <code>Ctrl + V</code> to merge to the <code>mods</code> and <code>config</code> folders (Select <code>Replace the files in the destination</code> to confirm the merging)</li>
         <li>You may delete the temporary Photon instance (located in <code><img src="instance-settings.png" style="vertical-align:middle; display:inline"> Instance settings</code>)</li>
     </ol>
-</details>
-
-<!--Repo List-->
-## Repositories
-
-<!--Photon Fabric links-->
-<details>
-    <summary>Photon <img src="fabric-logo.png" style="vertical-align:middle; display:inline">Fabric Repositories</summary>
-    <ul>
-        <li><a href="https://github.com/PhotonMC/fabric-1.21.5">Photon Fabric 1.21.5</a></li>
-        <li><a href="https://github.com/PhotonMC/fabric-1.21.4">Photon Fabric 1.21.4</a></li>
-        <li><a href="https://github.com/PhotonMC/fabric-1.21.1">Photon Fabric 1.21.1</a></li>
-        <li><a href="https://github.com/PhotonMC/fabric-1.20.6">Photon Fabric 1.20.6</a></li>
-        <li><a href="https://github.com/PhotonMC/fabric-1.20.4">Photon Fabric 1.20.4</a></li>
-        <li><a href="https://github.com/PhotonMC/fabric-1.20.1">Photon Fabric 1.20.1</a></li>
-        <li><a href="https://github.com/PhotonMC/fabric-1.19.4">Photon Fabric 1.19.4</a></li>
-        <li><a href="https://github.com/PhotonMC/fabric-1.18.2">Photon Fabric 1.18.2</a></li>
-        <li><a href="https://github.com/PhotonMC/fabric-1.17.1">Photon Fabric 1.17.1</a></li>
-        <li><a href="https://github.com/PhotonMC/fabric-1.16.5">Photon Fabric 1.16.5</a></li>
-        <li><a href="https://github.com/PhotonMC/fabric-1.15.2">Photon Fabric 1.15.2</a></li>
-        <li><a href="https://github.com/PhotonMC/fabric-1.14.4">Photon Fabric 1.14.4</a></li>
-    </ul> 
-</details>
-
-<!--Photon Forge links-->
-<br/>
-<details>
-    <summary>Photon <img src="forge-logo.png" style="vertical-align:middle; display:inline">Forge Repositories</summary>
-    <ul>
-        <li><a href="https://github.com/PhotonMC/forge-1.20.1">Photon Forge 1.20.1</a></li>
-        <li><a href="https://github.com/PhotonMC/forge-1.19.4">Photon Forge 1.19.4</a></li>
-        <li><a href="https://github.com/PhotonMC/forge-1.18.2">Photon Forge 1.18.2</a></li>
-        <li><a href="https://github.com/PhotonMC/forge-1.17.1">Photon Forge 1.17.1</a></li>
-        <li><a href="https://github.com/PhotonMC/forge-1.16.5">Photon Forge 1.16.5</a></li>
-        <li><a href="https://github.com/PhotonMC/forge-1.12.2">Photon Forge 1.12.2</a></li>
-        <li><a href="https://github.com/PhotonMC/forge-1.11.2">Photon Forge 1.11.2</a></li>
-        <li><a href="https://github.com/PhotonMC/forge-1.10.2">Photon Forge 1.10.2</a></li>
-        <li><a href="https://github.com/PhotonMC/forge-1.9.4">Photon Forge 1.9.4</a></li>
-        <li><a href="https://github.com/PhotonMC/forge-1.8.9">Photon Forge 1.8.9</a></li>
-        <li><a href="https://github.com/PhotonMC/forge-1.8.9">Photon Forge 1.7.10</a></li>
-    </ul>
-</details>
-
-<!--Photon NeoForge links-->
-<br/>
-<details>
-    <summary>Photon <img src="neoforge-logo.png" style="vertical-align:middle; display:inline">NeoForge Repositories</summary>
-    <ul>
-        <li><a href="https://github.com/PhotonMC/neoforge-1.21.5">Photon NeoForge 1.21.5</a></li>
-        <li><a href="https://github.com/PhotonMC/neoforge-1.21.4">Photon NeoForge 1.21.4</a></li>
-        <li><a href="https://github.com/PhotonMC/neoforge-1.21.1">Photon NeoForge 1.21.1</a></li>
-        <li><a href="https://github.com/PhotonMC/neoforge-1.20.6">Photon NeoForge 1.20.6</a></li>
-        <li><a href="https://github.com/PhotonMC/neoforge-1.20.4">Photon NeoForge 1.20.4</a></li>
-        <li><a href="https://github.com/PhotonMC/neoforge-1.20.1">Photon NeoForge 1.20.1</a></li>
-    </ul>
-</details>
-
-<!--Photon Quilt links-->
-<br/>
-<details>
-    <summary>Photon <img src="quilt-logo.png" style="vertical-align: middle; display:inline">Quilt Repositories</summary>
-    <ul>
-        <li><a href="https://github.com/PhotonMC/quilt-1.21.5">Photon Quilt 1.21.5</a></li>
-        <li><a href="https://github.com/PhotonMC/quilt-1.21.1">Photon Quilt 1.21.1</a></li>
-        <li><a href="https://github.com/PhotonMC/quilt-1.20.6">Photon Quilt 1.20.6</a></li>
-        <li><a href="https://github.com/PhotonMC/quilt-1.20.4">Photon Quilt 1.20.4</a></li>
-        <li><a href="https://github.com/PhotonMC/quilt-1.20.1">Photon Quilt 1.20.1</a></li>
-        <li><a href="https://github.com/PhotonMC/quilt-1.19.4">Photon Quilt 1.19.4</a></li>
-        <li><a href="https://github.com/PhotonMC/quilt-1.18.2">Photon Quilt 1.18.2</a></li>
-    </ul>
 </details>
 
 <!--Credits -->
