@@ -35,6 +35,7 @@ body:
     label: Minecraft Version
     description: What Minecraft version are you using Photon with?
     options:
+    - 1.21.7
     - 1.21.6
     - 1.21.5
     - 1.21.4
