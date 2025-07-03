@@ -1,0 +1,13 @@
+{
+	"schema_version": 1,
+	"overrides": [
+		{
+			"path": "<mods>/noisium-fabric-2.7.0+mc1.21.6.jar",
+			"depends": [
+				{
+					"remove": "minecraft"
+				}
+			]
+		}
+	]
+}
