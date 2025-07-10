@@ -1,34 +1,124 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.1.3",
+  "versionId": "1.1.4",
   "name": "Photon",
   "summary": "",
   "files": [
     {
-      "path": "mods/`FermiumBooter-1.2.0.jar",
+      "path": "mods/fermiumasm-5.28.jar",
       "hashes": {
-        "sha512": "6970e64aac2348b16c7d21e1602765608212005339624cc34f3b642ee1ed13202f3281a95d8e3fee40ff3e3296053df8ed23efeb7b86ce66a14262fed0a0b360",
-        "sha1": "27fc8bf180d8e2563b1c68f28e42ae64a81ea579"
+        "sha1": "d3b4d15cebe24c822556de2c77e348f20afeb064",
+        "sha512": "2e0e906ff106c208e0a2fe2ebb849ce09e3e3f6f5956428c1e7663ee0c77927a4e630217c1e11edc04a81d0f3cbe84c4667d10e523b77146ef72198444d561f3"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/e00stJKZ/versions/UspSgwUW/%60FermiumBooter-1.2.0.jar"
+        "https://cdn.modrinth.com/data/LnSdxRsG/versions/1j3dT8HI/fermiumasm-5.28.jar"
       ],
-      "fileSize": 1288164
+      "fileSize": 526996
     },
     {
-      "path": "mods/!mixinbooter-10.6.jar",
+      "path": "mods/_MixinBootstrap-1.1.0.jar",
       "hashes": {
-        "sha1": "1e66c1799f30239386e5f2ed8b25ab2d9063cdb3",
-        "sha512": "49a38e541bb8f3ce12b68db68d8ea84c6ca1b84eebcce1970bd63ce0b5d0df4c35b3290117a6ab3b41d8c46df0868421f6c4088ac5b7f3b4f7b902c5e890c5bd"
+        "sha512": "973aeff50dd8e1976895d36917e3f06334dc70800dfbd12639e522fb2b71e130db3865fd67d494e2d13e2ca67efe76ecfc3ee60d138e880dc884ac9f82c35eb8",
+        "sha1": "f9173708d3d2850ab8df778b9594b81cb94b1df8"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6a16628x/versions/hOGSWOX8/_MixinBootstrap-1.1.0.jar"
+      ],
+      "fileSize": 1119478
+    },
+    {
+      "path": "mods/Born In A Barn 1.8-1.12-1.2.jar",
+      "hashes": {
+        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949",
+        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682"
       },
       "env": {
         "client": "required",
         "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WfPGKC8F/versions/40q9Yeit/Born%20In%20A%20Barn%201.8-1.12-1.2.jar"
+      ],
+      "fileSize": 4847
+    },
+    {
+      "path": "mods/Alfheim-1.6.jar",
+      "hashes": {
+        "sha1": "15aaa39a13e18ab2f29456b25fd9732da1949329",
+        "sha512": "0911b09fa949ac29d998437322e28fbc66f5230ed1de9d69c7d27dd44afb5aa864e108bfcacee8097069b3e47bc5891ce80f941f1d611872ed19b24ab41192a5"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/srzJgOEn/versions/CbatFFab/Alfheim-1.6.jar"
+      ],
+      "fileSize": 70512
+    },
+    {
+      "path": "mods/entityculling-1.12.2-1.6.3.jar",
+      "hashes": {
+        "sha512": "97c4def2a2979a0ba61c0fb016762756cf8361cdff651558dbb91cbe3d8627c388436d31ec2b93ff62df99a7ff589033184db4e6f298f4b8fdd4acf4c83ba202",
+        "sha1": "fb22f03b297ca7b1bb7c6d5948e46c12e0a24446"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/knltv3Vh/entityculling-1.12.2-1.6.3.jar"
+      ],
+      "fileSize": 41478
+    },
+    {
+      "path": "mods/!Red-Core-MC-1.8-1.12-0.6.jar",
+      "hashes": {
+        "sha1": "ac72ee1e7777a3f20ace120c301fde68a3dfea23",
+        "sha512": "5816b5afc3e0ff0b9df5ccfd99375d165eb16f40806c2bd65a378022f4bca8fc2022ce26ebb5ac4e2aecb8ef2634043af9764527fd0031e2543da4b079e7f8a7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iRzbJEus/versions/SWvZZBIP/%21Red-Core-MC-1.8-1.12-0.6.jar"
+      ],
+      "fileSize": 151154
+    },
+    {
+      "path": "mods/relictium-1.2.0.jar",
+      "hashes": {
+        "sha512": "705fc90802756483fa8f73166bf53ebe2a1a982fc00ad2011a9bd2390fddd35339fc6fee97ee4f739ad957953c6001845a16037b2da7bb34476bb5a56d99150f",
+        "sha1": "b4a9cf768f4893cef3abb1b884de5f2c8a14791e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GBdcSrPi/versions/tZMrs1hh/relictium-1.2.0.jar"
+      ],
+      "fileSize": 1293838
+    },
+    {
+      "path": "mods/!mixinbooter-10.6.jar",
+      "hashes": {
+        "sha512": "49a38e541bb8f3ce12b68db68d8ea84c6ca1b84eebcce1970bd63ce0b5d0df4c35b3290117a6ab3b41d8c46df0868421f6c4088ac5b7f3b4f7b902c5e890c5bd",
+        "sha1": "1e66c1799f30239386e5f2ed8b25ab2d9063cdb3"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/G1ckZuWK/versions/jxYM6zXi/%21mixinbooter-10.6.jar"
@@ -51,115 +141,25 @@
       "fileSize": 17450
     },
     {
-      "path": "mods/Born In A Barn 1.8-1.12-1.2.jar",
+      "path": "mods/`FermiumBooter-1.3.0.jar",
       "hashes": {
-        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949",
-        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/WfPGKC8F/versions/40q9Yeit/Born%20In%20A%20Barn%201.8-1.12-1.2.jar"
-      ],
-      "fileSize": 4847
-    },
-    {
-      "path": "mods/_MixinBootstrap-1.1.0.jar",
-      "hashes": {
-        "sha1": "f9173708d3d2850ab8df778b9594b81cb94b1df8",
-        "sha512": "973aeff50dd8e1976895d36917e3f06334dc70800dfbd12639e522fb2b71e130db3865fd67d494e2d13e2ca67efe76ecfc3ee60d138e880dc884ac9f82c35eb8"
+        "sha512": "7a7875cd7f264b5378006f440f58441ed4780bb42d98326bf1dbba9c6f28b167e76d7e6b43832ffdb56e0c73779a44ce21616d6fe1e1e714c31aa97ac9bd10c3",
+        "sha1": "c617247ea0b3713220c0ad1da21af1b9e4d2f66d"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/6a16628x/versions/hOGSWOX8/_MixinBootstrap-1.1.0.jar"
+        "https://cdn.modrinth.com/data/e00stJKZ/versions/LCeV3agQ/%60FermiumBooter-1.3.0.jar"
       ],
-      "fileSize": 1119478
-    },
-    {
-      "path": "mods/fermiumasm-5.28.jar",
-      "hashes": {
-        "sha1": "d3b4d15cebe24c822556de2c77e348f20afeb064",
-        "sha512": "2e0e906ff106c208e0a2fe2ebb849ce09e3e3f6f5956428c1e7663ee0c77927a4e630217c1e11edc04a81d0f3cbe84c4667d10e523b77146ef72198444d561f3"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/LnSdxRsG/versions/1j3dT8HI/fermiumasm-5.28.jar"
-      ],
-      "fileSize": 526996
-    },
-    {
-      "path": "mods/!Red-Core-MC-1.8-1.12-0.6.jar",
-      "hashes": {
-        "sha1": "ac72ee1e7777a3f20ace120c301fde68a3dfea23",
-        "sha512": "5816b5afc3e0ff0b9df5ccfd99375d165eb16f40806c2bd65a378022f4bca8fc2022ce26ebb5ac4e2aecb8ef2634043af9764527fd0031e2543da4b079e7f8a7"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/iRzbJEus/versions/SWvZZBIP/%21Red-Core-MC-1.8-1.12-0.6.jar"
-      ],
-      "fileSize": 151154
-    },
-    {
-      "path": "mods/entityculling-1.12.2-1.6.3.jar",
-      "hashes": {
-        "sha1": "fb22f03b297ca7b1bb7c6d5948e46c12e0a24446",
-        "sha512": "97c4def2a2979a0ba61c0fb016762756cf8361cdff651558dbb91cbe3d8627c388436d31ec2b93ff62df99a7ff589033184db4e6f298f4b8fdd4acf4c83ba202"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/knltv3Vh/entityculling-1.12.2-1.6.3.jar"
-      ],
-      "fileSize": 41478
-    },
-    {
-      "path": "mods/relictium-1.2.0.jar",
-      "hashes": {
-        "sha512": "705fc90802756483fa8f73166bf53ebe2a1a982fc00ad2011a9bd2390fddd35339fc6fee97ee4f739ad957953c6001845a16037b2da7bb34476bb5a56d99150f",
-        "sha1": "b4a9cf768f4893cef3abb1b884de5f2c8a14791e"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/GBdcSrPi/versions/tZMrs1hh/relictium-1.2.0.jar"
-      ],
-      "fileSize": 1293838
-    },
-    {
-      "path": "mods/Alfheim-1.6.jar",
-      "hashes": {
-        "sha512": "0911b09fa949ac29d998437322e28fbc66f5230ed1de9d69c7d27dd44afb5aa864e108bfcacee8097069b3e47bc5891ce80f941f1d611872ed19b24ab41192a5",
-        "sha1": "15aaa39a13e18ab2f29456b25fd9732da1949329"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/srzJgOEn/versions/CbatFFab/Alfheim-1.6.jar"
-      ],
-      "fileSize": 70512
+      "fileSize": 1287813
     },
     {
       "path": "mods/vintagefix-0.6.2.jar",
       "hashes": {
-        "sha1": "eb820c6e58a4d091b80311a28650c7a1b99a1b14",
-        "sha512": "1735f89fc7ce84cab76a12f8d0a8ee51934e317b59b168d8ccf6d0fbeab1776c559603c02aba9a8d2e7086233ca2a2503ac73ed01a745f649d67590abcc6dbb0"
+        "sha512": "1735f89fc7ce84cab76a12f8d0a8ee51934e317b59b168d8ccf6d0fbeab1776c559603c02aba9a8d2e7086233ca2a2503ac73ed01a745f649d67590abcc6dbb0",
+        "sha1": "eb820c6e58a4d091b80311a28650c7a1b99a1b14"
       },
       "env": {
         "client": "required",
