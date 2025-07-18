@@ -1,60 +1,15 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "0.2.0",
+  "versionId": "0.2.1",
   "name": "Photon",
   "summary": "",
   "files": [
     {
-      "path": "mods/lithium-neoforge-0.18.0+mc1.21.7.jar",
-      "hashes": {
-        "sha1": "ff7acc78978be5c725eefbfb91cff5cbd8b1dd2f",
-        "sha512": "9ab13e66083d61c31f922b2e6f4efe2583e79aa1fb3d62e9a199bf33e656e3dcf87b1ce9e2e38f76909e50e22f6b9631ba2d4f1da79ff98bc4f6bebef7e86759"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/t3Lhx7nL/lithium-neoforge-0.18.0%2Bmc1.21.7.jar"
-      ],
-      "fileSize": 769500
-    },
-    {
-      "path": "mods/ferritecore-8.0.0-neoforge.jar",
-      "hashes": {
-        "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1",
-        "sha1": "c966accc11438c2597c0aa5ca21f19a271caaaa1"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar"
-      ],
-      "fileSize": 78885
-    },
-    {
-      "path": "mods/ImmediatelyFast-NeoForge-1.11.1+1.21.7.jar",
-      "hashes": {
-        "sha512": "5f54506e1f59bf827a2c2f30a3589fd5e94415813a06687745cff6e4864c32697ec6e1cc209a0d2b3c69da4bb58db26fe761a52f7e6cf418043c2b7b44a35f76",
-        "sha1": "1be097731a140792dd81d161b1d4c8f163e612c8"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/tg1pfqf9/ImmediatelyFast-NeoForge-1.11.1%2B1.21.7.jar"
-      ],
-      "fileSize": 216937
-    },
-    {
       "path": "mods/BadOptimizations-2.3.0-1.21.6-21.7.jar",
       "hashes": {
-        "sha512": "5d61b7c0946bef98bcda081f96d083bc6ae9c96e0de1ffe388406d9668a8878b2c3342465caa86270c9f33a6e00c42d5145718f8ce4a387025c2818581bdb6ce",
-        "sha1": "6ca1457a183266af76099c382b926f56c7e5d007"
+        "sha1": "6ca1457a183266af76099c382b926f56c7e5d007",
+        "sha512": "5d61b7c0946bef98bcda081f96d083bc6ae9c96e0de1ffe388406d9668a8878b2c3342465caa86270c9f33a6e00c42d5145718f8ce4a387025c2818581bdb6ce"
       },
       "env": {
         "client": "required",
@@ -66,10 +21,25 @@
       "fileSize": 123961
     },
     {
+      "path": "mods/lithium-neoforge-0.18.0+mc1.21.7.jar",
+      "hashes": {
+        "sha512": "9ab13e66083d61c31f922b2e6f4efe2583e79aa1fb3d62e9a199bf33e656e3dcf87b1ce9e2e38f76909e50e22f6b9631ba2d4f1da79ff98bc4f6bebef7e86759",
+        "sha1": "ff7acc78978be5c725eefbfb91cff5cbd8b1dd2f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/t3Lhx7nL/lithium-neoforge-0.18.0%2Bmc1.21.7.jar"
+      ],
+      "fileSize": 769500
+    },
+    {
       "path": "mods/noisium-neoforge-2.7.0+mc1.21.6.jar",
       "hashes": {
-        "sha1": "d386343ba6146c6dc11a27bdad2181ff91ca6d53",
-        "sha512": "630c548e15d161c56991083d0ec2fc788bb873344628ca1ae65cc799278fad2dfa88e761b3a28456822d351fd687cf3ce7d967426cd2bd4e879984a028369809"
+        "sha512": "630c548e15d161c56991083d0ec2fc788bb873344628ca1ae65cc799278fad2dfa88e761b3a28456822d351fd687cf3ce7d967426cd2bd4e879984a028369809",
+        "sha1": "d386343ba6146c6dc11a27bdad2181ff91ca6d53"
       },
       "env": {
         "server": "required",
@@ -79,21 +49,6 @@
         "https://cdn.modrinth.com/data/KuNKN7d2/versions/w7CLpegm/noisium-neoforge-2.7.0%2Bmc1.21.6.jar"
       ],
       "fileSize": 60199
-    },
-    {
-      "path": "mods/cloth-config-19.0.147-neoforge.jar",
-      "hashes": {
-        "sha512": "2b1acae5ab7ab89301f429073f339363e2e113a5cdea094fba318ba74befd442d8f751ee1c74523cacf27eed49ef98c5f9cf3ed1fdfbced6f3c3322be50b2929",
-        "sha1": "b3e37fef3d8bb1b7b3af75fbe47f5abbfafda562"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/9s6osm5g/versions/BYkKAJ0C/cloth-config-19.0.147-neoforge.jar"
-      ],
-      "fileSize": 1155514
     },
     {
       "path": "mods/c2me-neoforge-mc1.21.6-0.3.4+alpha.0.67.jar",
@@ -111,10 +66,25 @@
       "fileSize": 4488588
     },
     {
+      "path": "mods/ImmediatelyFast-NeoForge-1.11.1+1.21.7.jar",
+      "hashes": {
+        "sha512": "5f54506e1f59bf827a2c2f30a3589fd5e94415813a06687745cff6e4864c32697ec6e1cc209a0d2b3c69da4bb58db26fe761a52f7e6cf418043c2b7b44a35f76",
+        "sha1": "1be097731a140792dd81d161b1d4c8f163e612c8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/tg1pfqf9/ImmediatelyFast-NeoForge-1.11.1%2B1.21.7.jar"
+      ],
+      "fileSize": 216937
+    },
+    {
       "path": "mods/sodium-neoforge-0.6.13+mc1.21.6.jar",
       "hashes": {
-        "sha512": "c999124b3a60d76a31c45929dd6895f3406e42d61f0155c055b0530d5c02bf6d81a404797ed557a4e05cfee4b46555ec7701fd6d98d281a02595dd2348bb8917",
-        "sha1": "2e7e7a5abd862c527a5ab26a796498ac9bc8c4ec"
+        "sha1": "2e7e7a5abd862c527a5ab26a796498ac9bc8c4ec",
+        "sha512": "c999124b3a60d76a31c45929dd6895f3406e42d61f0155c055b0530d5c02bf6d81a404797ed557a4e05cfee4b46555ec7701fd6d98d281a02595dd2348bb8917"
       },
       "env": {
         "server": "required",
@@ -124,6 +94,51 @@
         "https://cdn.modrinth.com/data/AANobbMI/versions/ihzX2Dvy/sodium-neoforge-0.6.13%2Bmc1.21.6.jar"
       ],
       "fileSize": 1177701
+    },
+    {
+      "path": "mods/cloth-config-19.0.147-neoforge.jar",
+      "hashes": {
+        "sha512": "2b1acae5ab7ab89301f429073f339363e2e113a5cdea094fba318ba74befd442d8f751ee1c74523cacf27eed49ef98c5f9cf3ed1fdfbced6f3c3322be50b2929",
+        "sha1": "b3e37fef3d8bb1b7b3af75fbe47f5abbfafda562"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/BYkKAJ0C/cloth-config-19.0.147-neoforge.jar"
+      ],
+      "fileSize": 1155514
+    },
+    {
+      "path": "mods/entityculling-neoforge-1.8.2-mc1.21.6.jar",
+      "hashes": {
+        "sha512": "bca2c630636860d9695d6185058e19219a2442df5c7d162f5ab2d302396880c463a7d69be35a0a628f2caf65254d0df7665e418642933ba233539cf2fb49c83f",
+        "sha1": "77cdf8d7c49d52c9baff1250b63065162b629d32"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/rFvPqrY3/entityculling-neoforge-1.8.2-mc1.21.6.jar"
+      ],
+      "fileSize": 477604
+    },
+    {
+      "path": "mods/ferritecore-8.0.0-neoforge.jar",
+      "hashes": {
+        "sha1": "c966accc11438c2597c0aa5ca21f19a271caaaa1",
+        "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar"
+      ],
+      "fileSize": 78885
     },
     {
       "path": "mods/moreculling-neoforge-1.21.6-1.4.0-beta.1.jar",
@@ -139,25 +154,10 @@
         "https://cdn.modrinth.com/data/51shyZVL/versions/xxS7FR4H/moreculling-neoforge-1.21.6-1.4.0-beta.1.jar"
       ],
       "fileSize": 342548
-    },
-    {
-      "path": "mods/entityculling-neoforge-1.8.1-mc1.21.6.jar",
-      "hashes": {
-        "sha512": "5ae5a26841b6469c25db6cac8109ed933d37b234961af89022d2ce8e05cca5fe87a7694e687418508d97cc7dab40e7f7c3e78612f3519a6509be30a110335552",
-        "sha1": "223d1cb987cd32bc8e337a08f2c022e683c08197"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/oJ5voewi/entityculling-neoforge-1.8.1-mc1.21.6.jar"
-      ],
-      "fileSize": 476631
     }
   ],
   "dependencies": {
-    "neoforge": "21.7.17-beta",
+    "neoforge": "21.7.25-beta",
     "minecraft": "1.21.7"
   }
 }
