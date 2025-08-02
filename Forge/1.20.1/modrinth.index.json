@@ -1,10 +1,25 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.14",
+  "versionId": "1.0.15",
   "name": "Photon",
   "summary": "",
   "files": [
+    {
+      "path": "mods/saturn-mc1.20.1-0.1.3.jar",
+      "hashes": {
+        "sha1": "ad93f99d46714c46aaa6a4409aeca506e9fcac99",
+        "sha512": "8b4b9a69e7b55df8148e83a6d17ef381b9c412d8730d0068974bd48bbdae1a1a43837a5307471bc5dd2b41d3aa821d73c8683a3f480a9d987b2cf0969aa178cc"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2eT495vq/versions/Yx85DYaG/saturn-mc1.20.1-0.1.3.jar"
+      ],
+      "fileSize": 92319
+    },
     {
       "path": "mods/BadOptimizations-2.3.0-1.20.1.jar",
       "hashes": {
@@ -12,8 +27,8 @@
         "sha1": "b86ce6a5ed4f71a13f6d2976ffe6471cef29beb7"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/g96Z4WVZ/versions/RPOjbIwJ/BadOptimizations-2.3.0-1.20.1.jar"
@@ -21,34 +36,64 @@
       "fileSize": 452304
     },
     {
-      "path": "mods/entityculling-forge-1.8.2-mc1.20.1.jar",
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
       "hashes": {
-        "sha1": "0a465a4dbbc4b21b3465bb15796635b5c1024cf4",
-        "sha512": "45c54f5f69cc75d0c9c79a716c182d3d9ee59d9883d2333030f191176ee70922ad281ea1b60d2f10bbaf8be96a3454c6d14ef484d1db49c153c97859dbc4ffb5"
+        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9"
       },
       "env": {
         "server": "required",
         "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 1320675
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.5.1+1.20.4.jar",
+      "hashes": {
+        "sha512": "723cb9e87efebbe5b3e7608ed0517df7e6ff31a168aaca33c85377053da50dd00af4263657a94751304ba4b12247d9687fe95882b0318af54b900041a0ad0fa1",
+        "sha1": "f1687e57a835e44a9ecf2f343cba5817936f8ae0"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/ShWk0wN3/ImmediatelyFast-Forge-1.5.1%2B1.20.4.jar"
+      ],
+      "fileSize": 425068
+    },
+    {
+      "path": "mods/modernfix-forge-5.24.4+mc1.20.1.jar",
+      "hashes": {
+        "sha1": "daeccb1fbe1d67d426fcc8135cfff463ff0f7e1d",
+        "sha512": "8feb0282084196571489b6c1005c32ce4a3f03a6bff05c2cfe448677e4e36d6580f5f0eb428ef839de1dd9c307bfbd15567fd508fb405d2ae7eaec90796e9b14"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/CixO1IdG/modernfix-forge-5.24.4%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 880557
+    },
+    {
+      "path": "mods/entityculling-forge-1.8.2-mc1.20.1.jar",
+      "hashes": {
+        "sha512": "45c54f5f69cc75d0c9c79a716c182d3d9ee59d9883d2333030f191176ee70922ad281ea1b60d2f10bbaf8be96a3454c6d14ef484d1db49c153c97859dbc4ffb5",
+        "sha1": "0a465a4dbbc4b21b3465bb15796635b5c1024cf4"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/NNAgCjsB/versions/zinofwiX/entityculling-forge-1.8.2-mc1.20.1.jar"
       ],
       "fileSize": 478568
-    },
-    {
-      "path": "mods/saturn-mc1.20.1-0.1.3.jar",
-      "hashes": {
-        "sha512": "8b4b9a69e7b55df8148e83a6d17ef381b9c412d8730d0068974bd48bbdae1a1a43837a5307471bc5dd2b41d3aa821d73c8683a3f480a9d987b2cf0969aa178cc",
-        "sha1": "ad93f99d46714c46aaa6a4409aeca506e9fcac99"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/2eT495vq/versions/Yx85DYaG/saturn-mc1.20.1-0.1.3.jar"
-      ],
-      "fileSize": 92319
     },
     {
       "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
@@ -57,8 +102,8 @@
         "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/2gvRmQXx/versions/n947JjJH/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar"
@@ -66,10 +111,25 @@
       "fileSize": 713454
     },
     {
+      "path": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "hashes": {
+        "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808",
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar"
+      ],
+      "fileSize": 218152
+    },
+    {
       "path": "mods/ferritecore-6.0.1-forge.jar",
       "hashes": {
-        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
-        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
       },
       "env": {
         "client": "required",
@@ -79,70 +139,10 @@
         "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
       ],
       "fileSize": 123034
-    },
-    {
-      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
-      "hashes": {
-        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
-        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
-      ],
-      "fileSize": 1320675
-    },
-    {
-      "path": "mods/modernfix-forge-5.24.3+mc1.20.1.jar",
-      "hashes": {
-        "sha1": "53a839bb1b72a72a01f8906873173808d56a72b7",
-        "sha512": "da085b988b270450b3606705c50da504d6f04d5c357521d9acf888c1dbe8b267a5a342e2be555919471ce4aa105268a176e41f801adad991f27e495b3c3c354c"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/EAQLVtM2/modernfix-forge-5.24.3%2Bmc1.20.1.jar"
-      ],
-      "fileSize": 879295
-    },
-    {
-      "path": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
-      "hashes": {
-        "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808",
-        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar"
-      ],
-      "fileSize": 218152
-    },
-    {
-      "path": "mods/ImmediatelyFast-Forge-1.5.1+1.20.4.jar",
-      "hashes": {
-        "sha1": "f1687e57a835e44a9ecf2f343cba5817936f8ae0",
-        "sha512": "723cb9e87efebbe5b3e7608ed0517df7e6ff31a168aaca33c85377053da50dd00af4263657a94751304ba4b12247d9687fe95882b0318af54b900041a0ad0fa1"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/ShWk0wN3/ImmediatelyFast-Forge-1.5.1%2B1.20.4.jar"
-      ],
-      "fileSize": 425068
     }
   ],
   "dependencies": {
-    "forge": "47.4.4",
-    "minecraft": "1.20.1"
+    "minecraft": "1.20.1",
+    "forge": "47.4.5"
   }
 }
