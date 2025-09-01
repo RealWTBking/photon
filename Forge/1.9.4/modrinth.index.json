@@ -1,19 +1,19 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.1.0",
+  "versionId": "1.1.1",
   "name": "Photon",
   "summary": "",
   "files": [
     {
       "path": "mods/phosphor-universal.jar",
       "hashes": {
-        "sha1": "d879d96235b150a106d89c290885c516eeabde69",
-        "sha512": "31e5f1597212823ecca4fcbf3862616418610e3401f2c1e624c999cb1b594434bbdb8e387c667af778dc1ecb0b342e9d5d01a48c878cf2064ac8f2e5cea1c453"
+        "sha512": "31e5f1597212823ecca4fcbf3862616418610e3401f2c1e624c999cb1b594434bbdb8e387c667af778dc1ecb0b342e9d5d01a48c878cf2064ac8f2e5cea1c453",
+        "sha1": "d879d96235b150a106d89c290885c516eeabde69"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/oCBQFmrZ/versions/Q5XO7Sbf/phosphor-universal.jar"
