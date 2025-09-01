@@ -1,70 +1,10 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.2",
+  "versionId": "1.0.3",
   "name": "Photon",
   "summary": "",
   "files": [
-    {
-      "path": "mods/+unimixins-all-1.7.10-0.1.22.jar",
-      "hashes": {
-        "sha512": "155018aa518a659808af5e3ea42e7a54e06c6f2d0487518c9c214f9a3dc16cc74ed3f8e9536b74447c00768fc6ac8f6cb8945ea34fbb7324bbce7f165e59bee2",
-        "sha1": "047bb736c27fb9fe0f6ab6fd323140bab7748b71"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/ghjoiQAl/versions/qszQWTGR/%2Bunimixins-all-1.7.10-0.1.22.jar"
-      ],
-      "fileSize": 5259957
-    },
-    {
-      "path": "mods/Born in a Barn 1.7.x-1.1.jar",
-      "hashes": {
-        "sha512": "ec8e22fd06631bd952109d5c93d058bad9c3a8604f223cb2f2b3125bf1dee3a2a325cb2584fb8cae689f5aec32616aa82ac477c593f5db032140105057175be4",
-        "sha1": "39066278edbcd8efb8c50226570b24290c58d9f8"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/WfPGKC8F/versions/t2p54yVF/Born%20in%20a%20Barn%201.7.x-1.1.jar"
-      ],
-      "fileSize": 3074
-    },
-    {
-      "path": "mods/falsepatternlib-mc1.7.10-1.7.0.jar",
-      "hashes": {
-        "sha1": "669b4a713c52c5f787aad69a13aaf8afc8234105",
-        "sha512": "f4169fb0918eff85b519e4693f90cd605cea344c5a0e78ee6516c7a8e7e3dcdc72d8d02e17fce70aaaf390dae1ded99e8105dddeae274da5b5d3e5735226d901"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/eGLBEILf/versions/Ztibxuto/falsepatternlib-mc1.7.10-1.7.0.jar"
-      ],
-      "fileSize": 924437
-    },
-    {
-      "path": "mods/neodymium-mc1.7.10-0.4.3-unofficial.jar",
-      "hashes": {
-        "sha1": "1a3bb0c418ab0b3e4c9b38c553f097ccdc407227",
-        "sha512": "b5a42fe3bc4180450e7bf228566806a9ea639d221ff1679d434f5dfe1a891b4258127fbf5910315be27ad6412e1898b5c81f9bdb958fc44c31724e1ca6803e69"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/YRBOv8ax/versions/oH3EUhNk/neodymium-mc1.7.10-0.4.3-unofficial.jar"
-      ],
-      "fileSize": 156188
-    },
     {
       "path": "mods/archaicfix-0.7.7.jar",
       "hashes": {
@@ -81,14 +21,74 @@
       "fileSize": 289032
     },
     {
-      "path": "mods/FoamFix-1.7.10-universal-1.0.4.jar",
+      "path": "mods/Born in a Barn 1.7.x-1.1.jar",
       "hashes": {
-        "sha1": "a32624a456d2fab26241df30c1612558710202f3",
-        "sha512": "e8098d58901c4e3ecf1ad3498ce6e8ee3a2bdb948ced5a5889ff0e829c4c4585afe8aabad7c7b05eae61b7f0ef72d5d8712f1f33dccebe5b508240a23b6cb80b"
+        "sha1": "39066278edbcd8efb8c50226570b24290c58d9f8",
+        "sha512": "ec8e22fd06631bd952109d5c93d058bad9c3a8604f223cb2f2b3125bf1dee3a2a325cb2584fb8cae689f5aec32616aa82ac477c593f5db032140105057175be4"
       },
       "env": {
         "server": "required",
         "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WfPGKC8F/versions/t2p54yVF/Born%20in%20a%20Barn%201.7.x-1.1.jar"
+      ],
+      "fileSize": 3074
+    },
+    {
+      "path": "mods/entityculling-1.6.4-mc1.7.10.jar",
+      "hashes": {
+        "sha1": "9a14606b7d305b4bb1db7094b308c2c2db30fdff",
+        "sha512": "cef6dcc1a5e0c9b9c11b486f007621e26228a389c34ed6a475d88fa34c2f2169d251a4031c6cc7a5d38353533faf3a8d1255c92f2e74effe0a3e8972206a60de"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/SLiFyIon/entityculling-1.6.4-mc1.7.10.jar"
+      ],
+      "fileSize": 38712
+    },
+    {
+      "path": "mods/+unimixins-all-1.7.10-0.1.22.jar",
+      "hashes": {
+        "sha512": "155018aa518a659808af5e3ea42e7a54e06c6f2d0487518c9c214f9a3dc16cc74ed3f8e9536b74447c00768fc6ac8f6cb8945ea34fbb7324bbce7f165e59bee2",
+        "sha1": "047bb736c27fb9fe0f6ab6fd323140bab7748b71"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ghjoiQAl/versions/qszQWTGR/%2Bunimixins-all-1.7.10-0.1.22.jar"
+      ],
+      "fileSize": 5259957
+    },
+    {
+      "path": "mods/falsepatternlib-mc1.7.10-1.8.1.jar",
+      "hashes": {
+        "sha1": "7cbbd4e8e4581911024f0e66952b37a8b7dc101c",
+        "sha512": "05fac97fd7b7876f970c0ffb08f74ba2ae322a950dbf68764cbb9eca8d74cf213855dab9d6849abbcb2b476698ea4722d557ddf8850b3f54b5f4fa6b0c0bc894"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/eGLBEILf/versions/bYM7m9oL/falsepatternlib-mc1.7.10-1.8.1.jar"
+      ],
+      "fileSize": 926719
+    },
+    {
+      "path": "mods/FoamFix-1.7.10-universal-1.0.4.jar",
+      "hashes": {
+        "sha512": "e8098d58901c4e3ecf1ad3498ce6e8ee3a2bdb948ced5a5889ff0e829c4c4585afe8aabad7c7b05eae61b7f0ef72d5d8712f1f33dccebe5b508240a23b6cb80b",
+        "sha1": "a32624a456d2fab26241df30c1612558710202f3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/jupr7Bf5/versions/H4Y7YwTd/FoamFix-1.7.10-universal-1.0.4.jar"
@@ -98,12 +98,12 @@
     {
       "path": "mods/falsetweaks-mc1.7.10-3.9.7.jar",
       "hashes": {
-        "sha1": "06266a6b8db29e0e45d65e450c8224fe4f66b232",
-        "sha512": "f56694855ccc83b1d907ff8c4952d884c1e4ccc353e1f6fed9832033c8afa506c7cbca3c1e826d40cc1c5c6862c4f4a79cb1cbf39da2f8e97932c3a06058a9c5"
+        "sha512": "f56694855ccc83b1d907ff8c4952d884c1e4ccc353e1f6fed9832033c8afa506c7cbca3c1e826d40cc1c5c6862c4f4a79cb1cbf39da2f8e97932c3a06058a9c5",
+        "sha1": "06266a6b8db29e0e45d65e450c8224fe4f66b232"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/VTGi3upD/versions/lMvAptIz/falsetweaks-mc1.7.10-3.9.7.jar"
@@ -111,23 +111,23 @@
       "fileSize": 679542
     },
     {
-      "path": "mods/entityculling-1.6.4-mc1.7.10.jar",
+      "path": "mods/neodymium-mc1.7.10-0.4.3-unofficial.jar",
       "hashes": {
-        "sha1": "9a14606b7d305b4bb1db7094b308c2c2db30fdff",
-        "sha512": "cef6dcc1a5e0c9b9c11b486f007621e26228a389c34ed6a475d88fa34c2f2169d251a4031c6cc7a5d38353533faf3a8d1255c92f2e74effe0a3e8972206a60de"
+        "sha1": "1a3bb0c418ab0b3e4c9b38c553f097ccdc407227",
+        "sha512": "b5a42fe3bc4180450e7bf228566806a9ea639d221ff1679d434f5dfe1a891b4258127fbf5910315be27ad6412e1898b5c81f9bdb958fc44c31724e1ca6803e69"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/SLiFyIon/entityculling-1.6.4-mc1.7.10.jar"
+        "https://cdn.modrinth.com/data/YRBOv8ax/versions/oH3EUhNk/neodymium-mc1.7.10-0.4.3-unofficial.jar"
       ],
-      "fileSize": 38712
+      "fileSize": 156188
     }
   ],
   "dependencies": {
-    "forge": "10.13.4.1614",
-    "minecraft": "1.7.10"
+    "minecraft": "1.7.10",
+    "forge": "10.13.4.1614"
   }
 }
