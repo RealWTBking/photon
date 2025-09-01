@@ -1,24 +1,39 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.1.0",
+  "versionId": "1.1.1",
   "name": "Photon",
   "summary": "",
   "files": [
     {
       "path": "mods/TexFix V-1.10.2-4.0.jar",
       "hashes": {
-        "sha1": "6615fbd064b9b05cf6fb1c08a4e5138804ea515c",
-        "sha512": "2c8a77fdb87782e8167f512241d57f3650c0d66c454d4d9b55b69ebfb624329f21bbbda2e9b64951d5ec5cb08c77ae020a1da771542b1cfe869d60f29cfdeba3"
+        "sha512": "2c8a77fdb87782e8167f512241d57f3650c0d66c454d4d9b55b69ebfb624329f21bbbda2e9b64951d5ec5cb08c77ae020a1da771542b1cfe869d60f29cfdeba3",
+        "sha1": "6615fbd064b9b05cf6fb1c08a4e5138804ea515c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/L6UZ430O/versions/UiM94gAd/TexFix%20V-1.10.2-4.0.jar"
+      ],
+      "fileSize": 6393
+    },
+    {
+      "path": "mods/Born In A Barn 1.8-1.12-1.2.jar",
+      "hashes": {
+        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682",
+        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/L6UZ430O/versions/UiM94gAd/TexFix%20V-1.10.2-4.0.jar"
+        "https://cdn.modrinth.com/data/WfPGKC8F/versions/40q9Yeit/Born%20In%20A%20Barn%201.8-1.12-1.2.jar"
       ],
-      "fileSize": 6393
+      "fileSize": 4847
     },
     {
       "path": "mods/phosphor-universal.jar",
@@ -36,29 +51,14 @@
       "fileSize": 1047285
     },
     {
-      "path": "mods/Born In A Barn 1.8-1.12-1.2.jar",
-      "hashes": {
-        "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949",
-        "sha512": "aaadf3b97ceb905ed21fd495d5176cab38795f73f137b5b00e8d5b42edaf20d247c8d20fa0a0136031e173d4f67f285477a5cfda025d4d8f847530359ed2d682"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/WfPGKC8F/versions/40q9Yeit/Born%20In%20A%20Barn%201.8-1.12-1.2.jar"
-      ],
-      "fileSize": 4847
-    },
-    {
       "path": "mods/foamfix-0.7.4-anarchy.jar",
       "hashes": {
         "sha1": "3f36a4a7ec12802c5e4e29a3b7abf99a7258dde5",
         "sha512": "693d92216cac4735cd267635658135877261d470f4885461163b528e09c5144ebec7dd484199bb3ea5e58dc6ac5badd05b85455bd5eabf4e061cf81568d5b5f8"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/jupr7Bf5/versions/0.7.4/foamfix-0.7.4-anarchy.jar"
@@ -67,7 +67,7 @@
     }
   ],
   "dependencies": {
-    "minecraft": "1.10.2",
-    "forge": "12.18.3.2511"
+    "forge": "12.18.3.2511",
+    "minecraft": "1.10.2"
   }
 }
