@@ -1,10 +1,25 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0",
+  "versionId": "1.1.0",
   "name": "Photon",
   "summary": "",
   "files": [
+    {
+      "path": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "hashes": {
+        "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808",
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar"
+      ],
+      "fileSize": 218152
+    },
     {
       "path": "mods/modernfix-forge-5.18.6+mc1.20.1.jar",
       "hashes": {
@@ -12,8 +27,8 @@
         "sha1": "ace6243d0985d1cb56a6156e0f1903dd72542586"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/nmDcB62a/versions/QroNBg6X/modernfix-forge-5.18.6%2Bmc1.20.1.jar"
@@ -21,10 +36,40 @@
       "fileSize": 774844
     },
     {
+      "path": "mods/ImmediatelyFast-NeoForge-1.5.2+1.20.4.jar",
+      "hashes": {
+        "sha1": "4e63aa239bd640286a08dff5f0b82e1e5e4d4706",
+        "sha512": "dcf2101759c2cd84cc4dc18d3493bafdbcb34f4ab41e39800acbe62f983b905689fecbc6889d3433bdcf129a1043040126a0a723874afa43cdb1d59321395774"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/cb3A2NLq/ImmediatelyFast-NeoForge-1.5.2%2B1.20.4.jar"
+      ],
+      "fileSize": 266192
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "hashes": {
+        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9",
+        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 1320675
+    },
+    {
       "path": "mods/ferritecore-6.0.1-forge.jar",
       "hashes": {
-        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
-        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
       },
       "env": {
         "server": "required",
@@ -34,36 +79,6 @@
         "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
       ],
       "fileSize": 123034
-    },
-    {
-      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
-      "hashes": {
-        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
-        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
-      ],
-      "fileSize": 1320675
-    },
-    {
-      "path": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
-      "hashes": {
-        "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808",
-        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar"
-      ],
-      "fileSize": 218152
     },
     {
       "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
@@ -82,7 +97,7 @@
     }
   ],
   "dependencies": {
-    "neoforge": "47.1.106",
-    "minecraft": "1.20.1"
+    "minecraft": "1.20.1",
+    "neoforge": "47.1.106"
   }
 }
