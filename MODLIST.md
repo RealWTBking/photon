@@ -533,6 +533,7 @@
         <ul>
             <li><a href="https://modrinth.com/mod/embeddium">Embeddium</a> by <a href="https://modrinth.com/user/Asek3">Asek3</a></li>
             <li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a> by <a href="https://modrinth.com/user/malte0811">malte0811</a></li>
+            <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a> by <a href="https://modrinth.com/user/RaphiMC">RaphiMC</a></li>
             <li><a href="https://modrinth.com/mod/modernfix">ModernFix</a> by <a href="https://modrinth.com/user/embeddedt">embeddedt</a></li>
             <li><a href="https://modrinth.com/mod/noisium">Noisium</a> by <a href="https://modrinth.com/user/Steveplays">Steveplays</a></li>
             <li><a href="https://modrinth.com/mod/radium">Radium</a> by <a href="https://modrinth.com/user/Asek3">Asek3</a></li>
