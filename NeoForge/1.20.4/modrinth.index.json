@@ -1,54 +1,24 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.11",
+  "versionId": "1.0.12",
   "name": "Photon",
   "summary": "",
   "files": [
     {
-      "path": "mods/embeddium-0.3.25+mc1.20.4.jar",
+      "path": "mods/BadOptimizations-2.4.0-1.20.2-20.4.jar",
       "hashes": {
-        "sha1": "eb82ba356d65403bf6b2de0fe9fc366a21ff904f",
-        "sha512": "6565e4e037a22711589ad1a51a47f1d9e1afcd74b727d3baffc242b7d549ef0c01772102eac5e6c015f73ac1ea21b1b0bfd3fb33ebf078314e0ac71d84b1c705"
+        "sha512": "e367ed438092e18458db6ee54a09ee13854a004f95c98345b7da1335a86a535c9602803a00ec719b05a3d2c0c29032b16dc20988018a237b1b5b7dff5b2f23a0",
+        "sha1": "9d05e1dbb3b3b61166fbaf2b43949d29358492b9"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/sk9rgfiA/versions/YcDuSsmz/embeddium-0.3.25%2Bmc1.20.4.jar"
+        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/ILSbBvuM/BadOptimizations-2.4.0-1.20.2-20.4.jar"
       ],
-      "fileSize": 1103387
-    },
-    {
-      "path": "mods/entityculling-neoforge-1.9.3-mc1.20.4.jar",
-      "hashes": {
-        "sha1": "b831bac4051fa65b40fea4e2b2019bb08754860c",
-        "sha512": "7ecbc4c2ed6bd98bc21244a015835e5c711025c5f985ef02ea3d39c83d0d9aa9e184db888e51f48dd5f62364c3481ad1e8b735731037b7a6276a745d1915c81e"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/W8S7S0JC/entityculling-neoforge-1.9.3-mc1.20.4.jar"
-      ],
-      "fileSize": 474721
-    },
-    {
-      "path": "mods/ferritecore-6.0.3-forge.jar",
-      "hashes": {
-        "sha1": "84542fbd77f2c3290faad89b079a2f062db8934c",
-        "sha512": "54836d48903bb81d951208989d780f6da44193e809188cb24d91d908a900279078fec7ec8295486775e4d299cdb4998cbb41b01acb80655cf66455aa5a0f8da9"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/85kC2OMr/ferritecore-6.0.3-forge.jar"
-      ],
-      "fileSize": 121760
+      "fileSize": 309534
     },
     {
       "path": "mods/ImmediatelyFast-NeoForge-1.5.2+1.20.4.jar",
@@ -66,6 +36,21 @@
       "fileSize": 266192
     },
     {
+      "path": "mods/ferritecore-6.0.3-forge.jar",
+      "hashes": {
+        "sha512": "54836d48903bb81d951208989d780f6da44193e809188cb24d91d908a900279078fec7ec8295486775e4d299cdb4998cbb41b01acb80655cf66455aa5a0f8da9",
+        "sha1": "84542fbd77f2c3290faad89b079a2f062db8934c"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/85kC2OMr/ferritecore-6.0.3-forge.jar"
+      ],
+      "fileSize": 121760
+    },
+    {
       "path": "mods/modernfix-neoforge-5.17.0+mc1.20.4.jar",
       "hashes": {
         "sha1": "c6838b872d8c5b831a6b308ed9a18ca07303dd5d",
@@ -81,25 +66,40 @@
       "fileSize": 537565
     },
     {
-      "path": "mods/BadOptimizations-2.3.1-1.20.2-20.4.jar",
+      "path": "mods/entityculling-neoforge-1.9.3-mc1.20.4.jar",
       "hashes": {
-        "sha512": "7b946de9fc4a530f1a941925cf89f518b3b26f4f8cce088c11ef9d5292ee46147a872a60d891208eb1eaef2ea55025423cc9ecb64b08a07e8938376cd9cabc5a",
-        "sha1": "a52a520c26dba08c1a5345640266fc2d5a679106"
+        "sha1": "b831bac4051fa65b40fea4e2b2019bb08754860c",
+        "sha512": "7ecbc4c2ed6bd98bc21244a015835e5c711025c5f985ef02ea3d39c83d0d9aa9e184db888e51f48dd5f62364c3481ad1e8b735731037b7a6276a745d1915c81e"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/W8S7S0JC/entityculling-neoforge-1.9.3-mc1.20.4.jar"
+      ],
+      "fileSize": 474721
+    },
+    {
+      "path": "mods/embeddium-0.3.25+mc1.20.4.jar",
+      "hashes": {
+        "sha1": "eb82ba356d65403bf6b2de0fe9fc366a21ff904f",
+        "sha512": "6565e4e037a22711589ad1a51a47f1d9e1afcd74b727d3baffc242b7d549ef0c01772102eac5e6c015f73ac1ea21b1b0bfd3fb33ebf078314e0ac71d84b1c705"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/tQ1FNXaK/BadOptimizations-2.3.1-1.20.2-20.4.jar"
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/YcDuSsmz/embeddium-0.3.25%2Bmc1.20.4.jar"
       ],
-      "fileSize": 298687
+      "fileSize": 1103387
     },
     {
       "path": "mods/noisium-neoforge-2.3.0+mc1.20.2-1.20.4.jar",
       "hashes": {
-        "sha1": "5e976028c1179e8de3a1d703d53a6f1834d9fc12",
-        "sha512": "745c4fb06e012f25582f5ead5167be1ba75804921b72e493778319f933f6072444fa926716530515970fe151073922018e80c7220c29a7c2359b52c92205f78e"
+        "sha512": "745c4fb06e012f25582f5ead5167be1ba75804921b72e493778319f933f6072444fa926716530515970fe151073922018e80c7220c29a7c2359b52c92205f78e",
+        "sha1": "5e976028c1179e8de3a1d703d53a6f1834d9fc12"
       },
       "env": {
         "server": "required",
