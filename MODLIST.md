@@ -297,6 +297,7 @@
             <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
             <li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a> by <a href="https://modrinth.com/user/malte0811">malte0811</a></li>
             <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a> by <a href="https://modrinth.com/user/RaphiMC">RaphiMC</a></li>
+            <li><a href="https://modrinth.com/mod/ixeris">Ixeris</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
             <li><a href="https://modrinth.com/mod/modernfix">ModernFix</a> by <a href="https://modrinth.com/user/embeddedt">embeddedt</a></li>
             <li><a href="https://modrinth.com/mod/noisium">Noisium</a> by <a href="https://modrinth.com/user/Steveplays">Steveplays</a></li>
             <li><a href="https://modrinth.com/mod/radium">Radium</a> by <a href="https://modrinth.com/user/Asek3">Asek3</a></li>
@@ -324,6 +325,7 @@
             <li><a href="https://modrinth.com/mod/embeddium">Embeddium</a> by <a href="https://modrinth.com/user/Asek3">Asek3</a></li>
             <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
             <li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a> by <a href="https://modrinth.com/user/malte0811">malte0811</a></li>
+            <li><a href="https://modrinth.com/mod/ixeris">Ixeris</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
             <li><a href="https://modrinth.com/mod/lazydfu">LazyDFU</a> by <a href="https://modrinth.com/user/astei">astei</a></li>
             <li><a href="https://modrinth.com/mod/modernfix">ModernFix</a> by <a href="https://modrinth.com/user/embeddedt">embeddedt</a></li>
             <li><a href="https://modrinth.com/mod/radon">Radon</a> by <a href="https://modrinth.com/user/Asek3">Asek3</a></li>
@@ -345,6 +347,7 @@
             <li><a href="https://modrinth.com/mod/embeddium">Embeddium</a> by <a href="https://modrinth.com/user/Asek3">Asek3</a></li>
             <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
             <li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a> by <a href="https://modrinth.com/user/malte0811">malte0811</a></li>
+            <li><a href="https://modrinth.com/mod/ixeris">Ixeris</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
             <li><a href="https://modrinth.com/mod/lazydfu">LazyDFU</a> by <a href="https://modrinth.com/user/astei">astei</a></li>
             <li><a href="https://modrinth.com/mod/modernfix">ModernFix</a> by <a href="https://modrinth.com/user/embeddedt">embeddedt</a></li>
             <li><a href="https://modrinth.com/mod/radon">Radon</a> by <a href="https://modrinth.com/user/Asek3">Asek3</a></li>
@@ -530,6 +533,7 @@
             <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
             <li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a> by <a href="https://modrinth.com/user/malte0811">malte0811</a></li>
             <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a> by <a href="https://modrinth.com/user/RaphiMC">RaphiMC</a></li>
+            <li><a href="https://modrinth.com/mod/ixeris">Ixeris</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
             <li><a href="https://modrinth.com/mod/lithium">Lithium</a> by <a href="https://modrinth.com/user/jellysquid3">jellysquid3</a></li>
             <li><a href="https://modrinth.com/mod/modernfix">ModernFix</a> by <a href="https://modrinth.com/user/embeddedt">embeddedt</a></li>
             <li><a href="https://modrinth.com/mod/moreculling">More Culling</a> by <a href="https://modrinth.com/user/FX">FX</a></li>
