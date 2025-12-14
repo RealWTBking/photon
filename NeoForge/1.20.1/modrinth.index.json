@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.1.0",
+  "versionId": "1.1.1",
   "name": "Photon",
   "summary": "",
   "files": [
@@ -21,14 +21,44 @@
       "fileSize": 218152
     },
     {
+      "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "hashes": {
+        "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a",
+        "sha512": "7b59c491d72801257c740626faab8c14ed580db28493c474147341531bca3de5ea822d4042d3786ae619449b6f6ffc1001a1cdc1b9276ec900e57ab17dd8989a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2gvRmQXx/versions/n947JjJH/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar"
+      ],
+      "fileSize": 713454
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.5.3+1.20.4.jar",
+      "hashes": {
+        "sha512": "234c86cc6c752a6485ab6217fdac5e614e991c0b245cd36def7944bc8484ed7d2bb1a7abdb201f3c207ffcee62fcee2438ec4d3250c48b6c1f260ed742267713",
+        "sha1": "782e371c774c6940253be89475a2d4b6c078aa71"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/lPEqSBsI/ImmediatelyFast-NeoForge-1.5.3%2B1.20.4.jar"
+      ],
+      "fileSize": 266424
+    },
+    {
       "path": "mods/modernfix-forge-5.18.6+mc1.20.1.jar",
       "hashes": {
         "sha512": "44da78ddb960472de86023d43691ad22771eb9d197e72e1b5d5ba58e01a6b83dbb4d0e1b27e566fb7fc24ee484ecba035f4832dab42cd03194912107b1f35d00",
         "sha1": "ace6243d0985d1cb56a6156e0f1903dd72542586"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/nmDcB62a/versions/QroNBg6X/modernfix-forge-5.18.6%2Bmc1.20.1.jar"
@@ -36,19 +66,19 @@
       "fileSize": 774844
     },
     {
-      "path": "mods/ImmediatelyFast-NeoForge-1.5.2+1.20.4.jar",
+      "path": "mods/ferritecore-6.0.1-forge.jar",
       "hashes": {
-        "sha1": "4e63aa239bd640286a08dff5f0b82e1e5e4d4706",
-        "sha512": "dcf2101759c2cd84cc4dc18d3493bafdbcb34f4ab41e39800acbe62f983b905689fecbc6889d3433bdcf129a1043040126a0a723874afa43cdb1d59321395774"
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
+        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/cb3A2NLq/ImmediatelyFast-NeoForge-1.5.2%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
       ],
-      "fileSize": 266192
+      "fileSize": 123034
     },
     {
       "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
@@ -64,36 +94,6 @@
         "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
       ],
       "fileSize": 1320675
-    },
-    {
-      "path": "mods/ferritecore-6.0.1-forge.jar",
-      "hashes": {
-        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
-        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
-      ],
-      "fileSize": 123034
-    },
-    {
-      "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
-      "hashes": {
-        "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a",
-        "sha512": "7b59c491d72801257c740626faab8c14ed580db28493c474147341531bca3de5ea822d4042d3786ae619449b6f6ffc1001a1cdc1b9276ec900e57ab17dd8989a"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/2gvRmQXx/versions/n947JjJH/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar"
-      ],
-      "fileSize": 713454
     }
   ],
   "dependencies": {
