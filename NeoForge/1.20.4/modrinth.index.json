@@ -1,10 +1,100 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.13",
+  "versionId": "1.0.14",
   "name": "Photon",
   "summary": "",
   "files": [
+    {
+      "path": "mods/modernfix-neoforge-5.17.0+mc1.20.4.jar",
+      "hashes": {
+        "sha512": "e593815a77fd457eb693489a17a8fd0eab377d78c53454ae7250583092b62d887516a11c7c0ed51120019e0e141aaa4d1ab70e2ae8a136bf4f9cf9a82d258167",
+        "sha1": "c6838b872d8c5b831a6b308ed9a18ca07303dd5d"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/Kf6nINYI/modernfix-neoforge-5.17.0%2Bmc1.20.4.jar"
+      ],
+      "fileSize": 537565
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.5.3+1.20.4.jar",
+      "hashes": {
+        "sha512": "234c86cc6c752a6485ab6217fdac5e614e991c0b245cd36def7944bc8484ed7d2bb1a7abdb201f3c207ffcee62fcee2438ec4d3250c48b6c1f260ed742267713",
+        "sha1": "782e371c774c6940253be89475a2d4b6c078aa71"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/lPEqSBsI/ImmediatelyFast-NeoForge-1.5.3%2B1.20.4.jar"
+      ],
+      "fileSize": 266424
+    },
+    {
+      "path": "mods/BadOptimizations-2.4.1-1.20.2-20.4.jar",
+      "hashes": {
+        "sha1": "7e378c958ae27cfb7278ea69c8195c67a17e34aa",
+        "sha512": "0a1516a6547f1f2d5180d13cebdecd44c66aad454bd66a265de9b0555505cf7eb4cc318f0cb6b5392aba42a81b708544c20fcb2c4f8fdfc07739c8533d7e7dea"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/2j7ZpIyw/BadOptimizations-2.4.1-1.20.2-20.4.jar"
+      ],
+      "fileSize": 306487
+    },
+    {
+      "path": "mods/ferritecore-6.0.3-forge.jar",
+      "hashes": {
+        "sha1": "84542fbd77f2c3290faad89b079a2f062db8934c",
+        "sha512": "54836d48903bb81d951208989d780f6da44193e809188cb24d91d908a900279078fec7ec8295486775e4d299cdb4998cbb41b01acb80655cf66455aa5a0f8da9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/85kC2OMr/ferritecore-6.0.3-forge.jar"
+      ],
+      "fileSize": 121760
+    },
+    {
+      "path": "mods/entityculling-neoforge-1.9.4-mc1.20.4.jar",
+      "hashes": {
+        "sha512": "0ce03630776168ccd708b2122e031844e9faf0c06476397e467532f68233abf36cf7997429941af129f7a061aed7deb2a3dae087332bc60e293f2ae470678540",
+        "sha1": "c71d0df800c21719aeae4f812cd53811b6ebd4b3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/RHZwm6JO/entityculling-neoforge-1.9.4-mc1.20.4.jar"
+      ],
+      "fileSize": 1565044
+    },
+    {
+      "path": "mods/embeddium-0.3.25+mc1.20.4.jar",
+      "hashes": {
+        "sha512": "6565e4e037a22711589ad1a51a47f1d9e1afcd74b727d3baffc242b7d549ef0c01772102eac5e6c015f73ac1ea21b1b0bfd3fb33ebf078314e0ac71d84b1c705",
+        "sha1": "eb82ba356d65403bf6b2de0fe9fc366a21ff904f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/YcDuSsmz/embeddium-0.3.25%2Bmc1.20.4.jar"
+      ],
+      "fileSize": 1103387
+    },
     {
       "path": "mods/noisium-neoforge-2.3.0+mc1.20.2-1.20.4.jar",
       "hashes": {
@@ -19,96 +109,6 @@
         "https://cdn.modrinth.com/data/KuNKN7d2/versions/rjcZ5G3m/noisium-neoforge-2.3.0%2Bmc1.20.2-1.20.4.jar"
       ],
       "fileSize": 58938
-    },
-    {
-      "path": "mods/ferritecore-6.0.3-forge.jar",
-      "hashes": {
-        "sha512": "54836d48903bb81d951208989d780f6da44193e809188cb24d91d908a900279078fec7ec8295486775e4d299cdb4998cbb41b01acb80655cf66455aa5a0f8da9",
-        "sha1": "84542fbd77f2c3290faad89b079a2f062db8934c"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/85kC2OMr/ferritecore-6.0.3-forge.jar"
-      ],
-      "fileSize": 121760
-    },
-    {
-      "path": "mods/BadOptimizations-2.4.0-1.20.2-20.4.jar",
-      "hashes": {
-        "sha1": "9d05e1dbb3b3b61166fbaf2b43949d29358492b9",
-        "sha512": "e367ed438092e18458db6ee54a09ee13854a004f95c98345b7da1335a86a535c9602803a00ec719b05a3d2c0c29032b16dc20988018a237b1b5b7dff5b2f23a0"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/ILSbBvuM/BadOptimizations-2.4.0-1.20.2-20.4.jar"
-      ],
-      "fileSize": 309534
-    },
-    {
-      "path": "mods/ImmediatelyFast-NeoForge-1.5.3+1.20.4.jar",
-      "hashes": {
-        "sha1": "782e371c774c6940253be89475a2d4b6c078aa71",
-        "sha512": "234c86cc6c752a6485ab6217fdac5e614e991c0b245cd36def7944bc8484ed7d2bb1a7abdb201f3c207ffcee62fcee2438ec4d3250c48b6c1f260ed742267713"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/lPEqSBsI/ImmediatelyFast-NeoForge-1.5.3%2B1.20.4.jar"
-      ],
-      "fileSize": 266424
-    },
-    {
-      "path": "mods/entityculling-neoforge-1.9.4-mc1.20.4.jar",
-      "hashes": {
-        "sha1": "c71d0df800c21719aeae4f812cd53811b6ebd4b3",
-        "sha512": "0ce03630776168ccd708b2122e031844e9faf0c06476397e467532f68233abf36cf7997429941af129f7a061aed7deb2a3dae087332bc60e293f2ae470678540"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/RHZwm6JO/entityculling-neoforge-1.9.4-mc1.20.4.jar"
-      ],
-      "fileSize": 1565044
-    },
-    {
-      "path": "mods/modernfix-neoforge-5.17.0+mc1.20.4.jar",
-      "hashes": {
-        "sha1": "c6838b872d8c5b831a6b308ed9a18ca07303dd5d",
-        "sha512": "e593815a77fd457eb693489a17a8fd0eab377d78c53454ae7250583092b62d887516a11c7c0ed51120019e0e141aaa4d1ab70e2ae8a136bf4f9cf9a82d258167"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/Kf6nINYI/modernfix-neoforge-5.17.0%2Bmc1.20.4.jar"
-      ],
-      "fileSize": 537565
-    },
-    {
-      "path": "mods/embeddium-0.3.25+mc1.20.4.jar",
-      "hashes": {
-        "sha1": "eb82ba356d65403bf6b2de0fe9fc366a21ff904f",
-        "sha512": "6565e4e037a22711589ad1a51a47f1d9e1afcd74b727d3baffc242b7d549ef0c01772102eac5e6c015f73ac1ea21b1b0bfd3fb33ebf078314e0ac71d84b1c705"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/sk9rgfiA/versions/YcDuSsmz/embeddium-0.3.25%2Bmc1.20.4.jar"
-      ],
-      "fileSize": 1103387
     }
   ],
   "dependencies": {
