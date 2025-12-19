@@ -20,7 +20,9 @@
             <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a> by <a href="https://modrinth.com/user/RaphiMC">RaphiMC</a></li>
             <li><a href="https://modrinth.com/mod/ixeris">Ixeris</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
             <li><a href="https://modrinth.com/mod/lithium">Lithium</a> by <a href="https://modrinth.com/user/jellysquid3">jellysquid3</a></li>
+            <li><a href="https://modrinth.com/mod/modernfix-mvus">ModernFix-mVUS</a> by <a href="https://modrinth.com/user/Coredex">Coredex</a></li>
             <li><a href="https://modrinth.com/mod/moreculling">More Culling</a> by <a href="https://modrinth.com/user/FX">FX</a></li>
+            <li><a href="https://modrinth.com/mod/noisumforked">NoisiumForked</a> by <a href="https://modrinth.com/user/Coredex">Coredex</a></li>
             <li><a href="https://modrinth.com/mod/scalablelux">ScalableLux</a> by <a href="https://modrinth.com/user/ishland">ishland</a></li>
             <li><a href="https://modrinth.com/mod/sodium">Sodium</a> by <a href="https://modrinth.com/user/jellysquid3">jellysquid3</a></li>
         </ul>
