@@ -315,6 +315,7 @@
             <li><a href="https://modrinth.com/mod/embeddium">Embeddium</a> by <a href="https://modrinth.com/user/Asek3">Asek3</a></li>
             <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
             <li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a> by <a href="https://modrinth.com/user/malte0811">malte0811</a></li>
+            <li><a href="https://modrinth.com/mod/flerovium">Flerovium</a> by <a href="https://modrinth.com/user/MoePus">MoePlus</a></li>
             <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a> by <a href="https://modrinth.com/user/RaphiMC">RaphiMC</a></li>
             <li><a href="https://modrinth.com/mod/ixeris">Ixeris</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
             <li><a href="https://modrinth.com/mod/modernfix">ModernFix</a> by <a href="https://modrinth.com/user/embeddedt">embeddedt</a></li>
@@ -551,6 +552,7 @@
             <li><a href="https://modrinth.com/mod/c2me-neoforge">Concurrent Chunk Management Engine (NeoForge)</a> by <a href="https://modrinth.com/user/ishland">ishland</a></li>
             <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
             <li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a> by <a href="https://modrinth.com/user/malte0811">malte0811</a></li>
+            <li><a href="https://modrinth.com/mod/flerovium">Flerovium</a> by <a href="https://modrinth.com/user/MoePus">MoePlus</a></li>
             <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a> by <a href="https://modrinth.com/user/RaphiMC">RaphiMC</a></li>
             <li><a href="https://modrinth.com/mod/ixeris">Ixeris</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
             <li><a href="https://modrinth.com/mod/lithium">Lithium</a> by <a href="https://modrinth.com/user/jellysquid3">jellysquid3</a></li>
