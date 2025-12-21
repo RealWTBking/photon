@@ -9,7 +9,7 @@
     <summary><img src="fabric-logo.png" style="vertical-align:middle; display:inline;">Fabric</summary>
     <div style="padding-left:1rem;">
     <details>
-        <summary>1.21.11 (Beta)</summary>
+        <summary>1.21.11</summary>
         <ul>
             <li><a href="https://modrinth.com/mod/badoptimizations">BadOptimizations</a> by <a href="https://modrinth.com/user/thosea">thosea</a></li>
             <li><a href="https://modrinth.com/mod/cloth-config">Cloth Config API</a> by <a href="https://modrinth.com/user/shedaniel">shedaniel</a></li>
@@ -456,7 +456,24 @@
     <summary><img src="neoforge-logo.png" style="vertical-align:middle; display:inline;">NeoForge</summary>
     <div style="padding-left:1rem;">
     <details>
-    <summary>1.21.10 (Beta)</summary>
+    <summary>1.21.11 (Beta)</summary>
+        <ul>
+            <li><a href="https://modrinth.com/mod/badoptimizations">BadOptimizations</a> by <a href="https://modrinth.com/user/thosea">thosea</a></li>
+            <li><a href="https://modrinth.com/mod/cloth-config">Cloth Config API</a> by <a href="https://modrinth.com/user/shedaniel">shedaniel</a></li>
+            <li><a href="https://modrinth.com/mod/c2me-neoforge">Concurrent Chunk Management Engine (NeoForge)</a> by <a href="https://modrinth.com/user/ishland">ishland</a></li>
+            <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
+            <li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a> by <a href="https://modrinth.com/user/malte0811">malte0811</a></li>
+            <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a> by <a href="https://modrinth.com/user/RaphiMC">RaphiMC</a></li>
+            <li><a href="https://modrinth.com/mod/ixeris">Ixeris</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
+            <li><a href="https://modrinth.com/mod/lithium">Lithium</a> by <a href="https://modrinth.com/user/jellysquid3">jellysquid3</a></li>
+            <li><a href="https://modrinth.com/mod/modernfix-mvus">ModernFix-mVUS</a> by <a href="https://modrinth.com/user/Coredex">Coredex</a></li>
+            <li><a href="https://modrinth.com/mod/moreculling">More Culling</a> by <a href="https://modrinth.com/user/FX">FX</a></li>
+            <li><a href="https://modrinth.com/mod/noisumforked">NoisiumForked</a> by <a href="https://modrinth.com/user/Coredex">Coredex</a></li>
+            <li><a href="https://modrinth.com/mod/sodium">Sodium</a> by <a href="https://modrinth.com/user/jellysquid3">jellysquid3</a></li>
+        </ul>
+    </details>
+    <details>
+    <summary>1.21.10</summary>
         <ul>
             <li><a href="https://modrinth.com/mod/badoptimizations">BadOptimizations</a> by <a href="https://modrinth.com/user/thosea">thosea</a></li>
             <li><a href="https://modrinth.com/mod/cloth-config">Cloth Config API</a> by <a href="https://modrinth.com/user/shedaniel">shedaniel</a></li>
@@ -472,6 +489,8 @@
             <li><a href="https://modrinth.com/mod/scalablelux">ScalableLux</a> by <a href="https://modrinth.com/user/ishland">ishland</a></li>
             <li><a href="https://modrinth.com/mod/sodium">Sodium</a> by <a href="https://modrinth.com/user/jellysquid3">jellysquid3</a></li>
         </ul>
+    </details>
+    <details>
         <summary>1.21.8 (Beta)</summary>
         <ul>
             <li><a href="https://modrinth.com/mod/badoptimizations">BadOptimizations</a> by <a href="https://modrinth.com/user/thosea">thosea</a></li>
@@ -610,6 +629,25 @@
     <summary><img src="quilt-logo.png" style="vertical-align:middle; display:inline;">Quilt</summary>
     <div style="padding-left:1rem;">
     <details>
+        <summary>1.21.11 (Beta)</summary>
+        <ul>
+            <li><a href="https://modrinth.com/mod/badoptimizations">BadOptimizations</a> by <a href="https://modrinth.com/user/thosea">thosea</a></li>
+            <li><a href="https://modrinth.com/mod/cloth-config">Cloth Config API</a> by <a href="https://modrinth.com/user/shedaniel">shedaniel</a></li>
+            <li><a href="https://modrinth.com/mod/c2me-fabric">Concurrent Chunk Management Engine (Fabric)</a> by <a href="https://modrinth.com/user/ishland">ishland</a></li>
+            <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
+            <li><a href="https://modrinth.com/mod/fabric-api">Fabric API</a> by <a href="https://modrinth.com/user/modmuss50">modmuss50</a></li>
+            <li><a href="https://modrinth.com/mod/ferrite-core">FerriteCore</a> by <a href="https://modrinth.com/user/malte0811">malte0811</a></li>
+            <li><a href="https://modrinth.com/mod/immediatelyfast">ImmediatelyFast</a> by <a href="https://modrinth.com/user/RaphiMC">RaphiMC</a></li>
+            <li><a href="https://modrinth.com/mod/ixeris">Ixeris</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
+            <li><a href="https://modrinth.com/mod/lithium">Lithium</a> by <a href="https://modrinth.com/user/jellysquid3">jellysquid3</a></li>
+            <li><a href="https://modrinth.com/mod/modernfix-mvus">ModernFix-mVUS</a> by <a href="https://modrinth.com/user/Coredex">Coredex</a></li>
+            <li><a href="https://modrinth.com/mod/moreculling">More Culling</a> by <a href="https://modrinth.com/user/FX">FX</a></li>
+            <li><a href="https://modrinth.com/mod/noisumforked">NoisiumForked</a> by <a href="https://modrinth.com/user/Coredex">Coredex</a></li>
+            <li><a href="https://modrinth.com/mod/scalablelux">ScalableLux</a> by <a href="https://modrinth.com/user/ishland">ishland</a></li>
+            <li><a href="https://modrinth.com/mod/sodium">Sodium</a> by <a href="https://modrinth.com/user/jellysquid3">jellysquid3</a></li>
+        </ul>
+    </details>
+    <details>
         <summary>1.21.10</summary>
         <ul>
             <li><a href="https://modrinth.com/mod/badoptimizations">BadOptimizations</a> by <a href="https://modrinth.com/user/thosea">thosea</a></li>
@@ -629,7 +667,6 @@
             <li><a href="https://modrinth.com/mod/sodium">Sodium</a> by <a href="https://modrinth.com/user/jellysquid3">jellysquid3</a></li>
         </ul>
     </details>
-    <details>
     <details>
         <summary>1.21.8 (Beta)</summary>
         <ul>
