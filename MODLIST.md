@@ -380,19 +380,60 @@
         </ul>
     </details>
     <details>
-        <summary>1.12.2</summary>
+        <summary>1.12.2 (J25 + Celeritas) (Beta)</summary>
         <ul>
+            <li><a href="https://modrinth.com/mod/ai-improvements">AI Improvements</a> by <a href="https://modrinth.com/user/bl4ckscor3">bl4ckscor3</a></li>
             <li><a href="https://modrinth.com/mod/alfheim-lighting-engine">Alfheim</a> by <a href="https://modrinth.com/user/Desoroxxx">Desoroxxx</a></li>
             <li><a href="https://modrinth.com/mod/born-in-a-barn">Born in a Barn</a> by <a href="https://modrinth.com/user/Speiger">Speiger</a></li>
+            <li><a href="https://github.com/new9300/celeritas">Celeritas</a> by <a href="https://github.com/embeddedt">embeddedt</a></li>
             <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
-            <li><a href="https://modrinth.com/mod/fermiumasm">FermiumASM</a> by <a href="https://modrinth.com/user/fonnymunkey">fonnymunkey</a></li>
-            <li><a href="https://modrinth.com/mod/fermiumbooter">FermiumBooter</a> by <a href="https://modrinth.com/user/fonnymunkey">fonnymunkey</a></li>
+            <li><a href="https://modrinth.com/mod/gnetum">Gnetum</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
+            <li><a href="https://modrinth.com/mod/improved-cleanroom-relauncher">Improved Cleanroom Relauncher</a> by <a href="https://modrinth.com/organization/bruv-network">Bruv Network</a></li>
+            <li><a href="https://github.com/LoliKingdom/LoliASM">CensoredASM</a> by <a href="https://github.com/Rongmario">Rongmario</a></li>
             <li><a href="https://modrinth.com/mod/mixinbooter">MixinBooter</a> by <a href="https://modrinth.com/user/Cleanroom">Cleanroom</a></li>
             <li><a href="https://modrinth.com/mod/mixinbootstrap">MixinBootstrap</a> by <a href="https://modrinth.com/user/LXGaming">LXGaming</a></li>
             <li><a href="https://modrinth.com/mod/particle-culling">Particle Culling</a> by <a href="https://modrinth.com/user/bl4ckscor3">bl4ckscor3</a></li>
             <li><a href="https://modrinth.com/mod/red-core">Red Core</a> by <a href="https://modrinth.com/user/Desoroxxx">Desoroxxx</a></li>
             <li><a href="https://modrinth.com/mod/vintagefix">VintageFix</a> by <a href="https://modrinth.com/user/embeddedt">embeddedt</a></li>
-            <li><a href="https://modrinth.com/mod/relictium">Relictium</a> by <a href="https://modrinth.com/user/TheMade4">TheMade4</a></li>
+        </ul>
+    </details>
+    <details>
+        <summary>1.12.2 (J25 + Nothirium) (Beta)</summary>
+        <ul>
+            <li><a href="https://modrinth.com/mod/ai-improvements">AI Improvements</a> by <a href="https://modrinth.com/user/bl4ckscor3">bl4ckscor3</a></li>
+            <li><a href="https://modrinth.com/mod/alfheim-lighting-engine">Alfheim</a> by <a href="https://modrinth.com/user/Desoroxxx">Desoroxxx</a></li>
+            <li><a href="https://modrinth.com/mod/born-in-a-barn">Born in a Barn</a> by <a href="https://modrinth.com/user/Speiger">Speiger</a></li>
+            <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
+            <li><a href="https://modrinth.com/mod/gnetum">Gnetum</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
+            <li><a href="https://modrinth.com/mod/improved-cleanroom-relauncher">Improved Cleanroom Relauncher</a> by <a href="https://modrinth.com/organization/bruv-network">Bruv Network</a></li>
+            <li><a href="https://github.com/LoliKingdom/LoliASM">CensoredASM</a> by <a href="https://github.com/Rongmario">Rongmario</a></li>
+            <li><a href="https://modrinth.com/mod/mixinbooter">MixinBooter</a> by <a href="https://modrinth.com/user/Cleanroom">Cleanroom</a></li>
+            <li><a href="https://modrinth.com/mod/mixinbootstrap">MixinBootstrap</a> by <a href="https://modrinth.com/user/LXGaming">LXGaming</a></li>
+            <li><a href="https://modrinth.com/mod/naughthirium">Naughthirium</a> by <a href="https://modrinth.com/user/Rongmario">Rongmario</a></li>
+            <li><a href="https://modrinth.com/mod/nothirium">Nothirium</a> by <a href="https://modrinth.com/user/Meldexun">Meldexun</a></li>
+            <li><a href="https://modrinth.com/mod/particle-culling">Particle Culling</a> by <a href="https://modrinth.com/user/bl4ckscor3">bl4ckscor3</a></li>
+            <li><a href="https://modrinth.com/mod/red-core">Red Core</a> by <a href="https://modrinth.com/user/Desoroxxx">Desoroxxx</a></li>
+            <li><a href="https://modrinth.com/mod/renderlib">RenderLib</a> by <a href="https://modrinth.com/user/Meldexun">Meldexun</a></li>
+            <li><a href="https://modrinth.com/mod/vintagefix">VintageFix</a> by <a href="https://modrinth.com/user/embeddedt">embeddedt</a></li>
+        </ul>
+    </details>
+    <details>
+        <summary>1.12.2 (J8 + Nothirium)</summary>
+        <ul>
+            <li><a href="https://modrinth.com/mod/ai-improvements">AI Improvements</a> by <a href="https://modrinth.com/user/bl4ckscor3">bl4ckscor3</a></li>
+            <li><a href="https://modrinth.com/mod/alfheim-lighting-engine">Alfheim</a> by <a href="https://modrinth.com/user/Desoroxxx">Desoroxxx</a></li>
+            <li><a href="https://modrinth.com/mod/born-in-a-barn">Born in a Barn</a> by <a href="https://modrinth.com/user/Speiger">Speiger</a></li>
+            <li><a href="https://modrinth.com/mod/entityculling">Entity Culling</a> by <a href="https://modrinth.com/user/tr7zw">tr7zw</a></li>
+            <li><a href="https://modrinth.com/mod/gnetum">Gnetum</a> by <a href="https://modrinth.com/user/decce6">decce6</a></li>
+            <li><a href="https://github.com/LoliKingdom/LoliASM">CensoredASM</a> by <a href="https://github.com/Rongmario">Rongmario</a></li>
+            <li><a href="https://modrinth.com/mod/mixinbooter">MixinBooter</a> by <a href="https://modrinth.com/user/Cleanroom">Cleanroom</a></li>
+            <li><a href="https://modrinth.com/mod/mixinbootstrap">MixinBootstrap</a> by <a href="https://modrinth.com/user/LXGaming">LXGaming</a></li>
+            <li><a href="https://modrinth.com/mod/naughthirium">Naughthirium</a> by <a href="https://modrinth.com/user/Rongmario">Rongmario</a></li>
+            <li><a href="https://modrinth.com/mod/nothirium">Nothirium</a> by <a href="https://modrinth.com/user/Meldexun">Meldexun</a></li>
+            <li><a href="https://modrinth.com/mod/particle-culling">Particle Culling</a> by <a href="https://modrinth.com/user/bl4ckscor3">bl4ckscor3</a></li>
+            <li><a href="https://modrinth.com/mod/red-core">Red Core</a> by <a href="https://modrinth.com/user/Desoroxxx">Desoroxxx</a></li>
+            <li><a href="https://modrinth.com/mod/renderlib">RenderLib</a> by <a href="https://modrinth.com/user/Meldexun">Meldexun</a></li>
+            <li><a href="https://modrinth.com/mod/vintagefix">VintageFix</a> by <a href="https://modrinth.com/user/embeddedt">embeddedt</a></li>
         </ul>
     </details>
     <details>
