@@ -1,10 +1,40 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.2.0-j25-nothirium",
+  "versionId": "1.2.1-j25-nothirium",
   "name": "Photon J25+Nothirium",
   "summary": "",
   "files": [
+    {
+      "path": "mods/AIImprovements-1.12-0.0.1b3.jar",
+      "hashes": {
+        "sha512": "90e12cb0d98cc1003cfee3bc9e97adc27292d9c42ac5447237588bd3705f03a599b55ef060e32e119a9d00eb57fb52426f6e72ec60611de9b2ed7e40b74f1809",
+        "sha1": "ef4b64cd4fc10522ead1f659b81e471af455c3fe"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/DSVgwcji/versions/kOyZhvg3/AIImprovements-1.12-0.0.1b3.jar"
+      ],
+      "fileSize": 7266
+    },
+    {
+      "path": "mods/_MixinBootstrap-1.1.0.jar",
+      "hashes": {
+        "sha512": "973aeff50dd8e1976895d36917e3f06334dc70800dfbd12639e522fb2b71e130db3865fd67d494e2d13e2ca67efe76ecfc3ee60d138e880dc884ac9f82c35eb8",
+        "sha1": "f9173708d3d2850ab8df778b9594b81cb94b1df8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6a16628x/versions/hOGSWOX8/_MixinBootstrap-1.1.0.jar"
+      ],
+      "fileSize": 1119478
+    },
     {
       "path": "mods/vintagefix-0.6.2.jar",
       "hashes": {
@@ -21,55 +51,10 @@
       "fileSize": 1034861
     },
     {
-      "path": "mods/Alfheim-1.6.jar",
-      "hashes": {
-        "sha1": "15aaa39a13e18ab2f29456b25fd9732da1949329",
-        "sha512": "0911b09fa949ac29d998437322e28fbc66f5230ed1de9d69c7d27dd44afb5aa864e108bfcacee8097069b3e47bc5891ce80f941f1d611872ed19b24ab41192a5"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/srzJgOEn/versions/CbatFFab/Alfheim-1.6.jar"
-      ],
-      "fileSize": 70512
-    },
-    {
-      "path": "mods/Nothirium-1.12.2-0.4.8-beta.jar",
-      "hashes": {
-        "sha1": "d9aadf32c79e5e763d150e12ce6162f1009f9dd1",
-        "sha512": "1286fbec1daa6cca95e9931011daa20bdcf450b8e219af390423636dda1b2eb34b25ddc71ff284c8fa2a71f90fd801c5e65243f511246165320f6507405f83f8"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/IhV0znaZ/versions/KmCkdwqB/Nothirium-1.12.2-0.4.8-beta.jar"
-      ],
-      "fileSize": 207598
-    },
-    {
-      "path": "mods/AIImprovements-1.12-0.0.1b3.jar",
-      "hashes": {
-        "sha1": "ef4b64cd4fc10522ead1f659b81e471af455c3fe",
-        "sha512": "90e12cb0d98cc1003cfee3bc9e97adc27292d9c42ac5447237588bd3705f03a599b55ef060e32e119a9d00eb57fb52426f6e72ec60611de9b2ed7e40b74f1809"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/DSVgwcji/versions/kOyZhvg3/AIImprovements-1.12-0.0.1b3.jar"
-      ],
-      "fileSize": 7266
-    },
-    {
       "path": "mods/RenderLib-1.12.2-1.4.5.jar",
       "hashes": {
-        "sha1": "da121ecfd63ea615de9a26276614bb0ab9306d95",
-        "sha512": "2f766fc57e8d8336ff1b58366d1a182e0f1c7bb8df2043b8110f02d605e180429853fda065e977941d4998b4f04f9b62b766431b46e96f677b1d1e5fff40ff7c"
+        "sha512": "2f766fc57e8d8336ff1b58366d1a182e0f1c7bb8df2043b8110f02d605e180429853fda065e977941d4998b4f04f9b62b766431b46e96f677b1d1e5fff40ff7c",
+        "sha1": "da121ecfd63ea615de9a26276614bb0ab9306d95"
       },
       "env": {
         "client": "required",
@@ -83,8 +68,8 @@
     {
       "path": "mods/!mixinbooter-10.7.jar",
       "hashes": {
-        "sha512": "a71dd51da4c44f934c12b7d329b3480df0829266fe3d936f348868b6095007d635f9b1aa65639031ee8500e7c36c1b3607e82e0fc7dc64be5990b14795ae02bc",
-        "sha1": "3fdfffe4fd446461ea9c3cb044484588997b9dbc"
+        "sha1": "3fdfffe4fd446461ea9c3cb044484588997b9dbc",
+        "sha512": "a71dd51da4c44f934c12b7d329b3480df0829266fe3d936f348868b6095007d635f9b1aa65639031ee8500e7c36c1b3607e82e0fc7dc64be5990b14795ae02bc"
       },
       "env": {
         "client": "required",
@@ -94,6 +79,81 @@
         "https://cdn.modrinth.com/data/G1ckZuWK/versions/PZYBy1vc/%21mixinbooter-10.7.jar"
       ],
       "fileSize": 2383999
+    },
+    {
+      "path": "mods/Nothirium-1.12.2-0.4.9-beta.jar",
+      "hashes": {
+        "sha1": "b70d60e9ebd5e84962c4ddd6abfd2bbde178cafb",
+        "sha512": "c7101c7bc166ac1a4824c038643b9052194a36d23ba492f6f1b965b8165c2214b2adb3ec57ed738b067d67c37588c54ba7309123eb8dd0edce97e7e679433941"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IhV0znaZ/versions/s9WsUXE1/Nothirium-1.12.2-0.4.9-beta.jar"
+      ],
+      "fileSize": 208286
+    },
+    {
+      "path": "mods/Alfheim-1.6.jar",
+      "hashes": {
+        "sha512": "0911b09fa949ac29d998437322e28fbc66f5230ed1de9d69c7d27dd44afb5aa864e108bfcacee8097069b3e47bc5891ce80f941f1d611872ed19b24ab41192a5",
+        "sha1": "15aaa39a13e18ab2f29456b25fd9732da1949329"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/srzJgOEn/versions/CbatFFab/Alfheim-1.6.jar"
+      ],
+      "fileSize": 70512
+    },
+    {
+      "path": "mods/naughthirium-2.3.0.jar",
+      "hashes": {
+        "sha1": "9280f1ece1bb509bb573de3b956d102152f06e6b",
+        "sha512": "4cc80d443cd79d56fd174af53fb53de8892bf50fd0faafa8be19d77da3a3d23d81a54667796ca38c3325812e1ecc29f7a8e44acbf8c9c5889c73dafd7bd96e02"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Iz4aO7EX/versions/2sWye0EG/naughthirium-2.3.0.jar"
+      ],
+      "fileSize": 61250
+    },
+    {
+      "path": "mods/!improved-relauncher-0.3.6.jar",
+      "hashes": {
+        "sha512": "94fc52f7a9eeff76be45f6b671fab3b33a25dea42a9f676f6ee293d935eb375a61b7eb3deb93c75e7f5c12999ebea7a519022e0d541609d9c35199b1d3b371c4",
+        "sha1": "929e6b38ad2b781ea5893d635e536411bad0060b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/RPniVkER/versions/Qg8HVGx1/%21improved-relauncher-0.3.6.jar"
+      ],
+      "fileSize": 402234
+    },
+    {
+      "path": "mods/particleculling-1.12.2-v1.4.3.jar",
+      "hashes": {
+        "sha1": "2c4847ca6c7cf1d41ff320943394ff61028c7e72",
+        "sha512": "127870b83a0124988e127a43b952d994cae781d2cbf6885ec0c4daa27ec16a72a33e5bdc30f7f2cf7f962ed9ff2a4dbdd86ffcd6a4a5ed731b74523f4fa10f5d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/l7imhLoC/versions/kwzcEeSC/particleculling-1.12.2-v1.4.3.jar"
+      ],
+      "fileSize": 17450
     },
     {
       "path": "mods/entityculling-1.12.2-1.6.3.jar",
@@ -111,34 +171,19 @@
       "fileSize": 41478
     },
     {
-      "path": "mods/!Red-Core-MC-1.8-1.12-0.7.jar",
+      "path": "mods/!Red-Core-MC-1.8-1.12-0.7.1.jar",
       "hashes": {
-        "sha1": "ff2fde42c10fae1e127f024463dd965004627ce4",
-        "sha512": "ee9b3a2a18249379c23e3b2a50c192befd152db2458d9ca5e2474056a8e6f878d147c9b8974da4b5f75f86cb90ac0ed4dcc3b5fd660be34c968a2464ee9e638f"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/iRzbJEus/versions/8Tb3a0kK/%21Red-Core-MC-1.8-1.12-0.7.jar"
-      ],
-      "fileSize": 149366
-    },
-    {
-      "path": "mods/particleculling-1.12.2-v1.4.3.jar",
-      "hashes": {
-        "sha1": "2c4847ca6c7cf1d41ff320943394ff61028c7e72",
-        "sha512": "127870b83a0124988e127a43b952d994cae781d2cbf6885ec0c4daa27ec16a72a33e5bdc30f7f2cf7f962ed9ff2a4dbdd86ffcd6a4a5ed731b74523f4fa10f5d"
+        "sha1": "d272efd0c807908138edbac8e6cb2d90127ac01a",
+        "sha512": "8b79ce7ff3c7e1a02e2738c7d2200c34f36e3009234606a69f8c1b5dab805d8d742823e04064d155f477d8c4a97aecc0fc9367b90f2416fa841be77ccc2d4b07"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/l7imhLoC/versions/kwzcEeSC/particleculling-1.12.2-v1.4.3.jar"
+        "https://cdn.modrinth.com/data/iRzbJEus/versions/Y54POAPw/%21Red-Core-MC-1.8-1.12-0.7.1.jar"
       ],
-      "fileSize": 17450
+      "fileSize": 149374
     },
     {
       "path": "mods/gnetum-1.3.4.jar",
@@ -162,62 +207,17 @@
         "sha1": "2a19c174eb4989d7ca33e6fcc543f44158ae8949"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/WfPGKC8F/versions/40q9Yeit/Born%20In%20A%20Barn%201.8-1.12-1.2.jar"
       ],
       "fileSize": 4847
-    },
-    {
-      "path": "mods/!improved-relauncher-0.3.6.jar",
-      "hashes": {
-        "sha512": "94fc52f7a9eeff76be45f6b671fab3b33a25dea42a9f676f6ee293d935eb375a61b7eb3deb93c75e7f5c12999ebea7a519022e0d541609d9c35199b1d3b371c4",
-        "sha1": "929e6b38ad2b781ea5893d635e536411bad0060b"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/RPniVkER/versions/Qg8HVGx1/%21improved-relauncher-0.3.6.jar"
-      ],
-      "fileSize": 402234
-    },
-    {
-      "path": "mods/_MixinBootstrap-1.1.0.jar",
-      "hashes": {
-        "sha1": "f9173708d3d2850ab8df778b9594b81cb94b1df8",
-        "sha512": "973aeff50dd8e1976895d36917e3f06334dc70800dfbd12639e522fb2b71e130db3865fd67d494e2d13e2ca67efe76ecfc3ee60d138e880dc884ac9f82c35eb8"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/6a16628x/versions/hOGSWOX8/_MixinBootstrap-1.1.0.jar"
-      ],
-      "fileSize": 1119478
-    },
-    {
-      "path": "mods/naughthirium-2.3.0.jar",
-      "hashes": {
-        "sha512": "4cc80d443cd79d56fd174af53fb53de8892bf50fd0faafa8be19d77da3a3d23d81a54667796ca38c3325812e1ecc29f7a8e44acbf8c9c5889c73dafd7bd96e02",
-        "sha1": "9280f1ece1bb509bb573de3b956d102152f06e6b"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Iz4aO7EX/versions/2sWye0EG/naughthirium-2.3.0.jar"
-      ],
-      "fileSize": 61250
     }
   ],
   "dependencies": {
-    "forge": "14.23.5.2864",
-    "minecraft": "1.12.2"
+    "minecraft": "1.12.2",
+    "forge": "14.23.5.2864"
   }
 }
