@@ -35,7 +35,7 @@ body:
 - type: dropdown
   attributes:
     label: Channel Type
-    description: Can be found on the Modrinth page of the mod.
+    description: Can be found on the Modrinth / CurseForge page of the mod.
     options:
     - Release
     - Beta
@@ -47,7 +47,7 @@ body:
 - type: dropdown
   attributes:
     label: License
-    description: Located on the sidebar of the Modrinth page / GitHub repository of the mod.
+    description: Located on the sidebar of the Modrinth / CurseForge page or the GitHub repository of the mod.
     options:
     - All Rights Reserved (ARR)
     - Other
