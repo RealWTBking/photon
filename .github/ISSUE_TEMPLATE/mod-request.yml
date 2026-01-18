@@ -18,6 +18,14 @@ body:
 
 - type: input
   attributes:
+    label: CurseForge link
+    description: Paste the URL to the CurseForge page of the mod.
+    placeholder: https://www.curseforge.com/minecraft/mc-mods/...
+  validations:
+    required: false
+
+- type: input
+  attributes:
     label: GitHub link
     description: Paste the URL to the GitHub repository of the mod.
     placeholder: https://github.com/...
