@@ -14,6 +14,20 @@ body:
     description: What Launcher are you using Photon with?
     options:
     - Modrinth
+    - CurseForge
+    - Prism
+    - Vanilla
+    - Other
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: Distribution
+    description: What Platform did you install Photon from?
+    options:
+    - Modrinth
+    - CurseForge
     - Other
   validations:
     required: true
