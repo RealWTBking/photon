@@ -1,70 +1,10 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.1.1",
+  "versionId": "1.1.2",
   "name": "Photon",
   "summary": "",
   "files": [
-    {
-      "path": "mods/ImmediatelyFast-NeoForge-1.5.4+1.20.4.jar",
-      "hashes": {
-        "sha512": "47ac299850dd969a71634d37df7d314b9cf36b8d02e652fcaa29166ea2e8aef4ff93574949c44d97d22d54710959a428c07e9f4fe94a0b94fc72622a92dff1b5",
-        "sha1": "bc4daa79bf95e7bb058d7e42042e07a1d0be8229"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/wTyzrWRz/ImmediatelyFast-NeoForge-1.5.4%2B1.20.4.jar"
-      ],
-      "fileSize": 378440
-    },
-    {
-      "path": "mods/modernfix-forge-5.18.6+mc1.20.1.jar",
-      "hashes": {
-        "sha512": "44da78ddb960472de86023d43691ad22771eb9d197e72e1b5d5ba58e01a6b83dbb4d0e1b27e566fb7fc24ee484ecba035f4832dab42cd03194912107b1f35d00",
-        "sha1": "ace6243d0985d1cb56a6156e0f1903dd72542586"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/QroNBg6X/modernfix-forge-5.18.6%2Bmc1.20.1.jar"
-      ],
-      "fileSize": 774844
-    },
-    {
-      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
-      "hashes": {
-        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9",
-        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
-      ],
-      "fileSize": 1320675
-    },
-    {
-      "path": "mods/ferritecore-6.0.1-forge.jar",
-      "hashes": {
-        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
-        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
-      ],
-      "fileSize": 123034
-    },
     {
       "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
       "hashes": {
@@ -94,10 +34,70 @@
         "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar"
       ],
       "fileSize": 218152
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "hashes": {
+        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 1320675
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.5.4+1.20.4.jar",
+      "hashes": {
+        "sha1": "bc4daa79bf95e7bb058d7e42042e07a1d0be8229",
+        "sha512": "47ac299850dd969a71634d37df7d314b9cf36b8d02e652fcaa29166ea2e8aef4ff93574949c44d97d22d54710959a428c07e9f4fe94a0b94fc72622a92dff1b5"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/wTyzrWRz/ImmediatelyFast-NeoForge-1.5.4%2B1.20.4.jar"
+      ],
+      "fileSize": 378440
+    },
+    {
+      "path": "mods/modernfix-forge-5.18.6+mc1.20.1.jar",
+      "hashes": {
+        "sha512": "44da78ddb960472de86023d43691ad22771eb9d197e72e1b5d5ba58e01a6b83dbb4d0e1b27e566fb7fc24ee484ecba035f4832dab42cd03194912107b1f35d00",
+        "sha1": "ace6243d0985d1cb56a6156e0f1903dd72542586"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/QroNBg6X/modernfix-forge-5.18.6%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 774844
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "hashes": {
+        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+      ],
+      "fileSize": 123034
     }
   ],
   "dependencies": {
-    "minecraft": "1.20.1",
-    "neoforge": "47.1.106"
+    "neoforge": "47.1.106",
+    "minecraft": "1.20.1"
   }
 }
