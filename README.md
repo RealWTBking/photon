@@ -30,8 +30,7 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
 | MC Version | Fabric | Forge | NeoForge | Quilt |
 |------------|:------:|:-----:|:--------:|:-----:|
 | 1.21.11    |   ✅  |   ❌  |    ✅   |   ✅  |
-| 1.21.10    |   ✅  |   ❌  |    ✅   |   ✅  |
-| 1.21.5-8   |   ⚠️  |   ❌  |    ⚠️   |   ⚠️  |
+| 1.21.5-10  |   ⚠️  |   ❌  |    ⚠️   |   ⚠️  |
 | 1.21.4     |   ⚠️  |   ❌  |    ⚠️   |   ❌  |
 | 1.21.1     |   ✅  |   ❌  |    ✅   |   ✅  |
 | 1.20.6     |   ⚠️  |   ❌  |    ⚠️   |   ⚠️  |
