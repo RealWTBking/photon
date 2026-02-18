@@ -522,7 +522,7 @@
     <summary><img src="neoforge-logo.png" style="vertical-align:middle; display:inline;">NeoForge</summary>
     <div style="padding-left:1rem;">
     <details>
-    <summary>1.21.11 (Beta)</summary>
+    <summary>1.21.11</summary>
         <ul>
             <li><a href="https://modrinth.com/mod/badoptimizations">BadOptimizations</a> by <a href="https://modrinth.com/user/thosea">thosea</a></li>
             <li><a href="https://modrinth.com/mod/cloth-config">Cloth Config API</a> by <a href="https://modrinth.com/user/shedaniel">shedaniel</a></li>
@@ -535,6 +535,7 @@
             <li><a href="https://modrinth.com/mod/modernfix-mvus">ModernFix-mVUS</a> by <a href="https://modrinth.com/user/Coredex">Coredex</a></li>
             <li><a href="https://modrinth.com/mod/moreculling">More Culling</a> by <a href="https://modrinth.com/user/FX">FX</a></li>
             <li><a href="https://modrinth.com/mod/noisumforked">NoisiumForked</a> by <a href="https://modrinth.com/user/Coredex">Coredex</a></li>
+            <li><a href="https://modrinth.com/mod/scalablelux">ScalableLux</a> by <a href="https://modrinth.com/user/ishland">ishland</a></li>
             <li><a href="https://modrinth.com/mod/sodium">Sodium</a> by <a href="https://modrinth.com/user/jellysquid3">jellysquid3</a></li>
         </ul>
     </details>
@@ -695,7 +696,7 @@
     <summary><img src="quilt-logo.png" style="vertical-align:middle; display:inline;">Quilt</summary>
     <div style="padding-left:1rem;">
     <details>
-        <summary>1.21.11 (Beta)</summary>
+        <summary>1.21.11</summary>
         <ul>
             <li><a href="https://modrinth.com/mod/badoptimizations">BadOptimizations</a> by <a href="https://modrinth.com/user/thosea">thosea</a></li>
             <li><a href="https://modrinth.com/mod/cloth-config">Cloth Config API</a> by <a href="https://modrinth.com/user/shedaniel">shedaniel</a></li>
