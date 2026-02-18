@@ -1,39 +1,24 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.1.4",
+  "versionId": "1.1.5",
   "name": "Photon",
   "summary": "",
   "files": [
     {
-      "path": "mods/modernfix-forge-5.18.0+mc1.16.5.jar",
+      "path": "mods/radon-0.8.0a.jar",
       "hashes": {
-        "sha512": "5db2515339eb1727ec5cb232ca560f0ef689348319a5bb1f2c7e4df1ec4fb2077363c5a00929b98abc2dd4e94c76b4b729b4940602cf9fb778c5e002a9a46ad9",
-        "sha1": "bd020d379e36ed8a2568fa76d998aff265cb57bb"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/Cc0b1kXl/modernfix-forge-5.18.0%2Bmc1.16.5.jar"
-      ],
-      "fileSize": 867079
-    },
-    {
-      "path": "mods/ferritecore-2.1.1-forge.jar",
-      "hashes": {
-        "sha512": "129eaec4743214258ed2f426192eba65f8268697fd37a0fc67f868d22b2eaea4d60d8e29100b034a00347672f830f3c4a4a3a94d2307d02f60c00ff4bd27f6a7",
-        "sha1": "3ae8dbe663156a8dec621d255856356444586905"
+        "sha1": "e5ebad2ad51f119c37dd48f0851b3f19f0cbaa4c",
+        "sha512": "c645e8c767cedb96852127cb5a8e1fa9972d78dda465393a70b321e2a4496140bce942eee988528793401c682f871ee49ec8d8bdfd42c9d3fea11312857ff603"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/6gwDuh90/ferritecore-2.1.1-forge.jar"
+        "https://cdn.modrinth.com/data/4AiJdRfV/versions/nlueRs6L/radon-0.8.0a.jar"
       ],
-      "fileSize": 108557
+      "fileSize": 104388
     },
     {
       "path": "mods/embeddium-0.3.18+mc1.16.5.jar",
@@ -51,29 +36,14 @@
       "fileSize": 806163
     },
     {
-      "path": "mods/radon-0.8.0a.jar",
-      "hashes": {
-        "sha512": "c645e8c767cedb96852127cb5a8e1fa9972d78dda465393a70b321e2a4496140bce942eee988528793401c682f871ee49ec8d8bdfd42c9d3fea11312857ff603",
-        "sha1": "e5ebad2ad51f119c37dd48f0851b3f19f0cbaa4c"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/4AiJdRfV/versions/nlueRs6L/radon-0.8.0a.jar"
-      ],
-      "fileSize": 104388
-    },
-    {
       "path": "mods/saturn-mc1.16.5-0.0.3.jar",
       "hashes": {
         "sha1": "369084c7781b208982fc1a957ffdfcdbd3059de1",
         "sha512": "c9f47fd235866d4316a76b02136203e592bb298ebafcccfc52444abbeb0e77d414250ad1c05a924c698cf33708ce2f1dfb24c240d1e87c7b7313a21e84e20cfc"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "server": "required",
+        "client": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/2eT495vq/versions/1Sxd3Dfx/saturn-mc1.16.5-0.0.3.jar"
@@ -81,29 +51,59 @@
       "fileSize": 20845
     },
     {
-      "path": "mods/Ixeris-3.8.6+1.16.5-forge.jar",
+      "path": "mods/modernfix-forge-5.18.0+mc1.16.5.jar",
       "hashes": {
-        "sha512": "ca8e7cdd6914d42bdc2d908755210d73f8e7cf57e36edf6b5ea357aefc5799e97615f2fb6db53804b7257238d81eb6065f43e2b2ba49e007a5d6e0298f9df40d",
-        "sha1": "5f32b0d7a4d0aa1a86e7afa94492105adb2f6c8c"
+        "sha1": "bd020d379e36ed8a2568fa76d998aff265cb57bb",
+        "sha512": "5db2515339eb1727ec5cb232ca560f0ef689348319a5bb1f2c7e4df1ec4fb2077363c5a00929b98abc2dd4e94c76b4b729b4940602cf9fb778c5e002a9a46ad9"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/Cc0b1kXl/modernfix-forge-5.18.0%2Bmc1.16.5.jar"
+      ],
+      "fileSize": 867079
+    },
+    {
+      "path": "mods/ferritecore-2.1.1-forge.jar",
+      "hashes": {
+        "sha1": "3ae8dbe663156a8dec621d255856356444586905",
+        "sha512": "129eaec4743214258ed2f426192eba65f8268697fd37a0fc67f868d22b2eaea4d60d8e29100b034a00347672f830f3c4a4a3a94d2307d02f60c00ff4bd27f6a7"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/p8RJPJIC/versions/J3o7rZnw/Ixeris-3.8.6%2B1.16.5-forge.jar"
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/6gwDuh90/ferritecore-2.1.1-forge.jar"
       ],
-      "fileSize": 1517280
+      "fileSize": 108557
     },
     {
-      "path": "mods/entityculling-forge-mc1.16.5-1.5.2.jar",
+      "path": "mods/Ixeris-4.0.1+1.16.5-forge.jar",
       "hashes": {
-        "sha512": "90d9f430d17701ab41276d5f970f078192e7ef87e57f6d1ca7dcb0710ab5a19c07c5bd9762e1ab5cb4cd46aa391d3ecdadbae405936bb563264ee9155f2fa0bc",
-        "sha1": "01a838e9fc804dee41fca6045012569fc5df42ce"
+        "sha1": "b7bb2c32402d62b88bbfc2c679c0ea1fd281c091",
+        "sha512": "e271e7ee0375fc51d2f5f0daaa9a14d14e14a20dc3d1470ce07bb863f3e7da05d8d2897f3f14395dc565f2ae1d38915ab42de51dede2c1a08a5d1de1322a8b2c"
       },
       "env": {
         "server": "required",
         "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/p8RJPJIC/versions/zsimSCNE/Ixeris-4.0.1%2B1.16.5-forge.jar"
+      ],
+      "fileSize": 1559305
+    },
+    {
+      "path": "mods/entityculling-forge-mc1.16.5-1.5.2.jar",
+      "hashes": {
+        "sha1": "01a838e9fc804dee41fca6045012569fc5df42ce",
+        "sha512": "90d9f430d17701ab41276d5f970f078192e7ef87e57f6d1ca7dcb0710ab5a19c07c5bd9762e1ab5cb4cd46aa391d3ecdadbae405936bb563264ee9155f2fa0bc"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-forge-1.16/entityculling-forge-mc1.16.5-1.5.2.jar"
@@ -112,7 +112,7 @@
     }
   ],
   "dependencies": {
-    "minecraft": "1.16.5",
-    "forge": "36.2.42"
+    "forge": "36.2.42",
+    "minecraft": "1.16.5"
   }
 }
