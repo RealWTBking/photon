@@ -1,19 +1,19 @@
 <!--Head-->
 <div align=center>
 
-<img src="photon-logo.png"></img>
+<img src="assets/photon-logo.png"></img>
 
 # Photon
 
 Minecraft optimization framework prioritizing performance, simplicity, and compatibility. 1.7.10-1.21.11 across Fabric, Forge, NeoForge, and Quilt!
 
-[![PhotonMC](github-link.svg)](https://github.com/RealWTBking/photon)
-[![Read the Wiki](wiki-link.svg)](https://github.com/RealWTBking/photon/wiki)
+[![PhotonMC](assets/github-link.svg)](https://github.com/RealWTBking/photon)
+[![Read the Wiki](assets/wiki-link.svg)](https://github.com/RealWTBking/photon/wiki)
 
-[![Mod Request](modrequest-link.svg)](https://github.com/RealWTBking/photon/issues/new?template=mod-request.yml)
-[![Bug Report](bugreport-link.svg)](https://github.com/RealWTBking/photon/issues/new?template=bug-report.yml)
+[![Mod Request](assets/modrequest-link.svg)](https://github.com/RealWTBking/photon/issues/new?template=mod-request.yml)
+[![Bug Report](assets/bugreport-link.svg)](https://github.com/RealWTBking/photon/issues/new?template=bug-report.yml)
 
-[![Modlist](modlist-link.svg)](https://github.com/RealWTBking/photon/blob/main/MODLIST.md)
+[![Modlist](assets/modlist-link.svg)](https://github.com/RealWTBking/photon/blob/main/MODLIST.md)
 
 </div>
 
@@ -22,7 +22,7 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
 <!--Download-->
 ## Download
 
-[![Modrinth](modrinth-link.svg)](https://modrinth.com/modpack/phtn)
+[![Modrinth](assets/modrinth-link.svg)](https://modrinth.com/modpack/phtn)
 
 <!--Compatibility-->
 ## Compatibility
