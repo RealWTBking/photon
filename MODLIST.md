@@ -6,7 +6,7 @@
 
 <!-- Fabric -->
 <details>
-    <summary><img src="fabric-logo.png" style="vertical-align:middle; display:inline;">Fabric</summary>
+    <summary><img src="assets/fabric-logo.png" style="vertical-align:middle; display:inline;">Fabric</summary>
     <div style="padding-left:1rem;">
     <details>
         <summary>26.1 (Beta)</summary>
@@ -327,7 +327,7 @@
 
 <!-- Forge-->
 <details>
-    <summary><img src="forge-logo.png" style="vertical-align:middle; display:inline;">Forge</summary>
+    <summary><img src="assets/forge-logo.png" style="vertical-align:middle; display:inline;">Forge</summary>
     <div style="padding-left:1rem;">
     <details>
         <summary>1.20.1</summary>
@@ -537,7 +537,7 @@
 
 <!-- NeoForge -->
 <details>
-    <summary><img src="neoforge-logo.png" style="vertical-align:middle; display:inline;">NeoForge</summary>
+    <summary><img src="assets/neoforge-logo.png" style="vertical-align:middle; display:inline;">NeoForge</summary>
     <div style="padding-left:1rem;">
     <details>
     <summary>1.21.11</summary>
@@ -711,7 +711,7 @@
 
 <!-- Quilt -->
 <details>
-    <summary><img src="quilt-logo.png" style="vertical-align:middle; display:inline;">Quilt</summary>
+    <summary><img src="assets/quilt-logo.png" style="vertical-align:middle; display:inline;">Quilt</summary>
     <div style="padding-left:1rem;">
     <details>
         <summary>1.21.11</summary>
