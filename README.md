@@ -35,7 +35,7 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
 | 1.21.4     |   ⚠️  |   ❌  |    ⚠️   |   ❌  |
 | 1.21.1     |   ✅  |   ❌  |    ✅   |   ✅  |
 | 1.20.6     |   ⚠️  |   ❌  |    ⚠️   |   ⚠️  |
-| 1.20.4     |   ✅  |   ❌  |    ✅   |   ✅  |
+| 1.20.4     |   ⚠️  |   ❌  |    ⚠️   |   ⚠️  |
 | 1.20.1     |   ✅  |   ✅  |    ✅   |   ✅  |
 | 1.19.4     |   ✅  |   ✅  |    ❌   |   ✅  |
 | 1.18.2     |   ✅  |   ✅  |    ❌   |   ✅  |
