@@ -1,0 +1,10 @@
+{
+	"version": 1,
+	"overrides": {
+		"badoptimizations": {
+			"depends": {
+				"minecraft": "26.1.1"
+			}
+		}
+	}
+}
