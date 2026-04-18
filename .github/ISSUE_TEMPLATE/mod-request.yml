@@ -10,7 +10,7 @@ body:
 
 - type: input
   attributes:
-    label: Modrinth link
+    label: Modrinth Link
     description: Paste the URL to the Modrinth page of the mod.
     placeholder: https://modrinth.com/mod/...
   validations:
@@ -18,9 +18,17 @@ body:
 
 - type: input
   attributes:
-    label: GitHub link
+    label: GitHub Link
     description: Paste the URL to the GitHub repository of the mod.
     placeholder: https://github.com/...
+  validations:
+    required: false
+
+- type: input
+  attributes:
+    label: Alternate Source link
+    description: Paste the URL to an alternate Git Host (GitLab, Codeberg, etc.)
+    placeholder: https://codeberg.org/...
   validations:
     required: false
 
