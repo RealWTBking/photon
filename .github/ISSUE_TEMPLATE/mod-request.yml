@@ -26,7 +26,7 @@ body:
 
 - type: input
   attributes:
-    label: Alternate Source link
+    label: Alternate Source Link
     description: Paste the URL to an alternate Git Host (GitLab, Codeberg, etc.)
     placeholder: https://codeberg.org/...
   validations:
