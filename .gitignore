@@ -1,4 +1,6 @@
-*.exe
+# Modpack Exports
 *.mrpack
-*.rar
 *.zip
+
+# System Tests
+demo/*
