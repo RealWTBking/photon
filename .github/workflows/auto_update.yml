@@ -33,8 +33,8 @@ jobs:
           go-version: 'stable'
 
       - name: Install packwiz
-        # Source: 0_byte's fork with automatic rate limit handling for API calls
-        run: go install github.com/0byte-coding/packwiz@d56237991d8a63212f8d1b343dbf01ef9ec89947
+        # Source: Maintained fork of '0_byte/packwiz' (Modrinth API rate limit handling) with merged commits from upstream ('packwiz/packwiz')
+        run: go install github.com/RealWTBking/packwiz@91ef80f643979e854227e8ba83c8acd43b1d1595
 
       - name: Add Go bin to PATH
         run: echo "$HOME/go/bin" >> $GITHUB_PATH
