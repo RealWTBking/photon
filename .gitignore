@@ -2,5 +2,8 @@
 *.mrpack
 *.zip
 
+# Raw Jars
+*.jar
+
 # System Tests
 demo/*
