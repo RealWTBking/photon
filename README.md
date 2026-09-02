@@ -7,13 +7,13 @@
 
 Minecraft optimization framework prioritizing performance, simplicity, and compatibility. 1.7.10-26.1.2 across Fabric, Forge, NeoForge, and Quilt!
 
-[![PhotonMC](assets/github-link.svg)](https://github.com/RealWTBking/photon)
-[![Read the Wiki](assets/wiki-link.svg)](https://github.com/RealWTBking/photon/wiki)
+[![PhotonMC](assets/github-link.svg)](https://github.com/westinbrooks/photon)
+[![Read the Wiki](assets/wiki-link.svg)](https://github.com/westinbrooks/photon/wiki)
 
-[![Mod Request](assets/modrequest-link.svg)](https://github.com/RealWTBking/photon/issues/new?template=mod-request.yml)
-[![Bug Report](assets/bugreport-link.svg)](https://github.com/RealWTBking/photon/issues/new?template=bug-report.yml)
+[![Mod Request](assets/modrequest-link.svg)](https://github.com/westinbrooks/photon/issues/new?template=mod-request.yml)
+[![Bug Report](assets/bugreport-link.svg)](https://github.com/westinbrooks/photon/issues/new?template=bug-report.yml)
 
-[![Modlist](assets/modlist-link.svg)](https://github.com/RealWTBking/photon/blob/main/MODLIST.md)
+[![Modlist](assets/modlist-link.svg)](https://github.com/westinbrooks/photon/blob/main/MODLIST.md)
 
 </div>
 
@@ -55,8 +55,8 @@ Photon is a client-side modpack that dramatically improves performance on Minecr
 ⚠️ = Previously Supported
 ❌ = Not Supported
 
-**Note: These statuses are subject to change in relation to demand. You may request support for a Minecraft version [here](https://github.com/RealWTBking/photon/issues/new?template=version-request.yml).**
+**Note: These statuses are subject to change in relation to demand. You may request support for a Minecraft version [here](https://github.com/westinbrooks/photon/issues/new?template=version-request.yml).**
 
 ---
 
-***For benchmarks, credits, and an installation guide—including for preexisting modpacks—please visit the [wiki](https://github.com/RealWTBking/photon/wiki)!***
+***For benchmarks, credits, and an installation guide—including for preexisting modpacks—please visit the [wiki](https://github.com/westinbrooks/photon/wiki)!***
